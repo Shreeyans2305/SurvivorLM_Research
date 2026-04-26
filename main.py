@@ -3,44 +3,58 @@ from fastapi.responses import StreamingResponse, HTMLResponse
 from pydantic import BaseModel
 from contextlib import asynccontextmanager
 import os, json
-
+ 
 MODEL_PATH = os.environ.get("MODEL_PATH", "/app/models/survival-q4_k_m.gguf")
 HF_REPO    = os.environ.get("HF_REPO",   "Shreyy2305/survival-gguf")
 GGUF_FILE  = os.environ.get("GGUF_FILE", "survival-q4_k_m.gguf")
 HF_TOKEN   = os.environ.get("HF_TOKEN",  None)
-
-SYSTEM_PROMPT = """You are SurvivalGuide, an expert survival assistant trained to help \
-people in emergency and disaster situations. You provide clear, practical, actionable \
-advice on power outages, water shortages, natural disasters, wilderness survival, \
-first aid, and emergency preparedness. If you don't know the answer, say you don't know instead of guessing. \
-Provide empathy and encouragement. \
-When asked who you are, say "I am SurvivalGuide, your practical survival assistant. I'm here to help you with clear, actionable advice for emergencies and disasters." \
-When asked if you have been trained on any specific data, say "I was trained on a wide range of survival guides, emergency manuals, and expert advice from reputable sources like the Red Cross, CDC, WHO, FEMA, and established survival experts to provide you with reliable information." \
-When asked who created you, say "I am a Gemma model, fine-tuned by Shreeyans Vichare trained on a diverse dataset of survival information to assist you in emergencies." \
-
-Rules:
-1. Only answers questions related to survival, emergencies, and disasters — do not provide general advice or information on unrelated topics.
-2. Lead every response with the single most critical action first
-3. Be very concise and direct — people in emergencies need fast answers
-4. Match response length to question complexity. A simple one-line question gets a one-paragraph answer. Never pad or repeat yourself. Stop when the answer is complete.
-5. Flag anything life-threatening with WARNING at the start
-6. If someone needs emergency services, say so in the first sentence
-7. Never give specific medication dosage advice — direct to medical professionals
-8. When uncertain, say so and give the safest conservative option
-9. Only provide answers based on widely accepted best practices from reputable sources like the Red Cross, CDC, WHO, FEMA, and established survival experts — do not give advice based on fringe theories or unproven techniques.
-"""
-
+ 
+# ── System prompt ─────────────────────────────────────────────────────────────
+# Injected into the FIRST user turn, not as a separate system message.
+# This is necessary because Gemma 4 processes instructions best when they
+# appear inside the conversation turns, not in a separate system role.
+SYSTEM_PROMPT = """You are SurvivalGuide — a practical, no-nonsense emergency survival assistant.
+You were fine-tuned by Shreeyans Vichare on survival guides, emergency manuals, and expert field advice from the Red Cross, FEMA, CDC, WHO, and wilderness survival experts.
+ 
+YOUR IDENTITY (answer these questions exactly as written):
+- If asked "who are you" or "what are you": Say "I'm SurvivalGuide, a survival and emergency assistant fine-tuned from Gemma 4. I'm built to give you fast, practical guidance when it matters most."
+- If asked "who created you" or "who made you": Say "I was built by Shreeyans Vichare, fine-tuned from Google's Gemma 4 model using survival and emergency response data."
+- If asked about your training data: Say "I was trained on survival guides, emergency manuals, and expert advice from sources like the Red Cross, FEMA, CDC, and wilderness survival experts."
+- Never say you are "a large language model trained by Google" — that is your base model, not your identity.
+ 
+YOUR RULES:
+1. SCOPE: Only answer questions about survival, emergencies, disasters, first aid, and preparedness. For anything unrelated, say "I'm only able to help with survival and emergency topics."
+2. PRIORITY: Always lead with the single most critical action. What must the person do RIGHT NOW?
+3. BREVITY: Match length to complexity. A simple question gets a short answer. Never repeat yourself or pad responses.
+4. WARNINGS: Start with "⚠️ WARNING:" for anything life-threatening.
+5. EMERGENCY SERVICES: If the situation requires 911/112, say so in your very first sentence.
+6. MEDICAL: Never give specific medication dosages. Direct to medical professionals or poison control.
+7. HONESTY: If uncertain, say so and give the safest conservative option.
+8. SOURCES: Only give advice based on established best practices. No fringe theories.
+9. TONE: Calm, clear, empathetic. People using this are scared. Steady them.
+ 
+FORMAT YOUR RESPONSES:
+- Use **bold** for the most critical terms and actions
+- Use numbered lists for step-by-step procedures
+- Use bullet points for options or items
+- Keep paragraphs short — 2-3 sentences maximum
+- Never use jargon without explaining it"""
+ 
+ 
+# ── Model ──────────────────────────────────────────────────────────────────────
 llm = None
-
+ 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     global llm
     try:
         from llama_cpp import Llama
-
+ 
         if os.path.exists(MODEL_PATH):
             model_path = MODEL_PATH
+            print(f"Loading model from: {model_path}")
         else:
+            print("Downloading model from HuggingFace...")
             from huggingface_hub import hf_hub_download
             model_path = hf_hub_download(
                 repo_id=HF_REPO,
@@ -48,89 +62,132 @@ async def lifespan(app: FastAPI):
                 token=HF_TOKEN,
                 local_dir="/tmp/models",
             )
-
+            print(f"Downloaded to: {model_path}")
+ 
         llm = Llama(
             model_path=model_path,
             n_ctx=2048,
             n_threads=int(os.environ.get("N_THREADS", "4")),
             n_gpu_layers=0,
             verbose=False,
-            chat_format="gemma",
+            # No chat_format — we handle prompt construction manually
+            # to ensure Gemma 4 actually reads the system instructions
         )
         print("✅ Model ready")
-
+ 
     except Exception as e:
         print(f"❌ Model load failed: {e}")
-
+ 
     yield
     llm = None
-
-
+ 
+ 
 app = FastAPI(lifespan=lifespan)
-
+ 
+ 
+# ── Health ─────────────────────────────────────────────────────────────────────
 @app.get("/health")
 def health():
     return {"status": "ready" if llm else "loading"}
-
+ 
 @app.get("/favicon.ico")
 def favicon():
     from fastapi.responses import Response
     return Response(status_code=204)
-
-
+ 
+ 
+# ── Chat ───────────────────────────────────────────────────────────────────────
 class ChatRequest(BaseModel):
     message: str
     history: list = []
-
-
+ 
+ 
+def build_messages(history: list, current_message: str) -> list:
+    """
+    Build the messages array for llama.cpp, injecting the system prompt
+    into the FIRST user turn.
+ 
+    Gemma 4 ignores a standalone 'system' role message in many llama.cpp
+    configurations. Embedding the instructions in the first user turn
+    guarantees the model reads them before generating any response.
+ 
+    Structure:
+      Turn 1 user:  <SYSTEM_PROMPT>\n\nUser: <first question>
+      Turn 1 model: <first answer>
+      Turn 2 user:  <second question>
+      ...
+      Final user:   <current question>
+    """
+    messages = []
+ 
+    if history:
+        # First historical turn — prepend system prompt
+        first_user_content = f"{SYSTEM_PROMPT}\n\nUser: {history[0][0]}"
+        messages.append({"role": "user",      "content": first_user_content})
+        messages.append({"role": "assistant", "content": history[0][1]})
+ 
+        # Remaining history turns — no system prompt prefix needed
+        for turn in history[1:]:
+            if len(turn) == 2:
+                messages.append({"role": "user",      "content": turn[0]})
+                messages.append({"role": "assistant", "content": turn[1]})
+ 
+        # Current message
+        messages.append({"role": "user", "content": current_message})
+ 
+    else:
+        # No history — system prompt goes into this first message
+        first_user_content = f"{SYSTEM_PROMPT}\n\nUser: {current_message}"
+        messages.append({"role": "user", "content": first_user_content})
+ 
+    return messages
+ 
+ 
 def get_max_tokens(message: str) -> int:
+    """Scale response length to question complexity."""
     words = len(message.split())
     if words < 10:
-        return 150    # one-liners, quick facts
+        return 150    # quick one-liners
     elif words < 25:
         return 300    # short situational questions
     elif words < 50:
-        return 512    # moderate detail needed
+        return 512    # moderate detail
     else:
-        return 1024   # complex, multi-part scenarios
-
-
+        return 1024   # complex multi-part scenarios
+ 
+ 
 @app.post("/chat")
 def chat(req: ChatRequest):
     if llm is None:
         def not_ready():
-            yield f"data: {json.dumps({'token': 'Model loading...'})}\n\n"
+            yield f"data: {json.dumps({'token': 'Model is still loading — please wait a moment and try again.'})}\n\n"
             yield "data: [DONE]\n\n"
         return StreamingResponse(not_ready(), media_type="text/event-stream")
-
-    messages = [{"role": "system", "content": SYSTEM_PROMPT}]
-    for turn in req.history:
-        if len(turn) == 2:
-            messages.append({"role": "user", "content": turn[0]})
-            messages.append({"role": "assistant", "content": turn[1]})
-    messages.append({"role": "user", "content": req.message})
-
+ 
+    messages   = build_messages(req.history, req.message)
     max_tokens = get_max_tokens(req.message)
-
+ 
     def generate():
         try:
             stream = llm.create_chat_completion(
                 messages=messages,
                 temperature=0.3,
                 max_tokens=max_tokens,
+                stop=["<end_of_turn>", "<eos>", "User:", "\nUser:"],
                 stream=True,
             )
             for chunk in stream:
                 choice = chunk["choices"][0]
-                delta = choice["delta"].get("content", "")
+                delta  = choice["delta"].get("content", "")
                 if delta:
                     yield f"data: {json.dumps({'token': delta})}\n\n"
                 if choice.get("finish_reason") == "length":
-                    yield f"data: {json.dumps({'token': '\n\n*[Response truncated — ask for more detail if needed]*'})}\n\n"
+                    note = "\n\n*[Response truncated — ask for more detail if needed]*"
+                    yield f"data: {json.dumps({'token': note})}\n\n"
         except Exception as e:
             yield f"data: {json.dumps({'token': f'Error: {str(e)}'})}\n\n"
         yield "data: [DONE]\n\n"
-
+ 
     return StreamingResponse(generate(), media_type="text/event-stream")
 
 
