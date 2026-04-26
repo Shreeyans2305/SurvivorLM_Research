@@ -115,218 +115,646 @@ def chat(req: ChatRequest):
 
 HTML = """
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
 <title>SurvivorLM</title>
-
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Noto+Serif:wght@400;600&family=Public+Sans:wght@400&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Lora:ital,wght@0,400;0,600;1,400&family=DM+Sans:wght@400;500;600&display=swap" rel="stylesheet">
 <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-
 <style>
-:root {
-  --primary: #094cb2;
-  --gold: #6d5e00;
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
-  --surface-1: #f8fafc;
-  --surface-2: #eef2f7;
-  --surface-3: #e3e8ef;
-  --surface-4: #d8dee8;
-
-  --text: #0f172a;
-}
-
-body {
-  margin: 0;
-  font-family: Inter, sans-serif;
-  background: var(--surface-2);
-  color: var(--text);
-  display: flex;
-  flex-direction: column;
-  height: 100vh;
-}
-
-/* HEADER */
-header {
-  backdrop-filter: blur(20px);
-  background: rgba(255,255,255,0.8);
-  padding: 18px 32px;
-  display: flex;
-  align-items: center;
-  gap: 12px;
-  font-family: "Public Sans", sans-serif;
-}
-
-header h1 {
-  font-family: "Noto Serif", serif;
-  font-size: 1.4rem;
-  margin: 0;
-}
-
-#limit {
-  margin-left: auto;
-  font-size: 0.75rem;
-  opacity: 0.6;
-}
-
-/* CHAT */
-#chat {
-  flex: 1;
-  overflow-y: auto;
-  padding: 40px;
-  display: flex;
-  flex-direction: column;
-  gap: 22px;
-}
-
-.msg {
-  max-width: 760px;
-  padding: 18px 22px;
-  border-radius: 16px;
-  line-height: 1.75;
-}
-
-/* USER */
-.user {
-  align-self: flex-end;
-  background: linear-gradient(135deg, #094cb2, #3b82f6);
-  color: white;
-}
-
-/* BOT */
-.bot {
-  background: var(--surface-1);
-}
-
-/* TYPOGRAPHY */
-.bot h1, .bot h2, .bot h3 {
-  font-family: "Noto Serif", serif;
-}
-
-.bot p {
-  margin: 10px 0;
-}
-
-.bot ul {
-  padding-left: 20px;
-}
-
-/* INPUT */
-footer {
-  padding: 24px;
-  background: var(--surface-3);
-  display: flex;
-  gap: 12px;
-}
-
-textarea {
-  flex: 1;
-  border-radius: 12px;
-  padding: 14px;
-  font-size: 0.95rem;
-  border: none;
-  outline: none;
-  font-family: Inter;
-}
-
-textarea:focus {
-  box-shadow: 0 0 0 2px var(--primary);
-}
-
-/* BUTTON */
-button {
-  background: linear-gradient(135deg, #094cb2, #2563eb);
-  border: none;
-  color: white;
-  padding: 12px 20px;
-  border-radius: 12px;
-  cursor: pointer;
-  font-weight: 500;
-}
-
-button:disabled {
-  opacity: 0.5;
-}
-</style>
-</head>
-
-<body>
-
-<header>
-  <h1>SurvivalLM</h1>
-  <span id="limit"></span>
-</header>
-
-<div id="chat"></div>
-
-<footer>
-<textarea id="input" rows="2" placeholder="Describe your situation..."></textarea>
-<button onclick="send()">Ask</button>
-</footer>
-
-<script>
-let history = [];
-
-/* LIMIT */
-function key(){ return new Date().toISOString().slice(0,10); }
-function usage(){ return JSON.parse(localStorage.getItem(key())||"0"); }
-function inc(){ localStorage.setItem(key(), usage()+1); update(); }
-function update(){ document.getElementById("limit").textContent = usage()+"/10"; }
-update();
-
-/* UI */
-function add(text, role){
-  const d=document.createElement("div");
-  d.className="msg "+role;
-  d.innerHTML = role==="bot" ? marked.parse(text) : text;
-  chat.appendChild(d);
-  chat.scrollTop=999999;
-  return d;
-}
-
-/* SEND */
-async function send(){
-  if(usage()>=10){ alert("Daily limit reached"); return; }
-
-  const i=document.getElementById("input");
-  const msg=i.value.trim();
-  if(!msg) return;
-  i.value="";
-
-  add(msg,"user");
-  const bot=add("...","bot");
-
-  inc();
-
-  const res=await fetch("/chat",{
-    method:"POST",
-    headers:{"Content-Type":"application/json"},
-    body:JSON.stringify({message:msg,history})
-  });
-
-  const reader=res.body.getReader();
-  const decoder=new TextDecoder();
-  let full="";
-
-  while(true){
-    const {done,value}=await reader.read();
-    if(done) break;
-
-    for(const line of decoder.decode(value).split("\\n")){
-      if(line.startsWith("data: ") && line!=="data: [DONE]"){
-        const {token}=JSON.parse(line.slice(6));
-        full+=token;
-        bot.innerHTML = marked.parse(full);
-      }
-    }
+  :root {
+    --sand:    #f5f0e8;
+    --sand-2:  #ede7d9;
+    --sand-3:  #e0d8c8;
+    --bark:    #3a2e20;
+    --bark-2:  #5c4a32;
+    --moss:    #3d5c3a;
+    --moss-2:  #527a4e;
+    --ember:   #c0392b;
+    --amber:   #c97a2a;
+    --text:    #1e1810;
+    --text-2:  #4a3f30;
+    --text-3:  #7a6a55;
+    --white:   #fdfaf5;
+    --radius:  14px;
+    --mono:    'IBM Plex Mono', monospace;
+    --serif:   'Lora', Georgia, serif;
+    --sans:    'DM Sans', sans-serif;
   }
 
-  history.push([msg,full]);
+  html, body {
+    height: 100%;
+    background: var(--sand);
+    color: var(--text);
+    font-family: var(--sans);
+    font-size: 15px;
+    line-height: 1.6;
+  }
+
+  /* ── LAYOUT ────────────────────────────── */
+  #app {
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+    height: 100vh;
+    max-width: 860px;
+    margin: 0 auto;
+  }
+
+  /* ── HEADER ────────────────────────────── */
+  header {
+    padding: 20px 28px 18px;
+    border-bottom: 1.5px solid var(--sand-3);
+    background: var(--white);
+    display: flex;
+    align-items: center;
+    gap: 14px;
+  }
+
+  .logo-mark {
+    width: 36px;
+    height: 36px;
+    background: var(--bark);
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+  }
+
+  .logo-mark svg {
+    width: 20px;
+    height: 20px;
+    fill: var(--sand);
+  }
+
+  .header-text {
+    flex: 1;
+  }
+
+  .header-text h1 {
+    font-family: var(--serif);
+    font-size: 1.15rem;
+    font-weight: 600;
+    color: var(--bark);
+    letter-spacing: -0.01em;
+    line-height: 1.2;
+  }
+
+  .header-text p {
+    font-size: 0.72rem;
+    color: var(--text-3);
+    font-family: var(--mono);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin-top: 2px;
+  }
+
+  .header-actions {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+  }
+
+  #limit-badge {
+    font-family: var(--mono);
+    font-size: 0.72rem;
+    color: var(--text-3);
+    background: var(--sand-2);
+    border: 1px solid var(--sand-3);
+    padding: 4px 10px;
+    border-radius: 20px;
+  }
+
+  .hf-link {
+    font-family: var(--mono);
+    font-size: 0.72rem;
+    color: var(--moss);
+    text-decoration: none;
+    border: 1.5px solid var(--moss-2);
+    padding: 5px 11px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    transition: background 0.15s, color 0.15s;
+    white-space: nowrap;
+  }
+
+  .hf-link:hover {
+    background: var(--moss);
+    color: var(--white);
+  }
+
+  .hf-link svg {
+    width: 13px;
+    height: 13px;
+  }
+
+  /* ── CHAT AREA ─────────────────────────── */
+  #chat {
+    overflow-y: auto;
+    padding: 32px 28px;
+    display: flex;
+    flex-direction: column;
+    gap: 28px;
+    background: var(--sand);
+  }
+
+  /* Scrollbar */
+  #chat::-webkit-scrollbar { width: 5px; }
+  #chat::-webkit-scrollbar-track { background: transparent; }
+  #chat::-webkit-scrollbar-thumb { background: var(--sand-3); border-radius: 10px; }
+
+  /* Empty state */
+  #empty {
+    margin: auto;
+    text-align: center;
+    padding: 40px 20px;
+    max-width: 440px;
+    animation: fadeUp 0.5s ease both;
+  }
+
+  #empty .empty-icon {
+    width: 56px;
+    height: 56px;
+    background: var(--bark);
+    border-radius: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto 20px;
+  }
+
+  #empty .empty-icon svg {
+    width: 28px;
+    height: 28px;
+    fill: var(--sand);
+  }
+
+  #empty h2 {
+    font-family: var(--serif);
+    font-size: 1.35rem;
+    color: var(--bark);
+    margin-bottom: 10px;
+  }
+
+  #empty p {
+    font-size: 0.88rem;
+    color: var(--text-3);
+    line-height: 1.7;
+    margin-bottom: 24px;
+  }
+
+  .starters {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
+    text-align: left;
+  }
+
+  .starter {
+    background: var(--white);
+    border: 1.5px solid var(--sand-3);
+    border-radius: 10px;
+    padding: 12px 14px;
+    font-size: 0.82rem;
+    color: var(--text-2);
+    cursor: pointer;
+    transition: border-color 0.15s, box-shadow 0.15s;
+    font-family: var(--sans);
+    text-align: left;
+  }
+
+  .starter:hover {
+    border-color: var(--bark-2);
+    box-shadow: 0 2px 8px rgba(58,46,32,0.1);
+  }
+
+  .starter strong {
+    display: block;
+    color: var(--bark);
+    font-weight: 600;
+    margin-bottom: 2px;
+    font-size: 0.8rem;
+  }
+
+  /* ── MESSAGES ──────────────────────────── */
+  .message-row {
+    display: flex;
+    gap: 14px;
+    align-items: flex-start;
+    animation: fadeUp 0.3s ease both;
+  }
+
+  .message-row.user {
+    flex-direction: row-reverse;
+  }
+
+  .avatar {
+    width: 32px;
+    height: 32px;
+    border-radius: 9px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    margin-top: 2px;
+  }
+
+  .avatar.bot-avatar {
+    background: var(--bark);
+  }
+
+  .avatar.bot-avatar svg {
+    width: 18px;
+    height: 18px;
+    fill: var(--sand);
+  }
+
+  .avatar.user-avatar {
+    background: var(--moss);
+    font-family: var(--mono);
+    font-size: 0.7rem;
+    color: var(--white);
+    font-weight: 500;
+  }
+
+  .bubble {
+    max-width: 680px;
+    padding: 16px 20px;
+    border-radius: var(--radius);
+    line-height: 1.75;
+    font-size: 0.93rem;
+  }
+
+  .message-row.user .bubble {
+    background: var(--bark);
+    color: var(--sand);
+    border-bottom-right-radius: 4px;
+  }
+
+  .message-row.bot .bubble {
+    background: var(--white);
+    color: var(--text);
+    border: 1px solid var(--sand-3);
+    border-bottom-left-radius: 4px;
+  }
+
+  /* Markdown inside bot bubble */
+  .bubble h1, .bubble h2, .bubble h3 {
+    font-family: var(--serif);
+    color: var(--bark);
+    margin: 14px 0 6px;
+  }
+
+  .bubble h1 { font-size: 1.1rem; }
+  .bubble h2 { font-size: 1rem; }
+  .bubble h3 { font-size: 0.95rem; }
+
+  .bubble p { margin: 8px 0; }
+  .bubble p:first-child { margin-top: 0; }
+  .bubble p:last-child { margin-bottom: 0; }
+
+  .bubble ul, .bubble ol {
+    padding-left: 18px;
+    margin: 8px 0;
+  }
+
+  .bubble li { margin: 4px 0; }
+
+  .bubble strong { color: var(--bark); }
+
+  .bubble code {
+    font-family: var(--mono);
+    font-size: 0.83em;
+    background: var(--sand-2);
+    padding: 1px 5px;
+    border-radius: 4px;
+  }
+
+  /* WARNING highlight */
+  .bubble p:has(> strong:first-child) {
+    padding: 10px 14px;
+    background: #fff4f3;
+    border-left: 3px solid var(--ember);
+    border-radius: 0 8px 8px 0;
+    margin: 10px 0;
+  }
+
+  /* Thinking dots */
+  .thinking {
+    display: flex;
+    gap: 5px;
+    padding: 6px 4px;
+    align-items: center;
+  }
+
+  .thinking span {
+    width: 7px;
+    height: 7px;
+    background: var(--sand-3);
+    border-radius: 50%;
+    animation: pulse 1.2s ease-in-out infinite;
+  }
+
+  .thinking span:nth-child(2) { animation-delay: 0.2s; }
+  .thinking span:nth-child(3) { animation-delay: 0.4s; }
+
+  @keyframes pulse {
+    0%, 80%, 100% { transform: scale(0.8); opacity: 0.4; }
+    40% { transform: scale(1.2); opacity: 1; }
+  }
+
+  @keyframes fadeUp {
+    from { opacity: 0; transform: translateY(10px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+
+  /* ── INPUT AREA ────────────────────────── */
+  footer {
+    background: var(--white);
+    border-top: 1.5px solid var(--sand-3);
+    padding: 16px 24px 20px;
+  }
+
+  .input-wrap {
+    display: flex;
+    align-items: flex-end;
+    gap: 10px;
+    background: var(--sand);
+    border: 1.5px solid var(--sand-3);
+    border-radius: var(--radius);
+    padding: 10px 12px 10px 16px;
+    transition: border-color 0.15s, box-shadow 0.15s;
+  }
+
+  .input-wrap:focus-within {
+    border-color: var(--bark-2);
+    box-shadow: 0 0 0 3px rgba(58,46,32,0.08);
+  }
+
+  textarea {
+    flex: 1;
+    border: none;
+    background: transparent;
+    font-family: var(--sans);
+    font-size: 0.93rem;
+    color: var(--text);
+    resize: none;
+    outline: none;
+    max-height: 140px;
+    line-height: 1.6;
+  }
+
+  textarea::placeholder { color: var(--text-3); }
+
+  #send-btn {
+    background: var(--bark);
+    border: none;
+    color: var(--sand);
+    width: 36px;
+    height: 36px;
+    border-radius: 9px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    transition: background 0.15s, transform 0.1s;
+  }
+
+  #send-btn:hover:not(:disabled) { background: var(--bark-2); }
+  #send-btn:active:not(:disabled) { transform: scale(0.93); }
+  #send-btn:disabled { opacity: 0.4; cursor: not-allowed; }
+
+  #send-btn svg { width: 17px; height: 17px; fill: currentColor; }
+
+  .footer-note {
+    text-align: center;
+    font-size: 0.7rem;
+    color: var(--text-3);
+    margin-top: 10px;
+    font-family: var(--mono);
+  }
+
+  /* ── RESPONSIVE ────────────────────────── */
+  @media (max-width: 600px) {
+    header { padding: 14px 16px; }
+    #chat { padding: 20px 16px; }
+    footer { padding: 12px 16px 16px; }
+    .starters { grid-template-columns: 1fr; }
+    .hf-link span { display: none; }
+    .header-text p { display: none; }
+  }
+</style>
+</head>
+<body>
+<div id="app">
+
+  <!-- HEADER -->
+  <header>
+    <div class="logo-mark">
+      <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+        <path d="M12 2L2 7v10l10 5 10-5V7L12 2zm0 2.18L20 8.5v7L12 19.82 4 15.5v-7L12 4.18zM12 6l-5 2.5v5L12 16l5-2.5v-5L12 6zm0 2l3 1.5v3L12 14l-3-1.5v-3L12 8z"/>
+      </svg>
+    </div>
+    <div class="header-text">
+      <h1>SurvivorLM</h1>
+      <p>Emergency Field Assistant · Fine-tuned</p>
+    </div>
+    <div class="header-actions">
+      <span id="limit-badge">0 / 10 today</span>
+      <a class="hf-link" href="https://huggingface.co/Shreyy2305/survival-gguf/tree/main" target="_blank" rel="noopener">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>
+          <polyline points="7 10 12 15 17 10"/>
+          <line x1="12" y1="15" x2="12" y2="3"/>
+        </svg>
+        <span>Run offline</span>
+      </a>
+    </div>
+  </header>
+
+  <!-- CHAT -->
+  <div id="chat">
+    <div id="empty">
+      <div class="empty-icon">
+        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+          <path d="M12 2L2 7v10l10 5 10-5V7L12 2zm0 2.18L20 8.5v7L12 19.82 4 15.5v-7L12 4.18zM12 6l-5 2.5v5L12 16l5-2.5v-5L12 6zm0 2l3 1.5v3L12 14l-3-1.5v-3L12 8z"/>
+        </svg>
+      </div>
+      <h2>What's your situation?</h2>
+      <p>Describe your emergency or preparedness question. I'll give you the single most important action first — fast and clear.</p>
+      <div class="starters">
+        <button class="starter" onclick="fillAndSend(this)">
+          <strong>Power outage</strong>
+          We've lost power for 3+ hours. What should I do first?
+        </button>
+        <button class="starter" onclick="fillAndSend(this)">
+          <strong>Wilderness lost</strong>
+          I'm lost in the woods without cell signal. Help.
+        </button>
+        <button class="starter" onclick="fillAndSend(this)">
+          <strong>Water shortage</strong>
+          No running water. How do I make water safe to drink?
+        </button>
+        <button class="starter" onclick="fillAndSend(this)">
+          <strong>Earthquake prep</strong>
+          What should be in a 72-hour emergency kit?
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- INPUT -->
+  <footer>
+    <div class="input-wrap">
+      <textarea id="input" rows="1" placeholder="Describe your situation or ask a survival question…"
+        onkeydown="handleKey(event)" oninput="autoResize(this)"></textarea>
+      <button id="send-btn" onclick="send()" title="Send">
+        <svg viewBox="0 0 24 24"><path d="M2.01 21L23 12 2.01 3 2 10l15 2-15 2z"/></svg>
+      </button>
+    </div>
+    <p class="footer-note">For life-threatening emergencies, call 112 / 911 immediately. &nbsp;·&nbsp; Daily limit: 10 messages</p>
+  </footer>
+
+</div>
+
+<script>
+marked.setOptions({ breaks: true, gfm: true });
+
+let history = [];
+let busy = false;
+
+/* ── USAGE ──────────────────────────────── */
+function storageKey() { return 'usage_' + new Date().toISOString().slice(0, 10); }
+function getUsage()   { return parseInt(localStorage.getItem(storageKey()) || '0', 10); }
+function incUsage()   { localStorage.setItem(storageKey(), getUsage() + 1); updateBadge(); }
+function updateBadge(){ document.getElementById('limit-badge').textContent = getUsage() + ' / 10 today'; }
+updateBadge();
+
+/* ── AUTO-RESIZE TEXTAREA ───────────────── */
+function autoResize(el) {
+  el.style.height = 'auto';
+  el.style.height = Math.min(el.scrollHeight, 140) + 'px';
+}
+
+/* ── KEYBOARD SHORTCUT ──────────────────── */
+function handleKey(e) {
+  if (e.key === 'Enter' && !e.shiftKey) { e.preventDefault(); send(); }
+}
+
+/* ── STARTER PROMPTS ────────────────────── */
+function fillAndSend(btn) {
+  const text = btn.querySelector('strong').nextSibling.textContent.trim();
+  document.getElementById('input').value = text;
+  autoResize(document.getElementById('input'));
+  send();
+}
+
+/* ── ADD MESSAGE ────────────────────────── */
+function addMessage(text, role) {
+  const empty = document.getElementById('empty');
+  if (empty) empty.remove();
+
+  const row = document.createElement('div');
+  row.className = 'message-row ' + role;
+
+  const avatar = document.createElement('div');
+  avatar.className = 'avatar ' + (role === 'bot' ? 'bot-avatar' : 'user-avatar');
+
+  if (role === 'bot') {
+    avatar.innerHTML = `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+      <path d="M12 2L2 7v10l10 5 10-5V7L12 2zm0 2.18L20 8.5v7L12 19.82 4 15.5v-7L12 4.18zM12 6l-5 2.5v5L12 16l5-2.5v-5L12 6zm0 2l3 1.5v3L12 14l-3-1.5v-3L12 8z"/>
+    </svg>`;
+  } else {
+    avatar.textContent = 'YOU';
+  }
+
+  const bubble = document.createElement('div');
+  bubble.className = 'bubble';
+
+  if (role === 'user') {
+    bubble.textContent = text;
+  } else if (text === '__thinking__') {
+    bubble.innerHTML = '<div class="thinking"><span></span><span></span><span></span></div>';
+  } else {
+    bubble.innerHTML = marked.parse(text);
+  }
+
+  row.appendChild(avatar);
+  row.appendChild(bubble);
+
+  const chat = document.getElementById('chat');
+  chat.appendChild(row);
+  chat.scrollTop = chat.scrollHeight;
+
+  return bubble;
+}
+
+/* ── SEND ───────────────────────────────── */
+async function send() {
+  if (busy) return;
+  if (getUsage() >= 10) { alert('Daily limit of 10 messages reached. Come back tomorrow.'); return; }
+
+  const input = document.getElementById('input');
+  const msg = input.value.trim();
+  if (!msg) return;
+
+  input.value = '';
+  input.style.height = 'auto';
+  busy = true;
+  document.getElementById('send-btn').disabled = true;
+
+  addMessage(msg, 'user');
+  const botBubble = addMessage('__thinking__', 'bot');
+
+  incUsage();
+
+  try {
+    const res = await fetch('/chat', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ message: msg, history })
+    });
+
+    const reader = res.body.getReader();
+    const decoder = new TextDecoder();
+    let full = '';
+    let started = false;
+
+    while (true) {
+      const { done, value } = await reader.read();
+      if (done) break;
+
+      const chunk = decoder.decode(value);
+      for (const line of chunk.split('\\n')) {
+        if (line.startsWith('data: ') && line !== 'data: [DONE]') {
+          try {
+            const { token } = JSON.parse(line.slice(6));
+            full += token;
+            if (!started) { started = true; }
+            botBubble.innerHTML = marked.parse(full);
+            document.getElementById('chat').scrollTop = 999999;
+          } catch (_) {}
+        }
+      }
+    }
+
+    history.push([msg, full]);
+
+  } catch (err) {
+    botBubble.innerHTML = '<em style="color:var(--ember)">Connection error. Please try again.</em>';
+  }
+
+  busy = false;
+  document.getElementById('send-btn').disabled = false;
+  input.focus();
 }
 </script>
-
 </body>
 </html>
 """
