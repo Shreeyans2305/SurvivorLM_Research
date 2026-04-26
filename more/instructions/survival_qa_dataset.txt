@@ -1,0 +1,1678 @@
+SURVIVAL AND FIRST-AID Q&A DATASET
+1000 Question-Answer Pairs for Emergency Situations
+
+=== WATER PROCUREMENT & PURIFICATION ===
+
+Q: What are the rule of threes in survival?
+A: You can survive 3 minutes without air, 3 hours without shelter in harsh conditions, 3 days without water, and 3 weeks without food.
+
+Q: How can I purify water by boiling?
+A: Bring water to a rolling boil for 1 minute at sea level, or 3 minutes above 6,500 feet elevation to kill pathogens.
+
+Q: What are signs of dehydration?
+A: Dark urine, dry mouth, dizziness, fatigue, decreased urination, sunken eyes, and rapid heartbeat.
+
+Q: How much water does a person need daily in survival?
+A: Minimum 2 liters per day for basic hydration, more in hot climates or with physical exertion.
+
+Q: Can I drink my own urine in an emergency?
+A: No. Urine contains waste products and salts that will dehydrate you further and can cause kidney damage.
+
+Q: How do I find water in the wilderness?
+A: Follow animal tracks downhill, look for green vegetation, check valley bottoms, listen for running water, and collect morning dew.
+
+Q: What is a solar still and how does it work?
+A: A hole covered with plastic that uses sun heat to evaporate moisture from soil/plants, which condenses on the plastic and drips into a container.
+
+Q: Can I safely drink rainwater?
+A: Yes, fresh rainwater is generally safe if collected directly and not from surfaces that may contaminate it.
+
+Q: How do I make a water filter from natural materials?
+A: Layer sand, charcoal, and gravel in a container with holes. Pour water through; this removes particles but not all pathogens.
+
+Q: What plants can indicate nearby water?
+A: Willows, cottonwoods, sycamores, cattails, and other water-loving plants indicate water within their root depth.
+
+Q: How can I collect dew for drinking?
+A: Tie absorbent cloth around ankles and walk through grass at dawn, then wring out water into a container.
+
+Q: Is snow a good water source?
+A: Yes, but melt it before consuming to avoid lowering body temperature and using excess energy.
+
+Q: How do I test if water is flowing or stagnant?
+A: Flowing water moves debris and is clearer; stagnant water has still surface, algae growth, and may smell.
+
+Q: What are chemical purification options for water?
+A: Iodine tablets, chlorine dioxide tablets, or household bleach (2 drops per liter, wait 30 minutes).
+
+Q: Can I drink from a cactus?
+A: Most cacti are toxic. Only barrel cactus in the Sonoran desert has drinkable liquid, but it's risky and not recommended.
+
+Q: How long can water purification tablets last?
+A: Unopened tablets last 4-5 years; once opened, use within months as effectiveness decreases with air exposure.
+
+Q: What is the survival priority order?
+A: Shelter, water, fire, food, and signaling for rescue.
+
+Q: How do I know if natural water needs purification?
+A: All natural water sources should be purified regardless of appearance; even clear streams can contain harmful pathogens.
+
+Q: Can I purify water with the sun?
+A: Yes, UV radiation in direct sunlight can purify water in clear plastic bottles after 6 hours of exposure (SODIS method).
+
+Q: What containers are safe for water storage?
+A: Food-grade plastic, stainless steel, or glass containers that can be sealed to prevent contamination.
+
+=== SHELTER CONSTRUCTION ===
+
+Q: What makes a good shelter location?
+A: Dry ground, protected from wind, near water but above flood level, away from dead trees and avalanche zones.
+
+Q: How do I build a debris hut?
+A: Create an A-frame with a ridgepole, add ribs, pile debris (leaves, grass) 2-3 feet thick for insulation.
+
+Q: What is a lean-to shelter?
+A: A simple shelter with a slanted roof supported by a horizontal ridgepole, open on one side, often facing away from wind.
+
+Q: How can I insulate my shelter?
+A: Use dry leaves, pine needles, grass, bark, or snow to create air pockets that trap body heat.
+
+Q: What is the purpose of a survival shelter?
+A: Protect from elements (wind, rain, cold, sun), maintain body temperature, and provide psychological comfort.
+
+Q: How do I build a snow cave?
+A: Dig into a snowdrift, create a tunnel entrance lower than the sleeping platform, smooth ceiling to prevent dripping.
+
+Q: What is hypothermia risk in wet clothing?
+A: Wet clothing conducts heat away 25 times faster than dry, rapidly causing dangerous body temperature drop.
+
+Q: Should I build shelter near a water source?
+A: Build close enough for access (10-15 minutes walk) but high enough to avoid flooding and insect concentration.
+
+Q: How small should a survival shelter be?
+A: Just large enough to lie down; smaller spaces conserve body heat better than large spaces.
+
+Q: What materials make the best natural insulation?
+A: Dry pine needles, leaves, grass, cattail down, and moss create air pockets for effective insulation.
+
+Q: How do I prevent carbon monoxide poisoning in a shelter?
+A: Ensure adequate ventilation, never seal a shelter completely if burning fire inside, keep fire near entrance.
+
+Q: What is a tarp shelter configuration?
+A: A-frame, lean-to, or flying diamond configurations using rope and stakes to create overhead protection.
+
+Q: How do I waterproof a natural shelter?
+A: Layer bark, large leaves (shingle style), or thick debris; ensure water runs off rather than through.
+
+Q: What direction should a shelter opening face?
+A: Away from prevailing winds, ideally east to catch morning sun while avoiding harsh afternoon heat.
+
+Q: Can I use pine boughs for shelter bedding?
+A: Yes, pine and spruce boughs make excellent insulating bedding when layered thick enough.
+
+Q: How do I build a raised sleeping platform?
+A: Create a frame with logs and fill with debris, or use suspended poles; this prevents ground cold transfer.
+
+Q: What is the quickest emergency shelter?
+A: A space blanket or tarp draped over a rope line or natural feature, secured with rocks or stakes.
+
+Q: How much debris insulation do I need for warmth?
+A: At least 2-3 feet thick on all sides including underneath to effectively insulate in cold conditions.
+
+Q: What are signs of a dangerous shelter location?
+A: Dead standing trees, animal dens, flash flood zones, avalanche paths, and insect nests nearby.
+
+Q: How do I make a shelter fire-safe?
+A: Keep fire away from combustible materials, create a rock barrier, ensure smoke ventilation, never leave unattended.
+
+=== FIRE BUILDING ===
+
+Q: What are the three elements needed for fire?
+A: Oxygen, heat, and fuel (tinder, kindling, and larger wood).
+
+Q: What is the best tinder for starting fires?
+A: Dry grass, birch bark, char cloth, dryer lint, pine needles, or wood shavings.
+
+Q: How do I start a fire with a bow drill?
+A: Create friction by rotating a spindle in a fireboard notch using a bow, collecting ember in tinder bundle.
+
+Q: What is the purpose of a fire reflector?
+A: Reflects heat back toward you and shelter, made from logs or rocks placed behind the fire.
+
+Q: Can I start a fire with wet wood?
+A: Split wet wood to access dry inner wood, use abundant tinder, and build a platform to keep initial fire off wet ground.
+
+Q: What is a Dakota fire hole?
+A: An underground fire pit with an air tunnel that burns efficiently, produces less smoke, and is concealed.
+
+Q: How do I make char cloth?
+A: Heat cotton fabric in a sealed tin with a small hole; fabric carbonizes without burning, creating excellent tinder.
+
+Q: What is feather sticking?
+A: Shaving thin curls from a stick while keeping them attached, creating excellent kindling that catches fire easily.
+
+Q: How do I build a fire in windy conditions?
+A: Dig a pit or create a wind break with rocks, build fire in a sheltered location, use a cross-hatch layout.
+
+Q: What woods are best for cooking fires?
+A: Hardwoods like oak, maple, hickory burn hot and long with good coals; avoid softwoods that spark and produce creosote.
+
+Q: Can I start a fire with a battery?
+A: Yes, touch steel wool or gum wrapper across battery terminals to create a spark that ignites tinder.
+
+Q: What is the log cabin fire lay?
+A: Stacking kindling in alternating perpendicular layers around tinder, allowing good airflow and even burning.
+
+Q: How do I start a fire with flint and steel?
+A: Strike steel against flint at sharp angle directing sparks into char cloth or tinder bundle.
+
+Q: What is a fire plow method?
+A: Rubbing a hardwood stick in a groove on a softer wood board to create friction and produce an ember.
+
+Q: Should I burn green wood?
+A: No, green wood doesn't burn well, creates excessive smoke, wastes energy, and produces creosote.
+
+Q: How do I preserve fire overnight?
+A: Bank fire with ashes and slow-burning logs, cover with soil leaving small air gaps, or use large hardwood logs.
+
+Q: What toxic woods should never be burned?
+A: Poison ivy, poison oak, oleander, yew, and any painted or treated wood release dangerous fumes.
+
+Q: How do I make waterproof matches?
+A: Dip match heads in melted wax or nail polish and let dry completely.
+
+Q: What is the teepee fire lay method?
+A: Arranging kindling in a cone shape over tinder, allowing heat to rise and ignite progressively larger pieces.
+
+Q: How can I tell if wood is dry enough to burn?
+A: Dry wood is lighter, cracks when bent, has loose bark, and makes a sharp crack when struck together.
+
+=== FOOD PROCUREMENT ===
+
+Q: What is the universal edibility test?
+A: Test unknown plants by: skin contact (15 min), lip contact (3 min), tongue (15 min), chew and spit (15 min), swallow small amount, wait 5 hours.
+
+Q: What wild plants are generally safe to eat?
+A: Dandelions (entire plant), cattails (roots and shoots), acorns (leached), wild onions (smell like onion), and berries following safety rules.
+
+Q: What is the rule for berry identification?
+A: White and yellow berries are almost always poisonous; 50% of red berries are poisonous; blue and black berries are mostly safe.
+
+Q: How do I prepare acorns for eating?
+A: Shell, grind, and leach in multiple water changes until water runs clear to remove bitter toxic tannins.
+
+Q: What insects are safe to eat?
+A: Grasshoppers, crickets, ants (without bright colors), termites, grubs, and earthworms when cooked.
+
+Q: How can I preserve meat without refrigeration?
+A: Smoke, salt, dry in thin strips (jerky), or freeze in cold climates.
+
+Q: What are signs of spoiled food?
+A: Foul odor, slimy texture, discoloration, mold growth, or unusual taste.
+
+Q: Can I eat fish raw in survival?
+A: Safer to cook, but if necessary, freshwater fish from cold, clean water are less risky; avoid bottom feeders.
+
+Q: What plants should I absolutely avoid?
+A: Mushrooms unless expert, plants with milky sap (except dandelion), umbrella-shaped flower clusters, and beans/seeds with bitter almond smell.
+
+Q: How do I make a simple fish trap?
+A: Create a funnel-shaped weave from branches in a stream, narrow end pointing upstream, so fish enter but can't exit.
+
+Q: What is a figure-4 deadfall trap?
+A: A triggered trap where a weight (rock/log) falls on prey when they disturb bait, using three sticks in a figure-4 configuration.
+
+Q: Are all fish safe to eat?
+A: Most are, but avoid pufferfish, fish with spines/bristles, bad smell, or those found dead without explanation.
+
+Q: How do I make a simple snare?
+A: Create a noose with wire or cordage along an animal trail, sized to target animal's head, secured to a stake or spring pole.
+
+Q: What is pine needle tea good for?
+A: Rich in vitamin C, helps prevent scurvy, provides hydration, and has mild antiseptic properties.
+
+Q: Can I eat grass?
+A: Humans can't digest grass, but you can chew young grass shoots for moisture and nutrients, then spit out pulp.
+
+Q: How do I identify edible mushrooms?
+A: Unless you're an expert, don't. Misidentification can be fatal; avoid all mushrooms in survival unless certain.
+
+Q: What parts of cattail are edible?
+A: Young shoots (asparagus-like), root/rhizome (starchy), pollen (flour substitute), and young flower heads.
+
+Q: How long can humans survive without food?
+A: Generally 3 weeks, though varies by individual health, hydration, and environmental conditions.
+
+Q: What is safe foraging distance from roads?
+A: At least 50 feet to avoid contamination from vehicle emissions, road salt, and pollutants.
+
+Q: How do I cook without containers?
+A: Hot rock boiling (add heated rocks to water in a vessel), clay wrapping, or direct coals for roots and meat.
+
+=== NAVIGATION & SIGNALING ===
+
+Q: How do I find direction using the sun?
+A: Sun rises east, sets west; at noon in Northern Hemisphere it's due south, in Southern Hemisphere due north.
+
+Q: What is the stick shadow method for navigation?
+A: Place stick upright, mark shadow tip, wait 15 minutes, mark again; line between marks runs east-west.
+
+Q: How can I use stars for navigation in Northern Hemisphere?
+A: Find Polaris (North Star) by following pointer stars of Big Dipper; Polaris indicates true north.
+
+Q: What are the universal distress signals?
+A: Three of anything: fires, whistle blasts, gunshots, or flashes of light.
+
+Q: How do I signal for rescue with a mirror?
+A: Reflect sunlight toward aircraft or searchers; sweep horizon even if no help visible; creates flash visible for miles.
+
+Q: What color is most visible for rescue?
+A: International orange, followed by bright yellow; avoid green and brown which blend with environment.
+
+Q: How do I create ground-to-air signals?
+A: Make large symbols with rocks, logs, or cleared areas: X (need medical help), V (need assistance), N (no/negative).
+
+Q: Can I navigate by moss growth on trees?
+A: Unreliable myth; moss grows where conditions are favorable, not consistently on one side.
+
+Q: What is the watch method for finding direction?
+A: Point hour hand at sun (Northern Hemisphere); halfway between hour hand and 12 is south.
+
+Q: How do I signal with fire at night?
+A: Create three fires in a triangle or straight line, spaced evenly, using green vegetation for smoke during day.
+
+Q: What does the Southern Cross constellation indicate?
+A: In Southern Hemisphere, extend long axis of cross 4.5 times, drop to horizon for approximate south.
+
+Q: How loud is a survival whistle?
+A: Quality whistles reach 100-120 decibels, audible up to 1 mile; requires less energy than shouting.
+
+Q: What is the rule for traveling when lost?
+A: Stay put if people know your location; if moving, follow water downstream or ridges, mark your trail.
+
+Q: How do I create a smoke signal?
+A: Add green leaves, grass, or damp materials to established fire to produce thick white smoke visible for miles.
+
+Q: Can I use a watch as a compass?
+A: Yes, using sun and hour hand method (Northern Hemisphere) or 12 and hour hand method (Southern Hemisphere).
+
+Q: What is the purpose of a signal mirror?
+A: Reflects sunlight to create bright flash visible up to 10-15 miles to aircraft and rescuers.
+
+Q: How do I navigate in whiteout conditions?
+A: Use compass if available, follow GPS, stay put if possible, or use wind direction with extreme caution.
+
+Q: What information should I leave at my starting point?
+A: Your route plan, expected return time, destination, and emergency contacts.
+
+Q: How do I attract attention without supplies?
+A: Create contrast (cleared areas, rock arrangements), use noise (banging, yelling), wave bright clothing.
+
+Q: What does SOS mean and how do I signal it?
+A: International distress signal: three short, three long, three short signals (light, sound, etc.); means "Save Our Souls."
+
+=== FIRST AID - BLEEDING & WOUNDS ===
+
+Q: How do I stop severe bleeding?
+A: Apply direct pressure with clean cloth, elevate wound above heart, apply pressure to pressure points if needed.
+
+Q: When should I use a tourniquet?
+A: Only for life-threatening extremity bleeding not controlled by direct pressure; note time applied.
+
+Q: How do I clean a wound without supplies?
+A: Flush with clean or boiled cooled water, remove debris, avoid touching wound with dirty hands.
+
+Q: What is the proper tourniquet placement?
+A: 2-3 inches above wound on limb, never on joint, tight enough to stop arterial bleeding completely.
+
+Q: How do I recognize arterial vs venous bleeding?
+A: Arterial: bright red, spurting with pulse. Venous: dark red, steady flow. Arterial is more dangerous.
+
+Q: Can I use super glue on wounds?
+A: Medical-grade cyanoacrylate yes, regular super glue works in emergency for small clean cuts, but not ideal.
+
+Q: How do I make improvised bandages?
+A: Clean cloth strips, t-shirt material, or duct tape for securing; boil fabric if possible to sterilize.
+
+Q: What is wound packing for deep injuries?
+A: Fill wound cavity with sterile gauze or clean cloth while maintaining pressure to control internal bleeding.
+
+Q: How do I treat a puncture wound?
+A: Don't remove impaled object, control bleeding, stabilize object, clean around wound, seek medical help.
+
+Q: What are signs of infected wound?
+A: Increased pain, redness, swelling, warmth, pus, red streaks, fever, and foul odor.
+
+Q: How often should I change wound dressings?
+A: Daily or when saturated with blood/fluid; check frequently for infection signs.
+
+Q: Can I use honey on wounds?
+A: Yes, medical-grade or raw honey has antibacterial properties and can prevent infection when other options unavailable.
+
+Q: What is the danger of removing impaled objects?
+A: Object may be plugging damaged blood vessels; removal can cause massive bleeding and worsen injury.
+
+Q: How do I treat a nosebleed?
+A: Sit upright, lean slightly forward, pinch soft part of nose for 10 minutes, apply cold compress to bridge.
+
+Q: What is hemostatic gauze?
+A: Special gauze with clotting agents that promotes rapid blood coagulation for severe bleeding control.
+
+Q: How do I control scalp bleeding?
+A: Apply firm direct pressure; scalp wounds bleed profusely but usually respond well to pressure.
+
+Q: What is the recovery position?
+A: Lying on side with upper leg bent, head tilted back to keep airway open; for unconscious breathing patients.
+
+Q: How do I make a pressure bandage?
+A: After controlling bleeding, wrap firmly (not cutting off circulation) and tie or tape to maintain pressure.
+
+Q: Can I cauterize a wound?
+A: Not recommended; causes severe tissue damage, infection risk, and extreme pain without reliable bleeding control.
+
+Q: What is normal blood loss appearance?
+A: Small amounts look like a lot; blood spreads and appears worse than actual volume lost.
+
+=== FIRST AID - FRACTURES & SPRAINS ===
+
+Q: How do I identify a fracture?
+A: Pain, swelling, deformity, inability to use limb, grinding sensation, or bone visible through skin.
+
+Q: What is the RICE method for sprains?
+A: Rest, Ice (or cold water), Compression (wrap), Elevation above heart level.
+
+Q: How do I splint a broken bone?
+A: Immobilize joint above and below fracture, pad splint, secure with bandages, check circulation frequently.
+
+Q: What materials can I use for splinting?
+A: Sticks, rolled newspaper, cardboard, trekking poles, or SAM splints; pad with cloth.
+
+Q: Should I straighten a deformed fracture?
+A: Only if necessary to restore circulation or apply splint; align gently with steady traction if needed.
+
+Q: What is an open fracture?
+A: Broken bone piercing through skin; high infection risk, requires immediate medical attention.
+
+Q: How do I check circulation after splinting?
+A: Check pulse below splint, skin color and temperature, sensation, and ability to move fingers/toes.
+
+Q: What is the sling and swathe technique?
+A: Arm sling supports forearm; swathe binds arm to chest for shoulder/collarbone injuries.
+
+Q: How tight should a splint be?
+A: Snug enough to immobilize but not restrict blood flow; should fit two fingers under bandages.
+
+Q: What are signs of compartment syndrome?
+A: Severe pain, numbness, pale or blue skin, weak pulse below injury; medical emergency requiring immediate release of constriction.
+
+Q: Can I give pain medication for fractures?
+A: Yes, over-the-counter pain relievers if available and no allergies; avoid aspirin for bleeding injuries.
+
+Q: How do I splint a suspected spinal injury?
+A: Don't move person unless in immediate danger; keep head, neck, and spine aligned; wait for professional help.
+
+Q: What is traction splinting used for?
+A: Femur fractures to reduce muscle spasm and pain; requires special training and equipment.
+
+Q: How do I improvise a cervical collar?
+A: Roll towel or clothing, wrap around neck snugly without choking, secure to restrict head movement.
+
+Q: What is the difference between sprain and strain?
+A: Sprain: torn/stretched ligament (connects bone to bone). Strain: torn/stretched muscle or tendon.
+
+Q: Should I remove jewelry from injured limb?
+A: Yes, immediately before swelling makes removal impossible and cuts off circulation.
+
+Q: How do I splint fingers?
+A: Buddy tape injured finger to adjacent finger with padding between, or use tongue depressor/stick.
+
+Q: What indicates successful splinting?
+A: Reduced pain, stabilized fracture, maintained circulation, no increased swelling.
+
+Q: Can I walk on a sprained ankle?
+A: Minor sprains possibly, but rest is better; severe sprains need immobilization and no weight bearing.
+
+Q: How long until a splint should be reassessed?
+A: Check circulation every 15-30 minutes initially, then hourly; adjust if swelling increases.
+
+=== FIRST AID - BURNS ===
+
+Q: What are the three degrees of burns?
+A: First: red skin. Second: blisters. Third: white/charred skin, may not hurt due to nerve damage.
+
+Q: How do I treat a first-degree burn?
+A: Cool with clean water (not ice) for 10-20 minutes, keep clean, apply aloe vera or burn cream if available.
+
+Q: Should I pop burn blisters?
+A: No, intact blisters protect against infection; if they break naturally, clean gently and cover.
+
+Q: How do I treat second-degree burns?
+A: Cool with water, don't break blisters, cover loosely with clean cloth, avoid ointments on severe burns.
+
+Q: What is the rule of nines for burns?
+A: Body divided into sections of 9%: head (9%), each arm (9%), chest (18%), back (18%), each leg (18%), groin (1%).
+
+Q: When is a burn a medical emergency?
+A: Third-degree burns, large area coverage, burns to face/hands/feet/genitals, electrical or chemical burns.
+
+Q: Can I use ice on burns?
+A: No, ice causes further tissue damage; use cool (not cold) running water.
+
+Q: How do I treat electrical burns?
+A: Ensure power source off, check breathing/pulse, treat entry and exit wounds, assume internal damage, get medical help.
+
+Q: What should I avoid putting on burns?
+A: Butter, oil, ice, egg whites, toothpaste, or any home remedies; these can worsen injury or cause infection.
+
+Q: How do I treat chemical burns?
+A: Brush off dry chemicals, flush with large amounts of water for 20+ minutes, remove contaminated clothing.
+
+Q: What is burn shock?
+A: Circulatory shock from severe burns causing fluid loss; symptoms include pale skin, rapid pulse, confusion.
+
+Q: How do I protect a burn from infection?
+A: Keep clean and covered with sterile dressing; change daily or when wet; watch for infection signs.
+
+Q: Can I use sunburn treatment on fire burns?
+A: Minor first-degree burns yes; more severe burns need different treatment and medical attention.
+
+Q: What is the correct burn dressing technique?
+A: Cover loosely with non-stick sterile gauze, secure without pressure, don't apply ointments to severe burns.
+
+Q: How do I treat grease or oil burns?
+A: Cool immediately with water (oils retain heat), remove clothing if not stuck, treat as thermal burn.
+
+Q: What fluid replacement is needed for severe burns?
+A: Clean water or electrolyte solution frequently; severe burns cause significant fluid loss requiring rehydration.
+
+Q: How do I recognize burn infection?
+A: Increased pain, redness spreading, swelling, pus, fever, red streaks from wound, foul smell.
+
+Q: Should I remove clothing from burned area?
+A: Remove if not stuck to skin; if stuck, cut around it and leave adherent portions for medical professionals.
+
+Q: What is the danger of circumferential burns?
+A: Burns completely around limb or chest can restrict circulation or breathing as they swell; needs immediate medical care.
+
+Q: How do I treat friction burns?
+A: Clean gently, apply antibiotic ointment if available, cover with non-stick dressing, similar to abrasion treatment.
+
+=== FIRST AID - ENVIRONMENTAL INJURIES ===
+
+Q: What are signs of hypothermia?
+A: Shivering, confusion, slurred speech, drowsiness, weak pulse, shallow breathing; severe: no shivering, unconsciousness.
+
+Q: How do I treat mild hypothermia?
+A: Move to warm area, remove wet clothing, wrap in dry blankets, warm beverages if conscious, no alcohol.
+
+Q: What is the treatment for severe hypothermia?
+A: Handle gently (rough movement can cause cardiac arrest), warm core first, warm drinks if conscious, seek medical help immediately.
+
+Q: What are signs of heat exhaustion?
+A: Heavy sweating, weakness, dizziness, nausea, headache, cool moist skin, fast weak pulse.
+
+Q: How do I treat heat exhaustion?
+A: Move to cool area, remove excess clothing, cool with wet cloths, small sips of water, elevate feet.
+
+Q: What is heat stroke?
+A: Body temperature above 103°F, hot dry skin, confusion, seizures, unconsciousness; life-threatening emergency.
+
+Q: How do I treat heat stroke?
+A: Cool person rapidly (water, wet sheets, fan), focus on head/neck/armpits/groin, seek immediate medical help.
+
+Q: What is frostbite?
+A: Frozen body tissue showing white/gray-yellow skin, numbness, hard or waxy feeling skin.
+
+Q: How do I treat frostbite?
+A: Gradually rewarm in warm water (98-105°F), don't rub, protect blisters, give pain medication, seek medical care.
+
+Q: What should I never do with frostbite?
+A: Don't use direct heat, rub snow on it, break blisters, or rewarm if refreezing possible.
+
+Q: How do I prevent dehydration in heat?
+A: Drink before thirsty, 1 cup every 15-20 minutes during activity, avoid alcohol and caffeine.
+
+Q: What is trench foot?
+A: Cold wet feet for prolonged periods causing tissue damage; symptoms include numbness, redness, pain, blisters.
+
+Q: How do I treat trench foot?
+A: Remove wet footwear, dry feet gently, elevate feet, avoid walking, gradually warm, don't massage.
+
+Q: What are signs of altitude sickness?
+A: Headache, nausea, dizziness, fatigue, shortness of breath, loss of appetite.
+
+Q: How do I treat altitude sickness?
+A: Stop ascending, rest, hydrate, descend if symptoms worsen, give oxygen if available.
+
+Q: What is HACE (High Altitude Cerebral Edema)?
+A: Severe altitude sickness with brain swelling; confusion, poor coordination, coma; immediate descent necessary.
+
+Q: What is HAPE (High Altitude Pulmonary Edema)?
+A: Fluid in lungs from altitude; severe shortness of breath, cough with frothy sputum, chest tightness; descend immediately.
+
+Q: How quickly should you descend with severe altitude sickness?
+A: Immediately, at least 1,000 feet or until symptoms improve; delay can be fatal.
+
+Q: What is wind chill effect?
+A: Wind increases heat loss making temperature feel colder; frostbite and hypothermia occur faster.
+
+Q: How do I layer clothing for cold weather?
+A: Base layer (moisture wicking), insulation layer (warmth), outer layer (wind/water protection).
+
+=== FIRST AID - BITES & STINGS ===
+
+Q: What do I do for a snake bite?
+A: Keep calm, immobilize limb below heart level, remove jewelry, clean wound, seek immediate medical help. Don't cut, suck, or tourniquet.
+
+Q: How do I identify a venomous snake bite?
+A: Two puncture wounds, severe pain, swelling, discoloration; non-venomous shows teeth marks, less severe symptoms.
+
+Q: What is the treatment for bee stings?
+A: Remove stinger by scraping (don't pinch), wash area, apply cold compress, take antihistamine for swelling.
+
+Q: What are signs of anaphylaxis?
+A: Difficulty breathing, swelling of throat/tongue, rapid pulse, dizziness, severe drop in blood pressure, hives.
+
+Q: How do I use an EpiPen?
+A: Remove safety cap, press firmly into outer thigh until click, hold 3 seconds, massage area, seek emergency care.
+
+Q: What is the treatment for tick bites?
+A: Remove tick with tweezers (grab near head, pull straight out), clean wound, save tick, watch for rash/fever.
+
+Q: How long should I watch for Lyme disease symptoms?
+A: Monitor for 30 days for bulls-eye rash, fever, headache, fatigue; seek medical care if symptoms appear.
+
+Q: What do I do for a spider bite?
+A: Wash wound, apply cold compress, elevate if possible, seek medical help if pain severe or spreading.
+
+Q: How do I treat jellyfish stings?
+A: Rinse with vinegar (or seawater), remove tentacles without touching, don't use freshwater, soak in hot water.
+
+Q: What is the treatment for scorpion stings?
+A: Wash area, apply cool compress, manage pain with medication, seek medical help especially for children or severe symptoms.
+
+Q: Can I treat a human bite the same as animal bite?
+A: Human bites carry high infection risk due to mouth bacteria; clean thoroughly, seek medical attention for antibiotics.
+
+Q: What do I do for a dog bite?
+A: Control bleeding, clean thoroughly with soap and water, apply antibiotic ointment, cover, seek medical care for deep bites.
+
+Q: Should I report animal bites to authorities?
+A: Yes, especially if rabies risk; animal must be observed or tested to rule out rabies.
+
+Q: What are signs of rabies exposure concern?
+A: Wild animal (especially bat, raccoon, skunk, fox) bite, unprovoked attack, animal acting strangely.
+
+Q: How do I treat fire ant bites?
+A: Brush ants off, wash with soap and water, apply cold compress, antihistamine for itching, watch for allergic reaction.
+
+Q: What is the treatment for Portuguese Man O' War stings?
+A: Rinse with salt water (not fresh), remove tentacles carefully, soak in hot water (45°C/113°F) for 20 minutes.
+
+Q: Can urine help with jellyfish stings?
+A: No, this is a myth; use vinegar or seawater instead.
+
+Q: What do I do for mosquito-borne disease prevention?
+A: Use repellent, wear long sleeves/pants, avoid dawn/dusk activity, remove standing water, use mosquito nets.
+
+Q: How do I recognize black widow spider bite?
+A: Target-shaped bite mark, muscle cramps, abdominal pain, sweating, nausea; venom affects nervous system.
+
+Q: How do I recognize brown recluse spider bite?
+A: Initially painless, develops into painful blister, surrounding redness, possible tissue death (necrosis).
+
+=== FIRST AID - MEDICAL EMERGENCIES ===
+
+Q: What is CPR compression rate?
+A: 100-120 compressions per minute, pushing hard and fast at least 2 inches deep on adult chest center.
+
+Q: What is the CPR compression to breath ratio?
+A: 30 compressions to 2 rescue breaths; continue until help arrives or person breathes.
+
+Q: How do I check for a pulse?
+A: Two fingers on carotid artery (side of neck) or radial artery (wrist thumb side) for 5-10 seconds.
+
+Q: What is the recovery position used for?
+A: Unconscious but breathing person; side-lying position keeps airway open and prevents choking on vomit.
+
+Q: How do I perform the Heimlich maneuver?
+A: Stand behind person, fist above navel, grasp fist with other hand, thrust inward and upward forcefully.
+
+Q: What do I do if Heimlich doesn't work?
+A: Continue thrusts, call for help, if person unconscious begin CPR, sweep mouth for object between breaths.
+
+Q: How do I treat someone in shock?
+A: Lay person down, elevate legs 12 inches, keep warm, don't give food/water, monitor breathing and pulse.
+
+Q: What are signs of shock?
+A: Pale/clammy skin, rapid weak pulse, rapid breathing, confusion, weakness, bluish lips.
+
+Q: How do I recognize a heart attack?
+A: Chest pressure/pain, arm/jaw/back pain, shortness of breath, nausea, cold sweat, unusual fatigue.
+
+Q: What do I do if someone is having a heart attack?
+A: Call emergency services, help them sit comfortably, loosen tight clothing, give aspirin if not allergic, monitor vitals.
+
+Q: How do I recognize a stroke?
+A: FAST: Face drooping, Arm weakness, Speech difficulty, Time to call emergency services immediately.
+
+Q: What is the treatment for a seizure?
+A: Protect from injury, cushion head, turn on side, time the seizure, don't restrain or put anything in mouth.
+
+Q: When is a seizure an emergency?
+A: Lasts over 5 minutes, multiple seizures, person injured, doesn't regain consciousness, first seizure, or pregnant.
+
+Q: How do I treat diabetic emergency when unsure if high or low blood sugar?
+A: If conscious, give sugar; high sugar won't harm immediately but low sugar is immediately dangerous.
+
+Q: What are signs of low blood sugar?
+A: Shakiness, sweating, confusion, rapid heartbeat, dizziness, hunger, irritability.
+
+Q: What are signs of high blood sugar?
+A: Excessive thirst, frequent urination, fatigue, blurred vision, fruity breath odor.
+
+Q: How do I treat an asthma attack?
+A: Help person sit upright, assist with inhaler, encourage slow deep breathing, call for help if no improvement.
+
+Q: What is anaphylactic shock timing?
+A: Can occur within minutes of exposure; immediate epinephrine administration critical for survival.
+
+Q: How do I treat severe allergic reaction without EpiPen?
+A: Call emergency services, keep person lying down, monitor breathing, CPR if needed; antihistamines help but aren't sufficient alone.
+
+Q: What is the universal choking sign?
+A: Hands clutched to throat, unable to speak or cough effectively, panicked expression.
+
+=== SURVIVAL MEDICINE ===
+
+Q: How do I make oral rehydration solution?
+A: Mix 6 teaspoons sugar and 1/2 teaspoon salt in 1 liter clean water; treats dehydration from diarrhea/vomiting.
+
+Q: What natural pain relievers exist?
+A: Willow bark (contains aspirin-like compounds), yarrow, meadowsweet; chew or make tea.
+
+Q: How do I treat diarrhea in survival?
+A: Hydrate with ORS, avoid solid food initially, blackberry leaf tea, activated charcoal if available.
+
+Q: What are signs of appendicitis?
+A: Pain starting near navel moving to lower right abdomen, fever, nausea, vomiting, inability to pass gas.
+
+Q: How do I improvise dental care?
+A: Rinse with salt water, use clean cloth for brushing, willow twig fibers as brush, clove oil for pain.
+
+Q: What is a dental abscess treatment in emergency?
+A: Rinse with warm salt water, cold compress outside, pain medication, seek medical care urgently for antibiotics.
+
+Q: How do I remove a fishhook?
+A: Push hook through until barb exits, cut barb off, back hook out. Or: string-yank method if barb not embedded deep.
+
+Q: What natural antibiotics exist?
+A: Honey (especially Manuka), garlic, oregano oil, goldenseal; not substitutes for medical antibiotics but can help.
+
+Q: How do I treat an eye injury?
+A: Don't rub, flush with clean water for chemicals, cover both eyes (reduces movement), seek medical help.
+
+Q: What do I do for a foreign object in the eye?
+A: Blink repeatedly, flush with water, pull upper lid over lower, don't rub; seek help if embedded.
+
+Q: How do I make a sling from a shirt?
+A: Button shirt, put arm inside, tie sleeves behind neck, or use triangular bandage from torn cloth.
+
+Q: What is the treatment for poison ivy/oak?
+A: Wash skin immediately with soap and water, apply cool compress, calamine lotion, antihistamine for itching.
+
+Q: How do I recognize dehydration severity?
+A: Mild: thirst, dark urine. Moderate: very dark urine, dry mouth, fatigue. Severe: no urination, confusion, rapid heart rate.
+
+Q: What are natural antiseptics?
+A: Honey, tea tree oil, colloidal silver, alcohol, iodine, salt water, or boiled water.
+
+Q: How do I treat a fever without medication?
+A: Cool compress, lukewarm bath, stay hydrated, rest, remove excess clothing.
+
+Q: What is a dangerous fever level?
+A: Adults: 103°F (39.4°C) or higher. Children: 102°F (38.9°C). Infants under 3 months: 100.4°F (38°C).
+
+Q: How do I make activated charcoal?
+A: Burn hardwood to charcoal, powder it, wash with water; used for poisoning/diarrhea but not substitute for medical charcoal.
+
+Q: What plants have medicinal properties?
+A: Plantain (wound healing), yarrow (bleeding), chamomile (digestive), mint (nausea), pine needles (vitamin C).
+
+Q: How do I splint a broken nose?
+A: Don't try to straighten, control bleeding by leaning forward, ice to reduce swelling, seek medical care.
+
+Q: What do I do for a knocked-out tooth?
+A: Handle by crown not root, rinse gently, try to reinsert or keep in milk/saliva, seek dentist within 30 minutes.
+
+=== WEATHER & NATURAL DISASTERS ===
+
+Q: How do I predict weather without instruments?
+A: Red sky morning: bad weather. Red sky night: good weather. High clouds: change coming. Ring around moon: precipitation likely.
+
+Q: What are signs of approaching lightning?
+A: Hair standing up, metallic taste, buzzing sound, dark towering clouds, increasing wind.
+
+Q: What is the lightning safety position?
+A: Crouch on balls of feet, feet together, minimize ground contact, don't lie flat.
+
+Q: Where is the safest place during lightning?
+A: Inside enclosed building or metal-topped vehicle, away from windows, plumbing, and electrical equipment.
+
+Q: How do I estimate lightning distance?
+A: Count seconds between flash and thunder, divide by 5 for miles (or 3 for kilometers).
+
+Q: What is the 30-30 rule for lightning?
+A: Seek shelter when flash-to-thunder is 30 seconds or less; stay sheltered 30 minutes after last thunder.
+
+Q: How do I survive a tornado without shelter?
+A: Lie flat in ditch or low area, cover head with hands, away from trees and vehicles.
+
+Q: What are signs of tornado formation?
+A: Dark greenish sky, large low-lying clouds, large hail, loud roar, rotating cloud base.
+
+Q: Where is the safest place during a tornado?
+A: Basement or interior room on lowest floor, away from windows, under sturdy furniture.
+
+Q: How do I prepare for a hurricane?
+A: Board windows, secure loose items, stock supplies, fill bathtub with water, know evacuation route.
+
+Q: What should I do during an earthquake?
+A: Drop, cover, hold on; get under sturdy furniture or against interior wall, away from windows and outside walls.
+
+Q: What should I do after an earthquake?
+A: Check for injuries, expect aftershocks, evacuate if building damaged, avoid broken glass and utilities.
+
+Q: How do I survive a flash flood?
+A: Move to higher ground immediately, don't walk/drive through water, abandon vehicle if trapped, climb higher.
+
+Q: How deep of water can sweep away a car?
+A: 12 inches of moving water can carry away most vehicles; 6 inches can knock down adults.
+
+Q: What are signs of flash flood danger?
+A: Heavy rain, rising water levels, roaring sound, debris in water, rain at higher elevations upstream.
+
+Q: How do I survive a wildfire?
+A: Evacuate early if possible, close windows/doors, stay low where air is clearer, cover face, head to cleared area.
+
+Q: What is a fire shelter location?
+A: Cleared area, ideally with water source, away from heavy vegetation and uphill from fire.
+
+Q: How do I survive an avalanche?
+A: Try to escape to side, discard equipment, swim to surface, create air pocket before snow hardens.
+
+Q: What are avalanche danger signs?
+A: Recent heavy snowfall, warming temperatures, cracking sounds, recent avalanches in area.
+
+Q: How do I find someone buried in an avalanche?
+A: Mark last seen point, search downslope, probe systematically, begin with likely burial zones, signal for help.
+
+=== SELF-DEFENSE & DANGEROUS ANIMALS ===
+
+Q: What do I do if I encounter a bear?
+A: Stay calm, don't run, make yourself look large, speak calmly, back away slowly, never approach.
+
+Q: What is the difference between black bear and grizzly defense?
+A: Black bear: fight back aggressively. Grizzly: play dead (face down, hands on neck, legs spread).
+
+Q: How do I survive a mountain lion attack?
+A: Face the animal, appear large, don't run, throw objects, fight back aggressively if attacked.
+
+Q: What do I do if I encounter a venomous snake?
+A: Freeze, locate snake, back away slowly, give it escape route, don't try to handle or kill it.
+
+Q: How do I avoid snake encounters?
+A: Watch where stepping, use stick to probe, wear boots, don't put hands in unseen areas, check sleeping area.
+
+Q: What is proper bear hang for food?
+A: Suspend food 12 feet high, 6 feet from tree trunk, 100 yards from camp, use bear-resistant container if available.
+
+Q: How do I survive a crocodile/alligator attack?
+A: Fight back targeting eyes and snout, don't try to pry jaws open, if death-rolled stay with rotation.
+
+Q: What do I do if charged by a wild boar?
+A: Climb a tree or obstacle if possible, stand ground and use weapon, protect legs from tusks.
+
+Q: How do I avoid shark attacks?
+A: Avoid dawn/dusk swimming, don't wear shiny jewelry, don't swim with bleeding wound, stay in groups.
+
+Q: What do I do if a shark approaches?
+A: Stay calm, maintain eye contact, back away slowly, defend with object, hit nose/gills/eyes if attacked.
+
+Q: How do I survive a dog attack?
+A: Don't run, face dog, use jacket/bag as shield, if knocked down protect face and neck with arms.
+
+Q: What is the recovery position for an unconscious attacker?
+A: If not an immediate threat and breathing, place in recovery position and seek help; prioritize your safety first.
+
+Q: How do I escape from being grabbed?
+A: Strike vulnerable areas (eyes, throat, groin, knees), create noise, use any available weapon, fight aggressively.
+
+Q: What are effective self-defense targets?
+A: Eyes, throat, nose, groin, knees, instep; use maximum force to these vulnerable areas.
+
+Q: Should I play dead for all bear encounters?
+A: No. Play dead only for grizzly/brown bear attacks. Fight black bears. Slowly back away if not attacked.
+
+Q: How do I recognize aggressive animal behavior?
+A: Direct stare, ears back, showing teeth, hair raised, defensive posture, charging movements.
+
+Q: What should I do if I see a wolf?
+A: Don't run, make yourself large, make loud noises, throw objects, back away, face the animal.
+
+Q: How do I defend against a swarm of bees?
+A: Run in straight line to shelter, cover face, don't jump in water (they'll wait), seek enclosed space.
+
+Q: What do I do if encountering a moose?
+A: Give wide berth, back away slowly, get behind tree or obstacle, don't get between mother and calf.
+
+Q: How do I recognize a rabid animal?
+A: Unusual aggression, lack of fear, excessive drooling, stumbling, paralysis, unprovoked attacks.
+
+=== ROPE & KNOT SKILLS ===
+
+Q: What is a bowline knot used for?
+A: Creates non-slipping loop, rescue, securing rope to fixed object; "rabbit comes out of hole, around tree, back in hole."
+
+Q: How do I tie a square knot?
+A: Right over left, left over right; used for joining two ropes of equal size.
+
+Q: What is a clove hitch used for?
+A: Quickly securing rope to pole or tree; easily adjustable but can slip under varying load.
+
+Q: What is a taut-line hitch?
+A: Adjustable loop for tent guy lines; maintains tension while allowing position changes.
+
+Q: What is the strongest fishing knot?
+A: Palomar knot or improved clinch knot; maintains high percentage of line strength.
+
+Q: How do I tie a trucker's hitch?
+A: Creates mechanical advantage for tightening loads; forms pulley system with rope.
+
+Q: What is a sheet bend for?
+A: Joining two ropes of different diameters; more secure than square knot for unequal ropes.
+
+Q: What is a figure-eight knot?
+A: Stopper knot or climbing; strong, easy to inspect, doesn't jam even after heavy load.
+
+Q: How do I make cordage from plants?
+A: Use long fibers (nettle, dogbane, yucca), reverse-wrap technique, rolling fibers on thigh while adding new material.
+
+Q: What is paracord inner strands used for?
+A: Remove inner strands for fishing line, dental floss, sewing thread, snare wire.
+
+Q: How do I coil rope for storage?
+A: Over-under coiling prevents kinks, or figure-eight coiling for climbing rope, secure with wrap.
+
+Q: What is a prusik knot?
+A: Friction hitch that grips under load but slides when unweighted; used for ascending rope.
+
+Q: What materials make good natural rope?
+A: Inner bark of willow, basswood, cedar; long grasses; yucca leaves; nettle stems.
+
+Q: How strong is paracord?
+A: Type III (550 paracord) rated for 550 pounds; individual inner strands rated for 35 pounds each.
+
+Q: What is a monkey fist knot?
+A: Weighted knot at rope end for throwing; can be used as weapon in emergency.
+
+Q: How do I prevent rope fraying?
+A: Whip the end with thin cord, melt synthetic rope ends, tape, or tie overhand knot.
+
+Q: What is a alpine butterfly loop?
+A: Creates fixed loop in middle of rope; used for clipping in without accessing rope ends.
+
+Q: What is the water knot for?
+A: Joining flat webbing; trace one overhand knot with other end going opposite direction.
+
+Q: How do I test knot strength?
+A: Dress knot (tighten properly), set with firm pull, inspect for correct formation, test with gradual load.
+
+Q: What is a constrictor knot?
+A: Extremely secure binding knot; very difficult to untie after loading, often must be cut.
+
+=== TOOLS & IMPROVISATION ===
+
+Q: How do I make a knife from stone?
+A: Find flint or obsidian, strike with harder stone at angle to flake off pieces, shape edge.
+
+Q: What is batoning for wood?
+A: Using another piece of wood as hammer to drive knife through log for splitting.
+
+Q: How do I make cordage from duct tape?
+A: Roll tape sticky-side-out, twist while rolling to create strong rope-like cordage.
+
+Q: How do I sharpen a knife without a stone?
+A: Use smooth river rock, concrete, leather belt, bottom of ceramic mug, or another knife.
+
+Q: What is the correct sharpening angle?
+A: 15-20 degrees for most knives; maintain consistent angle, alternating sides.
+
+Q: How do I make a fishing hook?
+A: Carve from wood/bone, bend safety pin or wire, use thorns, or fashion from can tab.
+
+Q: What makes a good digging stick?
+A: Hardwood, fire-hardened tip, about 1.5 inches diameter, length from ground to chest.
+
+Q: How do I make a bow and arrow?
+A: Flexible sapling for bow, straight shoots for arrows, cordage for string, feathers for fletching, sharp tip.
+
+Q: What is the advantage of obsidian blades?
+A: Sharper than steel when properly knapped, but brittle; excellent for cutting and skinning.
+
+Q: How do I make a container from birch bark?
+A: Cut bark rectangle, fold corners up, secure with cordage or wood slivers, seal seams with pine pitch.
+
+Q: What is fire hardening for wood tools?
+A: Slowly heating wood point over fire (not in flame) to harden and strengthen, prevents charring.
+
+Q: How do I make a spear?
+A: Straight pole, fire-harden tip or attach stone/bone/metal point, should be taller than user.
+
+Q: What is a throwing stick?
+A: Rabbit stick or boomerang-style hunting tool; flat curved wood thrown at small game.
+
+Q: How do I create a saw from materials?
+A: Use wire, rope with sand, or serrated metal edge; tension and abrasive action cut wood.
+
+Q: What is a bow drill improvement?
+A: Add hand hold (bearing block) on top, lubricate with wax or fat, use hardwood spindle in softwood board.
+
+Q: How do I make emergency tweezers?
+A: Fold and crease thin wood or split small green twig, maintain spring tension.
+
+Q: What is a field expedient water filter?
+A: Layer charcoal, sand, gravel in bottle with hole; filters particles but doesn't purify.
+
+Q: How do I make a primitive compass?
+A: Float magnetized needle on leaf in water, or suspend on thread; points north-south.
+
+Q: What is a walking staff used for?
+A: Balance, testing ground, weapon, shelter construction, measuring depth, clearing brush.
+
+Q: How do I preserve a blade edge?
+A: Keep clean and dry, oil regularly, store safely, avoid using on hard materials unnecessarily.
+
+=== FORAGING & PLANT IDENTIFICATION ===
+
+Q: What is the rhyme for poison ivy?
+A: "Leaves of three, let it be; berries white, take flight."
+
+Q: How do I identify edible berries safely?
+A: Learn specific species; rule of thumb: aggregate berries (raspberry-like) are generally safe.
+
+Q: What parts of dandelion are edible?
+A: Entire plant: young leaves (salad), roots (roasted coffee substitute), flowers (wine, fritters).
+
+Q: Are all pine needles safe for tea?
+A: Most yes, but avoid Ponderosa pine (toxic to pregnant women/cattle), Norfolk Island pine, and Yew (toxic).
+
+Q: How do I identify wild onion vs toxic look-alikes?
+A: Crush and smell - must have strong onion/garlic smell; no smell means it's likely toxic.
+
+Q: What is the most important rule for mushroom foraging?
+A: When in doubt, throw it out. Never eat unless 100% certain of identification.
+
+Q: How do I identify stinging nettle?
+A: Heart-shaped leaves with serrated edges, covered in fine hairs, opposite leaf arrangement, square stem.
+
+Q: How do I safely eat stinging nettle?
+A: Cook to neutralize stinging hairs, or fold leaf and crush to break hairs before eating.
+
+Q: What are universal indicators of poisonous plants?
+A: Milky sap (except dandelion/figs), umbrella-shaped flowers, three-leaflet groupings, beans/bulbs.
+
+Q: How do I identify wild carrot vs poison hemlock?
+A: Wild carrot (Queen Anne's Lace) has hairy stem, carrot smell; poison hemlock has smooth purple-spotted stem, musty smell.
+
+Q: What is chickweed and how do I identify it?
+A: Small white star-shaped flowers, opposite leaves, grows in mats, single line of hairs on stem, entirely edible.
+
+Q: Are acorns edible raw?
+A: No, contain bitter toxic tannins; must be shelled, crushed, and leached in water before eating.
+
+Q: How do I identify plantain (not the banana)?
+A: Broad leaves with parallel veins from base, low rosette growth, rat-tail flower spike.
+
+Q: What is the edibility of grass seeds?
+A: Most grass seeds are edible and nutritious; collect, winnow, and grind into flour or eat whole.
+
+Q: How do I identify wild garlic/ramps?
+A: Broad smooth leaves, strong garlic smell, white flowers, grows in patches, edible bulb and leaves.
+
+Q: What berries should I absolutely avoid?
+A: White berries (always poisonous), holly, pokeweed, yew, baneberry.
+
+Q: How do I identify edible ferns?
+A: Fiddleheads (young curled fronds) of ostrich fern are edible when cooked; most other ferns are toxic.
+
+Q: What is purslane?
+A: Succulent weed with paddle-shaped leaves, red stems, high in omega-3s, edible raw or cooked.
+
+Q: How do I identify wood sorrel?
+A: Clover-like leaves (heart-shaped), yellow or white flowers, sour taste from oxalic acid, edible in moderation.
+
+Q: What tree bark is edible?
+A: Inner bark (cambium layer) of pine, birch, willow, maple, slippery elm; scrape, cook, or dry into flour.
+
+=== HYGIENE & SANITATION ===
+
+Q: How do I dig a proper latrine?
+A: Dig 6-8 inches deep, 200 feet from water, downhill from camp, cover waste with soil after each use.
+
+Q: How do I make soap from ashes?
+A: Mix wood ash with water (lye), combine with fat/oil, cook together, cure for several weeks.
+
+Q: What is the importance of hand washing in survival?
+A: Prevents disease transmission, especially diarrheal diseases which cause dehydration and weakness.
+
+Q: How do I wash without soap?
+A: Use sand or ash as abrasive, rinse thoroughly, certain plants (soapwort, yucca root) create lather.
+
+Q: How do I maintain dental hygiene without supplies?
+A: Use frayed twig as brush, rinse with salt water, chew fibrous plants, avoid sugary foods.
+
+Q: What is the proper way to dispose of human waste?
+A: Cat hole 6-8 inches deep, cover completely, or pack out in wag bags in sensitive areas.
+
+Q: How do I prevent illness from poor sanitation?
+A: Wash hands before eating, separate cooking from toilet areas, purify all water, cook food thoroughly.
+
+Q: What is safe distance for latrine from water?
+A: Minimum 200 feet (70 adult steps) from any water source to prevent contamination.
+
+Q: How do I make a feminine hygiene product?
+A: Fold clean absorbent cloth, change frequently, wash with hot water and soap, sun-dry.
+
+Q: What is the proper way to wash clothes without detergent?
+A: Scrub with ash or sand, rinse thoroughly, boil if possible, sun-dry to kill remaining bacteria.
+
+Q: How do I prevent fungal infections?
+A: Keep skin dry, change socks frequently, air out feet, use antifungal powder or dry feet thoroughly.
+
+Q: What is the importance of waste management?
+A: Prevents disease, avoids attracting animals, maintains clean water, protects group health.
+
+Q: How do I maintain hygiene during menstruation?
+A: Use clean cloth pads, wash and dry thoroughly between uses, maintain normal hygiene routine.
+
+Q: What is a gray water disposal method?
+A: Strain food particles, disperse water over large area away from camp and water sources, or dig sump hole.
+
+Q: How do I prevent dysentery?
+A: Purify all water, wash hands, cook food thoroughly, proper waste disposal, avoid contaminated food.
+
+Q: What natural materials work as toilet paper?
+A: Smooth leaves (identify first), moss, snow, smooth stones, mullein leaves; avoid poisonous plants.
+
+Q: How do I keep camp clean to avoid attracting animals?
+A: Store food properly, clean cooking area, dispose of waste far from camp, burn or bury scraps.
+
+Q: What is the proper dishwashing method?
+A: Scrape dishes, wash with hot water, rinse, sanitize with boiling water, air dry completely.
+
+Q: How often should I change survival clothing?
+A: As often as possible; rotate with clean/dry items, air out regularly, wash when able.
+
+Q: What is the risk of poor hygiene in survival?
+A: Diarrheal disease, skin infections, parasites, reduced immune function, disease transmission in groups.
+
+=== PSYCHOLOGICAL & GROUP SURVIVAL ===
+
+Q: What is the survival rule of threes priority?
+A: 3 minutes (air), 3 hours (shelter), 3 days (water), 3 weeks (food) - prioritize accordingly.
+
+Q: What is the most important survival tool?
+A: Your mind - knowledge, positive attitude, adaptability, and will to survive.
+
+Q: How do I maintain morale in survival?
+A: Set small achievable goals, maintain routine, celebrate small victories, stay active, keep hope.
+
+Q: What is the biggest psychological threat in survival?
+A: Panic and despair; maintain calm, make logical decisions, focus on what you can control.
+
+Q: How do I make group decisions in survival?
+A: Designate leader or use consensus, consider all input, prioritize survival needs, maintain unity.
+
+Q: What is the importance of routine in survival?
+A: Provides structure, maintains morale, prevents depression, ensures necessary tasks completed.
+
+Q: How do I deal with isolation in survival?
+A: Talk to yourself, keep journal, make plans, stay busy, maintain hope of rescue.
+
+Q: What is the will to survive?
+A: Mental determination to overcome obstacles; often makes difference between life and death.
+
+Q: How do I prevent group conflicts?
+A: Clear communication, fair work distribution, respect differences, focus on common goal.
+
+Q: What is survivor guilt?
+A: Feeling guilty about surviving when others didn't; normal emotion that shouldn't override survival actions.
+
+Q: How important is sleep in survival?
+A: Critical for decision-making, immune function, and physical performance; prioritize adequate rest.
+
+Q: What is the STOP principle?
+A: Sit, Think, Observe, Plan - prevents panic and poor decisions in emergencies.
+
+Q: How do I maintain hope when rescue is delayed?
+A: Focus on daily tasks, improve shelter/comfort, create normalcy, trust that people are searching.
+
+Q: What is the importance of staying busy?
+A: Prevents depression, maintains morale, accomplishes survival tasks, keeps mind focused.
+
+Q: How do I handle fear in survival?
+A: Acknowledge it, use it for motivation, focus on actions you can take, break problems into steps.
+
+Q: What is the effect of stress on survival?
+A: Impairs judgment, weakens immune system, reduces physical capability; manage through routine and rest.
+
+Q: How do I maintain leadership in crisis?
+A: Stay calm, be decisive, listen to input, delegate tasks, maintain confidence without arrogance.
+
+Q: What is the importance of mental preparation?
+A: Prepared mind responds better to crisis, knows priorities, maintains calm, increases survival odds.
+
+Q: How do I deal with boredom in survival?
+A: Create projects, improve camp, practice skills, explore safely, keep mind engaged.
+
+Q: What is the impact of positive thinking?
+A: Improves problem-solving, maintains energy, strengthens immune system, increases perseverance.
+
+=== URBAN SURVIVAL ===
+
+Q: What should be in an urban evacuation bag?
+A: Water, food, first aid, flashlight, radio, batteries, documents, cash, medications, change of clothes.
+
+Q: How much water should I store for emergencies?
+A: One gallon per person per day, minimum three-day supply, more for hot climates or special needs.
+
+Q: Where can I find water in urban environment?
+A: Water heater tank, toilet tanks (not bowl), ice cubes, canned goods liquid, water pipes.
+
+Q: How do I purify water in urban disaster?
+A: Boil 1 minute, or 8 drops household bleach per gallon (16 if cloudy), wait 30 minutes.
+
+Q: What non-perishable foods are best for storage?
+A: Rice, beans, canned goods, peanut butter, dried fruits, nuts, crackers, powdered milk.
+
+Q: How do I signal for help in urban disaster?
+A: Bright cloth from window, mirror reflection, whistle, flashlight, write HELP on roof if possible.
+
+Q: What is shelter-in-place?
+A: Staying indoors during emergency, sealing room with plastic and tape for chemical/biological threats.
+
+Q: How do I prepare for power outage?
+A: Flashlights, batteries, candles, matches, battery radio, manual can opener, fill bathtub with water.
+
+Q: What is a go-bag?
+A: Pre-packed bag with essentials ready to grab for immediate evacuation, kept near door.
+
+Q: How do I find my way out of a smoke-filled building?
+A: Stay low, feel doors for heat, use stairs not elevators, mark your path, know two exits.
+
+Q: What is the emergency contact protocol?
+A: Have out-of-state contact all family members call, easier than local calls during disaster.
+
+Q: How do I shut off utilities in emergency?
+A: Know locations of water, gas, and electric shut-offs; have tools needed nearby.
+
+Q: What documents should I protect?
+A: ID, insurance papers, medical records, bank info, birth certificates - keep copies in waterproof bag.
+
+Q: How do I prepare for extended power outage?
+A: Food that doesn't require cooking, alternative cooking method, heating source, way to refrigerate medicine.
+
+Q: What is urban water catchment?
+A: Collecting rainwater from roof/tarps into clean containers for purification and use.
+
+Q: How do I create a safe room?
+A: Interior room, no windows, heavy door, supplies, communication device, first aid kit.
+
+Q: What is the danger of carbon monoxide in disaster?
+A: Generators, grills, camping stoves indoors produce odorless deadly gas; use only outdoors.
+
+Q: How long can refrigerator keep food cold without power?
+A: Unopened: 4 hours for fridge, 48 hours for full freezer, 24 hours for half-full freezer.
+
+Q: What is important about medication in disaster?
+A: Maintain supply, keep cool, have written list, know pharmacy alternatives, store properly.
+
+Q: How do I cook during power outage?
+A: Camp stove (outdoors only), fireplace, BBQ grill (outdoors), or cold foods from storage.
+
+=== COLD WEATHER SURVIVAL ===
+
+Q: What is the cotton kills rule?
+A: Cotton loses insulation when wet and dries slowly; use wool or synthetic materials in cold weather.
+
+Q: How do I prevent frostbite?
+A: Keep extremities covered, avoid tight clothing restricting circulation, stay dry, keep moving.
+
+Q: What is the best clothing for cold weather?
+A: Layer system: moisture-wicking base, insulating middle, waterproof/windproof outer.
+
+Q: How do I stay warm while sleeping in cold?
+A: Insulate underneath, wear dry layers, use sleeping bag liner, warm water bottle, eat before bed.
+
+Q: What is the danger of sweating in cold?
+A: Wet clothing loses insulation rapidly, leads to hypothermia; regulate layers to avoid overheating.
+
+Q: How do I build an igloo?
+A: Compact snow blocks, arrange in spiral, dome shape, entrance tunnel below floor level, ventilation hole at top.
+
+Q: What is white-out navigation?
+A: Zero visibility in snow; stay put, use compass, rope line between points, wait for improvement.
+
+Q: How do I create an emergency shelter in snow?
+A: Dig into snowdrift, create entrance below sleeping level, smooth ceiling, ventilation hole, insulated floor.
+
+Q: What is the best way to cross frozen water?
+A: Ice should be 4 inches minimum, check thickness, distribute weight, have rescue rope, avoid early/late season.
+
+Q: How do I test ice safety?
+A: Drill or chop test holes, clear ice is stronger than cloudy, avoid ice near currents or springs.
+
+Q: What do I do if I fall through ice?
+A: Don't remove clothing, spread arms on ice, kick legs horizontal, pull onto ice, roll away from hole.
+
+Q: How do I prevent snow blindness?
+A: Wear sunglasses or improvised eye protection, make slits in bark or cloth, reduce UV exposure.
+
+Q: What is an emergency bivouac?
+A: Temporary overnight shelter using minimal gear, often snow trench or debris hut.
+
+Q: How do I stay hydrated in cold weather?
+A: Drink before thirsty, melt snow rather than eat, warm beverages help maintain core temperature.
+
+Q: What is cold weather calorie requirement?
+A: Significantly higher than temperate weather, need fats and carbs for heat production.
+
+Q: How do I prevent gear from freezing?
+A: Keep batteries warm, sleep with water, protect electronics, use antifreeze in fuel.
+
+Q: What is the wind chill effect on survival?
+A: Wind accelerates heat loss dramatically; -20°F with 20mph wind feels like -40°F.
+
+Q: How do I warm someone with hypothermia?
+A: Gradual warming, dry clothing, warm drinks if conscious, warm water bottles to core areas, skin contact.
+
+Q: What is the danger of exposed skin in extreme cold?
+A: Frostbite can occur in minutes at extreme temperatures with wind; cover all exposed skin.
+
+Q: How do I create an insulated sleeping platform?
+A: Use evergreen boughs, dry leaves, bark, pads - at least 6 inches between you and cold ground/snow.
+
+=== HOT WEATHER & DESERT SURVIVAL ===
+
+Q: How do I prevent heat exhaustion?
+A: Stay hydrated, rest during hottest hours, wear light clothing, seek shade, wet clothing for cooling.
+
+Q: What is the best time to travel in desert?
+A: Early morning and evening when cooler; rest in shade during midday heat.
+
+Q: How do I find water in the desert?
+A: Canyon bottoms, rock depressions after rain, dig in dry washes, follow animal tracks at dawn/dusk.
+
+Q: What is a desert solar still yield?
+A: Usually less than 1 cup per day - high effort for low yield, better to conserve water and move to source.
+
+Q: How do I conserve water in desert?
+A: Breathe through nose, minimize talking, rest in shade, avoid eating without water, minimize sweating.
+
+Q: What is the desert survival clothing strategy?
+A: Light-colored loose clothing, cover skin to prevent sun exposure, layer to trap air for insulation.
+
+Q: How do I signal in desert?
+A: Signal mirror is most effective, fire at night, ground-to-air symbols, use elevation for visibility.
+
+Q: What is the danger of dry air in desert?
+A: Dehydration through respiration and skin, often unnoticed until severe, need more water than expected.
+
+Q: How do I treat heat cramps?
+A: Rest in shade, drink water with salt/electrolytes, massage cramped muscles, cool gradually.
+
+Q: What desert plants indicate water?
+A: Cottonwood, willow, mesquite, cattails, desert palm - roots reach groundwater, dig near them.
+
+Q: How do I avoid scorpions and snakes?
+A: Shake out clothes/boots, check sleeping area, avoid reaching into unseen areas, use light at night.
+
+Q: What is desert flash flood danger?
+A: Rain miles away creates sudden walls of water in canyons, avoid canyon bottoms during storms.
+
+Q: How do I create shade without materials?
+A: Dig into bank, use natural rock overhang, create depression and cover with any reflective material.
+
+Q: What is radiant heat danger?
+A: Ground can be 30-50°F hotter than air, radiates heat upward, elevate sleeping area, avoid ground contact.
+
+Q: How do I protect feet in desert?
+A: Sturdy boots, gaiters to keep sand out, rest during heat, treat blisters immediately, stay dry.
+
+Q: What is the desert moisture collection method?
+A: Collect dew with cloth at dawn, condensation from plastic wrapped around vegetation, transpiration bags.
+
+Q: How do I prevent sunburn in survival?
+A: Cover skin, use mud as sunscreen, seek shade, create shade, avoid peak sun hours.
+
+Q: What is heat signature for rescue?
+A: Create contrast with surrounding terrain, use mirrors/shiny objects, fire produces heat column visible on thermal.
+
+Q: How much water loss equals danger?
+A: Loss of 2-3% body weight (dehydration), 10% causes serious problems, 15-20% often fatal.
+
+Q: What is the priority in desert survival?
+A: Find/signal for rescue, conserve water, minimize water loss, create shelter, ration carefully.
+
+=== WATER TRAVEL & SURVIVAL ===
+
+Q: How do I survive a capsized boat?
+A: Stay with boat if possible (more visible, flotation), signal for help, conserve energy, stay warm.
+
+Q: What is the proper way to float?
+A: HELP position (Heat Escape Lessening Posture): knees to chest, arms pressed to sides, minimizes heat loss.
+
+Q: How do I swim in currents?
+A: Don't fight current, swim perpendicular to escape, float with river current to calmer area.
+
+Q: What are signs of rip current?
+A: Channel of churning choppy water, difference in water color, line of foam/debris moving seaward.
+
+Q: How do I escape a rip current?
+A: Swim parallel to shore until out of current, then swim to shore at angle, or float and signal.
+
+Q: How do I survive without a life jacket?
+A: Make pants flotation device (tie legs, capture air, secure waist), use shoes for flotation, dead man's float.
+
+Q: What is the survival time in cold water?
+A: 50°F water: 1-3 hours before unconscious; 40°F: 30-90 minutes; immediate danger in very cold water.
+
+Q: How do I purify ocean water?
+A: Can't safely purify without distillation; solar still or transpiration method, never drink seawater.
+
+Q: What is the danger of drinking seawater?
+A: High salt content requires more water to process than you gain, accelerates dehydration and kidney failure.
+
+Q: How do I catch rainwater at sea?
+A: Any container, tarp, clothing to funnel water, drink immediately or store covered, first water rinses salt.
+
+Q: What is the survival food priority at sea?
+A: Water is priority; food requires water for digestion, avoid eating if water scarce.
+
+Q: How do I fish without tackle?
+A: Improvised hook from wire/bone, line from clothing/shoelaces, bait from torn cloth or caught fish parts.
+
+Q: What is the purpose of sea anchor?
+A: Slows drift, maintains heading, reduces wave impact, useful while resting or waiting rescue.
+
+Q: How do I signal from water?
+A: Whistle, mirror, dye marker, waving, fire/smoke (if in raft), orange flag, flares.
+
+Q: What is hypothermia risk in water?
+A: Lose heat 25x faster than air, even in relatively warm water, maintain HELP position.
+
+Q: How do I treat someone rescued from water?
+A: Handle gently, horizontal position, warm slowly, dry clothing, check breathing, treat hypothermia.
+
+Q: What is secondary drowning?
+A: Water in lungs causes breathing problems hours after rescue, monitor anyone who was submerged.
+
+Q: How do I enter water safely?
+A: Feet first when depth unknown, check current, avoid jumping into cold water (cold shock), controlled entry.
+
+Q: What is the huddle position?
+A: Multiple people floating together, arms around each other, helps conserve heat, protect children in middle.
+
+Q: How do I survive in life raft?
+A: Stay dry, collect rainwater, ration supplies, maintain watch, signal regularly, protect from sun.
+
+=== NATURAL DISASTER - EARTHQUAKE SPECIFIC ===
+
+Q: What is the triangle of life theory?
+A: Controversial theory; official recommendation is still "Drop, Cover, Hold On" not triangle spaces.
+
+Q: What should I do immediately after an earthquake?
+A: Check injuries, wear shoes (broken glass), expect aftershocks, check utilities, evacuate if damaged.
+
+Q: How do I shut off gas after earthquake?
+A: Wrench to turn valve quarter turn so it's perpendicular to pipe; only if leak suspected, can't restart alone.
+
+Q: What items should I keep earthquake-ready?
+A: Wrench for gas, flashlight, shoes, whistle, gloves under bed, emergency kit accessible.
+
+Q: Where is the safest place during an earthquake?
+A: Under sturdy desk/table, against interior wall, away from windows and heavy objects.
+
+Q: What is liquefaction?
+A: Saturated soil loses strength during earthquake, behaves like liquid, causes building collapse and ground failure.
+
+Q: How do I prepare for aftershocks?
+A: Expect them, can be strong, stay alert, be ready to Drop/Cover/Hold On again, avoid damaged areas.
+
+Q: What if I'm in bed during an earthquake?
+A: Stay in bed, cover head with pillow, broken glass and falling objects make movement dangerous.
+
+Q: What if I'm outdoors during an earthquake?
+A: Move away from buildings, power lines, trees; drop to ground in clear area; stay there until shaking stops.
+
+Q: What if I'm in a car during an earthquake?
+A: Pull over safely, avoid bridges/overpasses, stay in car, proceed cautiously after checking for hazards.
+
+Q: How do I communicate after earthquake?
+A: Text instead of calls (less network strain), have out-of-area contact, know meeting places.
+
+Q: What utilities need checking after earthquake?
+A: Gas (smell), water (discoloration, leaks), electricity (sparks, damage), don't use until verified safe.
+
+Q: What is the earthquake kit food requirement?
+A: Non-perishable for 72 hours minimum, no cooking required, manual can opener, comfort foods for morale.
+
+Q: How do I protect valuables in earthquake-prone areas?
+A: Secure heavy items, use museum putty, lower hanging objects, strap water heaters, bolt bookcases.
+
+Q: What is tsunami risk after earthquake?
+A: Coastal areas: move to high ground immediately after strong earthquake, don't wait for warning.
+
+Q: What should I avoid after an earthquake?
+A: Damaged buildings, downed power lines, broken glass, spilled chemicals, unstable structures, using elevators.
+
+Q: How do I find someone trapped in rubble?
+A: Listen during quiet periods, tap on pipes/walls (sound travels), call out, use trained search dogs.
+
+Q: What is the most dangerous time after earthquake?
+A: First 24 hours: aftershocks, structural collapses, fires, gas leaks, injuries need treatment.
+
+Q: How do I secure water heater for earthquake?
+A: Strap to wall studs with metal straps top and bottom, protect emergency water source.
+
+Q: What is the best earthquake building location?
+A: First floor, interior room, away from windows, under sturdy furniture or against load-bearing wall.
+
+=== EMERGENCY CHILDBIRTH ===
+
+Q: What are signs of imminent birth?
+A: Contractions less than 5 minutes apart, urge to push, visible baby's head, water broken.
+
+Q: What supplies do I need for emergency delivery?
+A: Clean towels, blankets, string/shoelaces for cord, scissors (sterilized), bulb syringe if available.
+
+Q: How do I prepare for emergency delivery?
+A: Wash hands thoroughly, clean area, have supplies ready, keep mother calm, call for help.
+
+Q: What position should mother be in?
+A: Whatever is comfortable, typically semi-reclined or squatting, support back, knees bent.
+
+Q: How do I deliver the baby?
+A: Don't pull, support head as crowns, check for cord around neck, let mother push, guide shoulders gently.
+
+Q: What if cord is around baby's neck?
+A: If loose, gently slip over head; if tight, clamp twice and cut between clamps immediately.
+
+Q: How do I clear baby's airway?
+A: Wipe nose and mouth, position head slightly back, use bulb syringe if available, baby should cry.
+
+Q: What if baby doesn't cry immediately?
+A: Rub back vigorously, flick feet, suction mouth/nose, if no breathing in 30 seconds begin infant CPR.
+
+Q: When do I cut the umbilical cord?
+A: Wait until stops pulsing (1-3 minutes) if not emergency, tie in two places, cut between ties.
+
+Q: How do I tie the umbilical cord?
+A: Tie firmly 4 inches from baby, again at 2-3 inches, cut between ties with sterilized scissors.
+
+Q: What do I do with the placenta?
+A: Will deliver 5-30 minutes after birth, don't pull, save it (hospital will examine), keep level with baby.
+
+Q: How do I keep baby warm?
+A: Dry immediately, skin-to-skin contact with mother, cover both with blanket, hat for baby.
+
+Q: What is normal postpartum bleeding?
+A: Less than 500ml (2 cups), massage uterus if heavy bleeding, seek medical help for excessive bleeding.
+
+Q: How do I massage the uterus?
+A: Firmly massage lower abdomen in circular motion, feels like hard grapefruit when contracted, reduces bleeding.
+
+Q: When should I worry about bleeding?
+A: Soaking multiple pads quickly, passing large clots, dizziness, rapid heartbeat, shock signs.
+
+Q: What if shoulder is stuck?
+A: McRobert's maneuver: bring mother's knees to chest, apply gentle downward pressure above pubic bone.
+
+Q: What is the APGAR score?
+A: Quick assessment at 1 and 5 minutes: Appearance, Pulse, Grimace, Activity, Respiration (0-2 each).
+
+Q: Can I breastfeed immediately?
+A: Yes, encouraged, helps contract uterus, provides colostrum, promotes bonding.
+
+Q: What if twins are coming?
+A: Second baby usually delivers within 30 minutes, repeat same process, seek medical help urgently.
+
+Q: What is emergency postpartum care?
+A: Keep mother warm, watch for bleeding, monitor vital signs, ensure baby feeding, keep both clean.
+
+=== WILDERNESS NAVIGATION ===
+
+Q: How accurate is the North Star method?
+A: Polaris is within 1 degree of true north, reliable for navigation in Northern Hemisphere.
+
+Q: How do I find south in the Southern Hemisphere?
+A: Use Southern Cross: extend main axis 4.5 times, drop to horizon for approximate south.
+
+Q: What is the purpose of a base plate compass?
+A: Takes accurate bearings, measures map distance, orients map, finds direction of travel.
+
+Q: How do I triangulate my position?
+A: Take bearings to 3 visible landmarks, plot on map, intersection shows your location.
+
+Q: What is the difference between true north and magnetic north?
+A: True north is geographic pole; magnetic north is magnetic pole; declination is the difference (varies by location).
+
+Q: How do I use terrain association?
+A: Match visible features to map, identify valleys/ridges/peaks, follow logical terrain flow.
+
+Q: What is pace count navigation?
+A: Count steps to measure distance; determine your paces per 100 meters, adjust for terrain.
+
+Q: How do I improvise a compass?
+A: Magnetize needle with silk/hair, float on water, points north-south; or suspend on thread.
+
+Q: What is deliberate offset?
+A: Aim to one side of target, know which direction to turn when you hit reference line.
+
+Q: How do I navigate by sun and stick?
+A: Plant stick, mark shadow tip, wait 15 min, mark again, line between marks is east-west.
+
+Q: What is dead reckoning navigation?
+A: Track distance and direction from known point using pace count and compass bearing.
+
+Q: How do I use a GPS effectively?
+A: Mark waypoints, save track, bring spare batteries, don't rely solely on GPS, know coordinates.
+
+Q: What are handrail features?
+A: Linear features (trails, streams, ridges) that guide travel in right direction.
+
+Q: What are catching features?
+A: Obvious features beyond target that indicate you've gone too far.
+
+Q: How do I navigate in fog or whiteout?
+A: Use compass, mark trail, short legs between markers, wait for visibility if safe.
+
+Q: What is back bearing navigation?
+A: Take bearing to landmark behind you, add/subtract 180 degrees to confirm direction traveled.
+
+Q: How do I use contour lines for navigation?
+A: Lines show elevation, close together means steep, V-shapes point upstream, concentric circles show peaks.
+
+Q: What is the importance of an attack point?
+A: Obvious feature near target from which to make final precise navigation.
+
+Q: How do I measure distance on a map?
+A: Use compass edge or string for curved routes, compare to map scale, adjust for terrain.
+
+Q: What natural signs help with direction?
+A: Satellite dishes face south (Northern Hemisphere), prevailing wind patterns, sun position, star movement.
+
+=== ANIMAL TRACKING & AWARENESS ===
+
+Q: What are the basics of reading tracks?
+A: Identify species by print shape, determine direction, assess age by clarity, find pattern to understand behavior.
+
+Q: How old is a track?
+A: Fresh: sharp edges, moisture. Hours old: edges starting to crumble. Days old: weathered, debris filled.
+
+Q: What does scat tell you?
+A: Species, diet, health, how recently animal passed, territorial marking or den nearby.
+
+Q: What are animal highway signs?
+A: Trails, rubs, scrapes, scat, tracks, trampled vegetation, feeding signs.
+
+Q: How do I identify predator vs prey tracks?
+A: Predators: claw marks prominent, leading straight. Prey: hoofed or padded, may show panic pattern.
+
+Q: What is track pattern analysis?
+A: Walk, trot, run, bound - shows animal's pace and behavior, helps identify species.
+
+Q: How do I distinguish dog from wolf/coyote tracks?
+A: Wild canines: tracks in straight line, more oval, middle toes forward. Dogs: more splayed, less purposeful path.
+
+Q: What are territorial markers?
+A: Scat piles, urine marks, tree rubs, scrapes - indicate you're near animal's core territory.
+
+Q: How do I track prey animals?
+A: Follow trails to water/food, look for beds, feeding areas, droppings, fresh tracks in soil.
+
+Q: What are danger signs from predators?
+A: Fresh tracks, recent kills, following you, stalking behavior, vocalizations.
+
+Q: How do I tell if an area is actively used?
+A: Fresh scat, recent tracks, well-worn trails, feeding signs, territorial markers.
+
+Q: What time are animals most active?
+A: Dawn and dusk (crepuscular), or night (nocturnal); midday usually rest period.
+
+Q: How do I identify bear tracks?
+A: Five toes with claws, heel pad, 4-6 inches wide, sometimes shows full foot print.
+
+Q: What are cat family track characteristics?
+A: Four toes, retractable claws (usually not showing), rounded pad, often in straight line.
+
+Q: How do I find water by following animals?
+A: Fresh tracks heading downhill at dawn/dusk likely lead to water; convergence of trails.
+
+Q: What do bird behaviors indicate?
+A: Circling: possible food/carcass. Alarm calls: predator nearby. Roosting: water source close.
+
+Q: How do I identify fresh feeding signs?
+A: Broken vegetation still green, exposed surfaces not dried, no insect colonization yet.
+
+Q: What are bed sites for animals?
+A: Flattened vegetation, fur/hair, sheltered location, may indicate species and how long ago.
+
+Q: How do I safely observe wild animals?
+A: Downwind, quiet, slow movements, use binoculars, maintain safe distance, never approach.
+
+Q: What do regular game trails indicate?
+A: Routes between feeding/water/bedding areas, used by multiple species, good for trap placement.
+
+END OF DATASET - 1000 QUESTION-ANSWER PAIRS

@@ -1,0 +1,106 @@
+Topographic Map 
+Symbols
+
+Reading Topographic Maps
+
+Interpreting the colored lines, areas, and other symbols is the ﬁ rst 
+step in using topographic maps. Features are shown as points, lines, 
+or areas, depending on their size and extent. For example, individual 
+houses may be shown as small black squares. For larger buildings, 
+the actual shapes are mapped. In densely built-up areas, most indi-
+vidual buildings are omitted and an area tint is shown. On some 
+maps, post ofﬁ ces, churches, city halls, and other landmark buildings 
+are shown within the tinted area.
+
+The ﬁ rst features usually noticed on a topographic map are the 
+area features, such as vegetation (green), water (blue), and densely 
+built-up areas (gray or red).
+
+Many features are shown by lines that may be straight, curved, 
+solid, dashed, dotted, or in any combination. The colors of the lines 
+usually indicate similar classes of information: topographic contours 
+(brown); lakes, streams, irrigation ditches, and other hydrographic 
+features (blue); land grids and important roads (red); and other roads 
+and trails, railroads, boundaries, and other cultural features (black). 
+At one time, purple was used as a revision color to show all feature 
+changes. Currently, purple is not used in our revision program, but 
+purple features are still present on many existing maps.
+
+Various point symbols are used to depict features such as buildings, 
+campgrounds, springs, water tanks, mines, survey control points, 
+and wells. Names of places and features are shown in a color cor-
+responding to the type of feature. Many features are identiﬁ ed by 
+labels, such as “Substation” or “Golf Course.” 
+
+Topographic contours are shown in brown by lines of different 
+widths. Each contour is a line of equal elevation; therefore, contours 
+never cross. They show the general shape of the terrain. To help 
+the user determine elevations, index contours are wider. Elevation 
+values are printed in several places along these lines. The narrower 
+intermediate and supplementary contours found between the index 
+contours help to show more details of the land surface shape. Con-
+tours that are very close together represent steep slopes. Widely 
+spaced contours or an absence of contours means that the ground 
+slope is relatively level. The elevation difference between adjacent 
+contour lines, called the contour interval, is selected to best show 
+the general shape of the terrain. A map of a relatively ﬂ at area may 
+have a contour interval of 10 feet or less. Maps in mountainous 
+areas may have contour intervals of 100 feet or more. The contour 
+interval is printed in the margin of each U.S. Geological Survey 
+(USGS) map.
+
+Bathymetric contours are shown in blue or black, depending on 
+their location. They show the shape and slope of the ocean bottom 
+surface. The bathymetric contour interval may vary on each map and 
+is explained in the map margin.
+
+What is a Topographic Map?
+
+A map is a representation of the Earth, 
+or part of it. The distinctive character-
+istic of a topographic map is that the 
+shape of the Earth’s surface is shown 
+by contour lines. Contours are imag-
+inary lines that join points of equal 
+elevation on the surface of the land 
+above or below a reference surface, 
+such as mean sea level. Contours 
+make it possible to measure the 
+height of mountains, depths of 
+the ocean bottom, and steep-
+ness of slopes. 
+
+A topographic map shows 
+more than contours. The 
+map includes symbols 
+that represent such fea-
+tures as streets, buildings, 
+streams, and vegetation. 
+These symbols are con-
+stantly reﬁ ned to better 
+relate to the features they 
+represent, improve the 
+appearance or readability of 
+the map, or reduce production 
+cost. 
+
+Consequently, within the same 
+series, maps may have slightly dif-
+ferent symbols for the same feature. 
+Examples of symbols that have 
+changed include built-up areas, roads, 
+intermittent drainage, and some letter-
+ing styles. On one type of large-scale 
+topographic map, called provisional, 
+some symbols and lettering are hand- 
+drawn.
+
+U.S. Department of the Interior
+U.S. Geological Survey
+
+ 
+ 
+ 
+ 
+ 
+

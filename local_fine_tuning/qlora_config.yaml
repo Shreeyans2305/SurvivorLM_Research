@@ -1,0 +1,24 @@
+model: mlx-community/gemma-4-e2b-it-4bit
+fine_tune_type: lora
+num_layers: 24
+rank: 16
+scale: 32
+dropout: 0.05
+iters: 600
+batch_size: 4
+grad_accumulation_steps: 4
+learning_rate: 0.0002
+lr_schedule:
+  name: cosine_decay
+  warmup: 30
+  decay_steps: 600
+data: data
+max_seq_length: 256
+mask_prompt_in_loss: true
+grad_checkpoint: true
+adapter_path: adapters/survival_qlora
+save_every: 200
+steps_per_eval: 100
+steps_per_report: 25
+val_batches: 25
+seed: 42

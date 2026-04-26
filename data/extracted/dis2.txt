@@ -1,0 +1,6997 @@
+Good Practice 4th 8/3/04 2:44 pm Page 287
+
+s
+r
+e
+t
+s
+a
+s
+i
+d
+r
+o
+f
+
+g
+n
+i
+r
+a
+p
+e
+r
+p
+
+6
+1
+
+Chapter 16
+
+Preparing for disasters and emergencies
+
+16.1 Introduction: what is disaster preparedness?
+
+Many standard risk reduction terms are used loosely and inconsistently.
+‘Disaster preparedness’ is one. Basically, it has three main elements:
+
+1. Forecasting events and issuing warnings.
+2. Taking precautionary measures in response to warnings.
+3.
+
+Improving response by organising and strengthening capacity to deliver
+timely and effective rescue, relief and assistance.
+
+Disaster preparedness therefore has two main aims: to help people to avoid
+impending disaster threats; and to put plans, resources and mechanisms in
+place to ensure that those who are affected receive adequate assistance. It is
+assumed that some people and property will be vulnerable to disasters,
+despite mitigation measures, and that agencies will have to deal with the
+disaster’s impact.
+
+This chapter highlights aspects of preparedness that do not fit easily into the
+other thematic sections of this Good Practice Review, with an emphasis on
+planning and systems. It is not a comprehensive review of emergency
+management practices. The chapter has two parts:
+
+1. An overview of the main components of disaster preparedness. 
+2. Forecasting and warning systems.
+
+16.2 Components of disaster preparedness
+
+16.2.1 Overview
+
+The main components of disaster preparedness are set out in the following
+framework (.1). Detailed guidance can be found in readily available
+expert publications, which have been used in preparing this chapter.1
+
+The framework’s nine general categories should not be seen as a fixed
+sequence. In most cases, activities in different categories will be carried out
+at the same time. Nevertheless, there is a logical sequence of sorts: planning
+must be preceded by understanding of vulnerability and leads on to the
+
+287
+
+ 
+ 
+ 
+Good Practice 4th 8/3/04 2:44 pm Page 288
+
+disaster risk reduction: mitigation and preparedness
+
+.1 Disaster preparedness framework
+
+1. Vulnerability 
+assessment
+
+2. Planning
+
+3. Institutional framework
+
+Starting point for planning
+and preparation, linked to
+longer-term mitigation
+and development inter-
+ventions as well as
+disaster preparedness.
+
+Disaster preparedness
+plans agreed and in place,
+which are achievable and
+for which commitment and
+resources are relatively
+assured.
+
+Well co-ordinated disaster
+preparedness and
+response system at all
+levels, with commitment
+from relevant stake-
+holders. Roles and respon-
+sibilities clearly defined.
+
+4. Information systems
+
+5. Resource base
+
+6. Warning systems
+
+Efficient and reliable sys-
+tems for gathering and
+sharing information (e.g.
+forecasts and warnings,
+information on relevant
+capacities, role allocation
+and resources) between
+stakeholders.
+
+Goods (e.g. stockpiles of
+food, emergency shelter
+and other materials), serv-
+ices (e.g. search and res-
+cue, medical, engineering,
+nutrition specialists) and
+disaster relief funding
+(e.g. for items not easily
+stockpiled or not antici-
+pated) available and
+accessible.
+
+Robust communications
+systems (technologies,
+infrastructure, people)
+capable of transmitting
+warnings effectively to
+people at risk.
+
+7. Response mechanisms
+
+8. Education and training
+
+9. Rehearsals
+
+Evacuation and response
+procedures practised,
+evaluated and improved.
+
+Established and familiar to
+disaster response agencies
+and disaster victims (may
+include: evacuation proce-
+dures and shelters, search
+and rescue teams, needs
+assessment teams, activa-
+tion of emergency lifeline
+facilities, reception centres
+and shelters for displaced
+people). 
+
+Training courses, work-
+shops and extension pro-
+grammes for at-risk
+groups and disaster
+responders. Knowledge of
+risk and appropriate
+response shared through
+public information and
+education systems.
+
+R. Kent, Disaster Preparedness (New York/Geneva: UNDP/DHA Disaster Training Programme,
+
+1994), http://undmtp.org/english/disaster_preparedness/disaster_preparedness.pdf. 
+
+288
+
+Good Practice 4th 8/3/04 2:44 pm Page 289
+
+chapter 16 preparing for disasters and emergencies
+
+establishment of an institutional framework; the framework is a foundation
+for setting up information and warning systems, assembling resources,
+putting resource mechanisms in place and testing them, and providing public
+education and training. In reality, one never starts with no elements of the
+disaster preparedness system in place, so that the task is to make improve-
+ments in all areas.
+
+16.2.2 Planning
+
+s
+r
+e
+t
+s
+a
+s
+i
+d
+r
+o
+f
+
+g
+n
+i
+r
+a
+p
+e
+r
+p
+
+6
+1
+
+A disaster preparedness ‘plan’ can take several forms, ranging from a broad
+mitigation and preparedness strategy to a detailed contingency plan for
+responding to a particular hazard. In most plans, the operational priorities
+will be to save human life, meet people’s emergency needs (principally
+medical care, food, shelter and clothing) and restore facilities that are essen-
+tial for health, safety and welfare (e.g. hospitals, water and sanitation, power
+and transport). Rehabilitation and reconstruction are likely to be included in
+more strategic plans, although in practice they tend to be poorly integrated
+with emergency response (see Chapter 17).2
+
+Whatever the contents of the plan, it should have the following characteristics:
+
+1. The objectives and activities must be set out clearly, logically and system-
+
+2.
+
+atically.
+It should be realistic, based on existing structures and systems and recog-
+nising their strengths and weaknesses. A high level of adaptability will be
+required during disasters. Plan for likely problems within response organ-
+isations as well as on the ground. Creating a preparedness/response
+system that can deal with the full range of disasters a society is likely to
+face will take a long time, depending on the resources available. Planning
+should reflect this.
+
+3. Many preparedness plans include mitigation and recovery, but this may
+be only for form’s sake. In practice, emergency systems’ capacity to
+undertake these complex, long-term tasks is usually lacking (though it is
+essential to integrate preparedness plans with those for longer-term
+development and disaster management). Where there are weaknesses,
+strengthen existing structures rather than create new ones. The latter
+approach adds to the bureaucracy and will create confusion between
+organisations with similar mandates (see point 4 below and Case Study
+16.1). The arrival of international relief teams after a major disaster often
+leads to creation of ad hoc parallel structures that confuse the situation
+even further, overwhelming local agencies and their systems.
+
+289
+
+ 
+ 
+ 
+Good Practice 4th 8/3/04 2:44 pm Page 290
+
+disaster risk reduction: mitigation and preparedness
+
+4. Roles and responsibilities must be defined clearly. This is often done
+through provisions in the legislation setting up disaster management
+structures, or through administrative order. But as official mandates may
+be too generalised, there is usually a need for separate agreements
+between agencies. Existing arrangements can soon become outdated, so
+partners will need to monitor them regularly and adapt them if required.
+For organisations working at local level, it is particularly important to
+establish the extent of decentralisation in the plan and the corresponding
+extent to which they will be allowed to make operational decisions on
+their own.
+
+6.
+
+5. The plan must be well informed – based upon reliable and comprehensive
+information covering all relevant aspects: hazards, risks, vulnerabilities
+and capacities. Analysis of past events and how they were managed will
+form a central part of this information base, but it is also important to
+anticipate the kinds of event that are likely to happen in the future, which
+may be different from those that have occurred in the past.
+It must prepare for extreme events and chaotic situations. These will
+require a different scale and type of response from routine emergencies.
+In the conventional definition, a disaster is an event that overwhelms a
+society’s capacity to cope. Although smaller events may well be disas-
+trous at local level, major disasters are quite different in their scale and
+often in the nature of their impact.
+It must reflect the needs of the community, especially the most vulner-
+able. This means that some kind of socio-economic vulnerability analysis
+is essential in advance. Preparedness plans are usually much more aware
+of the vulnerability of critical facilities and infrastructure (e.g. emergency
+command centres, hospitals, power and water supplies, roads and
+bridges) than of the vulnerability of the human beings who live within
+their remit. When a disaster strikes, needs assessments need to be as
+quick and accurate as possible, and should take the most vulnerable into
+account (see Chapter 6).
+
+7.
+
+8. The aim should be to provide effective and timely response. This is a
+question not just of speed, but also of providing what is most needed,
+when it is needed. In the aftermath of a disaster, the affected communi-
+ties’ needs and priorities may change rapidly. Disaster managers must be
+able to identify and react to this.
+
+9. Governments usually take the lead in disaster preparedness planning, but
+as in any other aspect of risk reduction the plan should integrate the skills
+and capacities of a wide variety of agencies – official and non-govern-
+mental, including community groups (see Chapter 5). This is likely to
+include many groups and organisations not normally involved in disaster
+management. In implementation, the plan should be flexible enough to
+
+290
+
+Good Practice 4th 8/3/04 2:44 pm Page 291
+
+s
+r
+e
+t
+s
+a
+s
+i
+d
+r
+o
+f
+
+g
+n
+i
+r
+a
+p
+e
+r
+p
+
+6
+1
+
+chapter 16 preparing for disasters and emergencies
+
+incorporate the variety of ‘emergent groups’ that are likely to spring into
+action after disasters (see Chapter 8.3.1, page 119). Local people are the
+main responders in the immediate post-disaster period, and disaster
+workers should support their efforts, not duplicate or undermine them.
+10. Good coordination is vital – vertical (between local and higher authori-
+ties) and horizontal (between different agencies operating at the same
+level). Disaster preparedness planning does not have to be centralised.
+There will have to be some centre to coordinate emergency operations,
+but disasters cannot be controlled in a ‘top-down’ manner from a single
+point, and decision-making should be delegated where possible.
+Decentralisation of responsibilities is generally desirable because it
+allows disaster responses that are more rapid and better informed
+about local needs. Organisations operating locally may need to develop
+their own preparedness plans, especially in places where there is little
+chance of support from government or external agencies: this might be
+because government is ineffective or the area is very remote. But in
+most cases, some degree of coordination with official agencies is vital
+to make the most of what may be limited capacities, as well as to avoid
+duplication of effort. In many cases, plans (or parts of them) will have to
+be translated into local languages in order to engage local people and
+their organisations.
+
+11. It should be ‘owned’ by all parties involved. For the plan to work, people
+must believe in it and be committed to it. At government level, enabling
+legislation and adequate resources (especially funding) are key indicators
+of commitment; so too is support from a senior figure such as a president
+or prime minister. Some of the indicators set out in Chapter 3 may be
+helpful in assessing the commitment of other agencies.
+
+12. Regular review and updating is essential. 
+
+Above all, one should focus on the planning process, rather than the produc-
+tion of plans. A written disaster preparedness plan must not be seen as an
+end in itself. It is ‘a product, but not the main goal, of the planning process’.3
+Its purpose is to stimulate action and make that action effective. Constant
+review and dialogue between partners will be required. 
+
+Case Study 16.2 describes some of the harm that results from inadequate
+preparedness planning.
+
+16.2.3 Resources
+
+When a disaster strikes, a variety of goods and services are needed to deal
+with the crisis. 
+
+291
+
+ 
+ 
+ 
+Good Practice 4th 8/3/04 2:44 pm Page 292
+
+disaster risk reduction: mitigation and preparedness
+
+Case Study 16.1
+Organisational duplication in disaster response
+
+The politicisation of disaster
+management institutions became a
+burning question in Peru, Bolivia and
+Ecuador during the El Niño crisis of
+1997–98, when the response to the
+crisis was heavily influenced by party
+and presidential politics. 
+
+In Ecuador, the major parties and
+candidates were preparing for a
+presidential election. In Peru, the
+next presidential election was more
+distant but the country’s autocratic
+president, Alberto Fujimori, was
+anxious to boost his popularity. In
+Bolivia, responses were influenced
+by a transition between
+administrations and political
+manoeuvring within a four-party
+coalition government.
+
+In each country, the conventional
+emergency management
+organisations (civil defence) were
+marginalised by new, temporary
+government organisations that took
+over management of the El Niño
+
+event. The result was duplication of
+roles and attendant confusion,
+together with a serious loss of
+credibility and morale in the civil
+defence organisations. 
+
+Although in each case the official
+justification for the changes was the
+lack of capacity in the civil defence
+agencies and their response-focused
+attitudes, a prime motive was to put
+allies of the president in charge of
+dealing with the El Niño event, as it
+rapidly became a national political
+crisis in all three countries. In other
+words, a short-term, politically
+expedient, approach was preferred
+to the strategic development of
+disaster management capacity.
+
+R. S. Olson et al., The Marginalisation of
+
+Disaster Response Institutions: the
+
+1997–1998 El Niño Experience in Peru,
+
+Bolivia, and Ecuador (Boulder, CO:
+
+Natural Hazards Research Center, Special
+
+Publication 36, 2000), www.colorado.
+
+edu/hazards/sp/sp36/SP36.pdf.
+
+The material resources required include search and rescue equipment, boats
+and vehicles (and fuel to run them), stockpiles of relief goods such as food,
+medicines, water purification and oral rehydration tablets, emergency shelter
+materials, blankets and cooking utensils. The range of potentially useful
+materials is very wide, and careful thought must be given to likely needs and
+how to supply them. There must be systems in place that ensure adequate
+funding will be on hand to pay for emergency response operations. 
+
+292
+
+Good Practice 4th 8/3/04 2:44 pm Page 293
+
+chapter 16 preparing for disasters and emergencies
+
+s
+r
+e
+t
+s
+a
+s
+i
+d
+r
+o
+f
+
+g
+n
+i
+r
+a
+p
+e
+r
+p
+
+6
+1
+
+Case Study 16.2
+Failure to plan
+
+Cyclone Geralda struck Madagascar
+in February 1994. It was probably the
+strongest cyclone in the country’s
+history, and caused widespread
+damage to crops, housing and
+infrastructure. The immediate
+emergency response was limited
+because the structures for dealing
+with such an event were not in place.
+The failure to develop adequate
+preparedness plans had the
+following consequences:
+
+•
+
+•
+
+•
+
+•
+
+Important roads and bridges had
+not been maintained, which
+hindered relief operations.
+Lack of functioning local
+committees led to delays in
+emergency response and relief.
+Responsibilities were not defined,
+which encouraged competition
+between members of parliament
+and town mayors over who
+should take the leading role.
+In one case, owing to the lack of
+response plans and the strict
+application of official rules,
+bulldozers stationed in one
+administrative district could not
+be used to clear a major
+landslide just 20 metres outside
+the district’s boundary.
+In the absence of plans or criteria,
+it was impossible for the
+government to target distributions
+of emergency supplies.
+
+•
+
+• Much of the collection of baseline
+information about the affected
+population had to take place after
+the cyclone. This task and the
+post-disaster damage
+assessments were greatly
+handicapped by the destruction of
+roads and bridges. There were no
+protocols for damage assessment.
+Lack of emergency food and fuel
+stocks resulted in immediate
+shortages, hoarding and price
+escalation (rice prices went up by
+300% overnight). The impact was
+felt particularly by the urban poor.
+Destruction of infrastructure
+added to the supply problem.
+• Capacity to respond had to be
+built up after the disaster: this
+included logistics,
+communications and human
+resources, as well as material
+and financial capacity. Much
+essential equipment had to be
+imported, since it could not be
+purchased locally, and in some
+cases it took months for
+equipment to arrive.
+
+R. Vonk, ‘Emergency Preparedness in
+
+Cyclone Prone Areas in Madagascar’, in J.
+
+Scobie (ed), Mitigating the Millennium:
+
+Community Participation and Impact
+
+Measurement in Disaster Preparedness
+
+and Mitigation Programmes (Rugby:
+
+ITDG, 1997), pp. 52–59.
+
+293
+
+ 
+ 
+ 
+Good Practice 4th 8/3/04 2:44 pm Page 294
+
+disaster risk reduction: mitigation and preparedness
+
+The necessary human resources include trained emergency management staff
+and volunteers able to disseminate warnings, assist evacuation, carry out
+emergency response activities such as search and rescue and first aid, make
+needs assessments and manage the distribution of relief aid. The skills of
+medical personnel, the police, fire-fighters, engineers, architects, scientists,
+media professionals and many others will also be needed. Training courses
+should reach beyond emergency managers, staff and volunteers to include all
+professional groups that are likely to be involved in disaster response.4
+
+Good preparedness includes having these resources in place, or having
+established mechanisms that can put them in place rapidly when needed.
+
+Material resources
+
+The history of disaster response is full of examples of inappropriate materials
+being sent for the relief of victims. This inappropriateness takes two main forms.
+
+1.
+
+Items that are not needed, are unsuited to local cultures and practices, or
+are simply inferior. In this category are:
+
+• Foodstuffs that disaster-hit communities do not use or like, such as
+wheat for people who normally cook with rice; or items that they have
+already (such as the rice transported into a rural district in Peru after
+an earthquake in 1990; the district had a rice surplus, and so had no
+need of further supplies).5
+
+• Out-of-date or inessential medicines, which are frequently dumped on
+
+disaster-affected communities.
+
+• Faulty equipment such as the motor boats minus propellers for the
+outboard motors that arrived in Madagascar after Cyclone Geralda in
+1994.6
+
+2.
+
+Items that are needed but are brought in from far away when they are readily
+available locally (such as blankets, tents, cooking utensils and foodstuffs).
+Off-the-shelf prefabricated emergency shelters, designed by foreigners with
+little or no understanding of the diversity of local conventions and needs,
+have been heavily criticised since the 1970s, but still appear on occasion.7
+
+Wherever possible, supplies and stockpiles of relief materials should be
+bought locally. They will be relatively cheap and appropriate. Local purchases
+also stimulate the local economy, but large-scale purchases of foodstuffs or
+other items in local markets for stockpiling are likely to push up prices, which
+may harm poor households.
+
+294
+
+Good Practice 4th 8/3/04 2:44 pm Page 295
+
+chapter 16 preparing for disasters and emergencies
+
+All of these problems can be overcome, but this needs careful logistical
+planning and management, for which systems should be set up well in
+advance. New information technology has helped considerably here, and a
+great deal of work has been done to develop robust supply management
+systems (see Case Study 16.3). However, the capacity to use such systems
+needs to be built up through acquisition of technical resources and training.
+
+Human resources
+
+s
+r
+e
+t
+s
+a
+s
+i
+d
+r
+o
+f
+
+g
+n
+i
+r
+a
+p
+e
+r
+p
+
+6
+1
+
+A standard component of most community-level preparedness programmes
+is the establishment of a cadre of volunteers. The effectiveness of such teams
+depends on the number of volunteers, how widely they are distributed across
+an area at risk, the level of skills and commitment they possess, and the
+extent of equipment and material resources at their disposal.
+
+The number of volunteers will have to be built up over time, and developing
+their skills will also be a long-term process. Avoid short-term perspectives
+and over-ambitious targets. However, the task of setting up a single volunteer
+group, giving basic training and providing equipment, can be carried out
+within a short period.8
+
+Volunteer-based programmes can be effective on both small and large scales.
+The Bangladesh Red Crescent’s Cyclone Preparedness Programme (Case
+Study 16.5) deploys over 30,000 volunteers across hundreds of kilometres of
+exposed coastline, supported by an extensive infrastructure of radio warning
+systems and cyclone shelters. In the Philippines, the community organisation
+Buklod Tao (Case Study 7.2, page 107), working at village level, has a handful
+of trained disaster management volunteers, three boats and a few items of
+basic equipment such as ropes, first aid kits, megaphones and flashlights.
+
+Whatever the scale of the programme, its organisational structure must be
+robust and lasting. There is an understandable temptation among disaster
+management agencies to create new structures for disaster preparedness/
+response, but unless the agency concerned is prepared to remain in the 
+area and offer long-term support these may not be sustainable. In many, 
+if not most, cases it is better to use established community structures as 
+the foundation for disaster preparedness activities, because these will 
+have a solid base of organisational skills, motivation and group solidarity.
+Many kinds of community structure can form a foundation for disaster
+preparedness work, including village development committees, peasants’
+federations, savings and credit groups, slum dwellers’ associations and
+youth clubs.
+
+295
+
+ 
+ 
+ 
+Good Practice 4th 8/3/04 2:44 pm Page 296
+
+disaster risk reduction: mitigation and preparedness
+
+Case Study 16.3
+Managing humanitarian supplies
+
+The flood of donations after major
+disasters causes major logistical and
+management problems. Much is
+neither requested nor appropriate.
+To overcome this, PAHO began
+developing a computerised supply
+management system called SUMA in
+the early 1990s. Initially focusing on
+health-related supplies, it has since
+been extended to cover all forms of
+relief goods.
+
+SUMA identifies and sorts incoming
+aid, prioritises supplies according to
+the affected population’s needs,
+indicates the flow of donations and
+identifies gaps. It can be used for
+large and small disasters. It is also
+used in normal times for inventory
+control of warehouses and health
+centres. The software, which can be
+run on most modern PCs, is updated
+periodically and, with operating
+manuals, can be downloaded from
+the Internet. SUMA is also used as
+an information and reporting system,
+making aid more transparent and
+accountable.
+
+In a disaster, teams of trained staff
+and volunteers from government and
+other organisations run the system.
+PAHO has held courses for such
+teams and developed training
+materials (available free on the
+
+Internet), and SUMA is included in
+the curricula of other training
+institutions. An estimated 2,500
+people have been trained around the
+world. All the national emergency
+organisations of Central America and
+the Caribbean have agreed to adopt
+SUMA methodologies in their official
+manuals and guidelines.
+
+An independent evaluation of SUMA
+after two earthquakes in El Salvador
+in 2001 found that it had registered
+16,000 tons of humanitarian
+assistance sourced from 41 countries
+via 880 flights or border crossings.
+Although the system was outpaced
+by the rapid arrival of assistance in
+the first 2–3 days, and there was a
+shortage of trained personnel, SUMA
+operators recorded an estimated
+90% of humanitarian supplies flown
+into the country, and 60–70% of
+those brought in overland.
+
+The WHO/PAHO Supply Management
+
+System (Washington DC: PAHO, 2001),
+
+www.paho.org/english/ped/suma.pdf; N.
+
+A. Nicolás and R. S. Olson, ‘Final Report.
+
+“SUMA” and the 2001 El Salvador
+
+Earthquakes: An Independent External
+
+Evaluation’, 2001, www.disaster-
+
+info.net/SUMA/pdf/suma_els2001.pdf.
+
+The SUMA website is at: www.disaster-
+
+info.net/SUMA.
+
+296
+
+Good Practice 4th 8/3/04 2:44 pm Page 297
+
+s
+r
+e
+t
+s
+a
+s
+i
+d
+r
+o
+f
+
+g
+n
+i
+r
+a
+p
+e
+r
+p
+
+6
+1
+
+chapter 16 preparing for disasters and emergencies
+
+The capacities of the local structure and its members, including their enthu-
+siasm for the task, are the key criteria in identifying those most suitable for
+disaster preparedness. Many of the volunteers and organisers will probably
+come from those already involved in community work. Selection of team
+members should always involve consultation with the community and can be
+left to local groups in many instances. However, it is important not to
+overload groups and individuals with new responsibilities, and in most cases
+additional volunteers and organisers will have to be found.
+
+Training of professionals and volunteers is essential. Refresher courses are
+also essential, although under-resourcing of preparedness means that these
+happen less frequently than they should. Disaster preparedness manuals
+emphasise the importance of rehearsals or simulations of disasters. No simu-
+lation can fully prepare disaster management teams for a real event, but
+rehearsals enable them to practise procedures and test their effectiveness.
+They often reveal weaknesses in the system that can be corrected. Such exer-
+cises must be taken seriously.
+
+Case Study 16.4 is an unusual example showing that community-level
+training and preparedness can bring almost instant benefits, although
+normally a longer period of training, organisation and mobilisation will be
+needed to prepare a community for all eventualities. 
+
+16.2.4 Protection of assets
+
+Short-term measures to protect household assets will be needed in sudden-
+onset disasters. The most obvious step is to move them out of harm’s way.
+Communities vulnerable to frequently occurring hazards such as seasonal
+floods tend to have well-established systems for moving livestock, food,
+household utensils and other items (see for example Case Study 9.3, page
+138). Where this is not possible, possessions can be secured within the home
+by putting them onto high shelves and platforms, hanging them from the
+ceiling, or even placing them on the roof.
+
+If the house itself is vulnerable – for example, to the high winds and sea
+surge of a cyclone – some goods can be made safe by burying them in the
+ground in tins or pots. This is common practice in parts of Bangladesh, where
+it is also increasingly common to build mounds of earth that give shelter to
+animals above floodwater levels. 
+
+The need to protect livelihood assets has an influence on poor people’s readi-
+ness to respond to warnings of disasters (see section 16.3, below).
+
+297
+
+ 
+ 
+ 
+Good Practice 4th 8/3/04 2:44 pm Page 298
+
+disaster risk reduction: mitigation and preparedness
+
+Case Study 16.4
+Mobilising a community for disaster response
+
+One of the consequences of the
+eruption of the Mount Pinatubo
+volcano in the Philippines in 1991 was
+that communities in the vicinity faced
+an increased long-term threat from
+volcanic debris. The volcano emitted
+some 6.6 cubic kilometres of volcanic
+ash that settled on slopes and in river
+basins. In the following years, rainfall
+turned this into huge mudflows
+(lahars) which destroyed agricultural
+land, bridges, roads and homes over a
+wide area. 
+
+In 1994–95, a local NGO, CONCERN,
+began a project to train and mobilise
+people in Manibaug-Libutad, a
+community of 771 households in one
+of the areas at greatest risk from
+lahars. Twenty-five people
+volunteered for training in capacity
+and vulnerability analysis, hazard
+monitoring and mapping, disaster
+response management (including
+evacuation), damage and needs
+assessment, and other aspects of
+disaster management. 
+
+During the two-day training course,
+the community was able to identify
+safe places for evacuation, and
+resources such as people and
+organisations with cars, trucks and
+communications facilities. The
+participants immediately set up a
+community disaster response
+organisation, which in turn
+
+established committees for warning,
+evacuation, health, information and
+education, and relief and
+rehabilitation. Each committee
+recruited and trained volunteers.
+
+Only three days after the initial
+training was over, rain began in the
+late afternoon and the warning
+committee posted men along a
+nearby lahar-retaining dyke to
+monitor rising mudflows and stream
+water. Barely two hours later, the
+committee gave the order to
+evacuate when the dyke began to
+collapse. Volunteers blew whistles
+and mobilised foot patrols, which
+went from house to house telling
+villagers to gather at the designated
+pick-up points for evacuation, from
+where they were taken by vehicles to
+safe areas. 
+
+Within another hour, one kilometre of
+the dyke had collapsed and a lahar
+was moving through the village, but
+by this time all the residents had been
+evacuated. An hour after that, the
+entire village was covered by the lahar
+to a depth of up to two metres.
+
+Z. G. Delica, ‘Community Mobilisation for
+
+Early Warning in the Philippines’, in J
+
+Zschau and A. N. Küppers (eds), Early
+
+Warning Systems for Natural Disaster
+
+Reduction (Heidelberg: Springer Verlag,
+
+2003), pp. 37–47.
+
+298
+
+Good Practice 4th 8/3/04 2:44 pm Page 299
+
+chapter 16 preparing for disasters and emergencies
+
+Protection of household assets is largely a matter for individual households
+at present. Disaster preparedness and response agencies have not given
+much thought to it, being concerned with saving lives and relieving human
+suffering. Some shelters and safe places are designed to take animals and
+people will often take their most precious possessions to shelters.
+Community stores have been built to protect grain and seeds against
+flooding. The idea of providing secure buildings for storing other items is
+occasionally discussed but has not been tested on any scale. 
+
+The assets of the disaster preparedness system itself also need protecting.
+Control centres, communications systems, warehouses, search and rescue
+equipment and relief goods are all vulnerable. Agencies need to protect their
+own buildings, equipment – and files: preserving records of beneficiary
+groups, resources, methods and experiences is important (just as it is impor-
+tant for local government agencies to preserve land, legal and medical
+records).
+
+s
+r
+e
+t
+s
+a
+s
+i
+d
+r
+o
+f
+
+g
+n
+i
+r
+a
+p
+e
+r
+p
+
+6
+1
+
+16.3 Forecasting and warning 
+
+The literature on forecasting and early-warning systems is extensive; this
+section sets out only a few general principles of good practice, and
+discusses some of the most important issues in making warnings effective
+at local level. Much of the literature looks at forecasts rather than warnings,
+and tends to focus on scientific and technical features. There is some socio-
+logical writing on warning systems, but most is based on research in devel-
+oped countries. Local systems also tend to be less well covered in the
+literature than national ones.
+
+Looked at simply, the early warning process has three inter-related stages:9
+
+1. Evaluation/forecasting (observation and prediction) based on scientific
+expertise and advanced technologies (e.g. mathematical modelling,
+remote sensing). A great deal of effort and resources have gone into this
+stage, resulting in significant advances in accuracy and timeliness in
+some areas of forecasting, notably tropical cyclone forecasts. This is the
+scientific and technical dimension of early warning.
+
+2. Warning/dissemination, where forecasts are turned into messages and
+transmitted by appropriate agencies as recommendations for action.
+There has been considerable investment in this stage as well. In partic-
+ular, rapid advances in communications technology have greatly improved
+the speed with which warnings are transmitted. At this stage, early
+warning acquires institutional and political characteristics.
+
+299
+
+ 
+ 
+ 
+Good Practice 4th 8/3/04 2:44 pm Page 300
+
+disaster risk reduction: mitigation and preparedness
+
+3. Response, whereby warnings are turned into actions, such as evacuation.
+The actors in this process are more numerous and diverse. They include offi-
+cials at national and local levels, NGOs, communities and individuals. In this
+third stage, the institutional and political aspects of early warning broaden
+out, and the early-warning process acquires an essentially social dimension,
+where the human factors of risk perception and decision-making play a
+crucial part. It has not received as much investment as the first two stages.
+
+There are three key elements in the success of an early-warning system, at
+any level:
+
+1. Forecasts must be accurate in predicting the location, time and severity of
+
+a hazard event.
+
+2. Warnings must be disseminated in time for populations at risk to make
+
+themselves safe.
+
+3. Warnings must be communicated to decision-makers and communities in
+appropriate ways, based on understanding of their perceptions and needs.
+
+There have been significant advances in both of the first two areas. However,
+insufficient attention has been paid to the third.
+
+16.3.1 General principles
+
+The UN’s International Decade for Natural Disaster Reduction in the 1990s
+highlighted early warning as a topic for analysis and development.
+International expert groups were convened to look at different aspects of the
+topic and make recommendations. These were summarised in a set of
+‘guiding principles’ for effective early warning (a) at national and local levels
+and (b) at international and regional levels. Those relating to national and
+local levels are reproduced in Box 16.1.
+
+16.3.2 Issues in early warning
+
+Warning systems vary greatly in size, structure, management and technolog-
+ical sophistication, according to the extent of their coverage, the nature of the
+hazard(s) they are warning of and the human and material resources avail-
+able. But there are many issues common to all systems.
+
+Management and resources
+
+Large-scale early-warning systems require considerable resources: people,
+infrastructure, technology, data and funding. They are also complex to
+
+300
+
+Good Practice 4th 8/3/04 2:44 pm Page 301
+
+chapter 16 preparing for disasters and emergencies
+
+s
+r
+e
+t
+s
+a
+s
+i
+d
+r
+o
+f
+
+g
+n
+i
+r
+a
+p
+e
+r
+p
+
+6
+1
+
+c
+i
+l
+
+b
+u
+P
+
+d
+n
+a
+
+n
+o
+i
+t
+a
+m
+r
+o
+f
+n
+
+i
+
+n
+o
+i
+t
+a
+c
+u
+d
+e
+
+e
+v
+i
+t
+c
+e
+f
+f
+E
+
+c
+i
+l
+
+b
+u
+p
+
+e
+s
+n
+o
+p
+s
+e
+r
+
+m
+e
+t
+s
+y
+s
+
+n
+o
+i
+t
+a
+c
+i
+n
+u
+m
+m
+o
+C
+
+,
+
+w
+o
+h
+
+,
+t
+a
+h
+w
+
+(
+
+s
+s
+e
+c
+o
+r
+p
+
+h
+g
+u
+o
+r
+h
+t
+
+,
+
+m
+o
+h
+w
+
+o
+t
+
+i
+
+g
+n
+k
+a
+m
+-
+n
+o
+i
+s
+i
+c
+e
+D
+
+)
+s
+n
+a
+e
+m
+
+t
+a
+h
+w
+
+e
+u
+s
+s
+i
+
+o
+t
+
+n
+o
+i
+s
+i
+c
+e
+D
+
+g
+n
+m
+
+i
+
+i
+t
+
+d
+n
+a
+
+d
+n
+a
+
+e
+c
+i
+v
+d
+a
+
+e
+d
+u
+l
+c
+n
+
+i
+
+s
+n
+o
+i
+t
+a
+d
+n
+e
+m
+m
+o
+c
+e
+r
+
+o
+t
+
+,
+
+i
+
+n
+o
+i
+t
+a
+n
+m
+e
+s
+s
+i
+D
+
+d
+e
+r
+e
+v
+i
+l
+
+e
+d
+
+n
+o
+i
+t
+c
+a
+
+r
+o
+f
+
+f
+o
+
+s
+e
+p
+y
+t
+
+l
+
+e
+p
+i
+t
+l
+u
+m
+y
+b
+
+n
+o
+i
+t
+a
+c
+i
+n
+u
+m
+m
+o
+c
+
+m
+e
+t
+s
+y
+s
+g
+n
+i
+n
+r
+a
+w
+/
+g
+n
+i
+t
+s
+a
+c
+e
+r
+o
+f
+
+c
+i
+r
+e
+n
+e
+G
+
+1
+.
+6
+1
+e
+r
+u
+g
+i
+F
+
+d
+n
+a
+
+s
+i
+s
+y
+l
+a
+n
+A
+
+g
+n
+i
+t
+s
+a
+c
+e
+r
+o
+f
+
+d
+n
+a
+
+n
+o
+i
+t
+c
+e
+t
+e
+D
+
+g
+n
+i
+r
+o
+t
+i
+n
+o
+m
+
+n
+o
+i
+t
+a
+c
+i
+f
+i
+t
+n
+e
+d
+
+I
+
+r
+o
+
+l
+
+e
+p
+o
+e
+p
+
+n
+o
+
+s
+t
+c
+a
+p
+m
+
+i
+
+f
+o
+
+k
+s
+i
+r
+
+t
+a
+
+s
+r
+o
+t
+c
+e
+s
+
+/
+t
+n
+e
+m
+s
+s
+e
+s
+s
+a
+
+y
+t
+i
+l
+i
+
+b
+a
+r
+e
+n
+u
+v
+
+l
+
+s
+i
+s
+y
+l
+a
+n
+a
+
+k
+s
+i
+R
+
+d
+e
+h
+s
+i
+l
+
+b
+u
+p
+n
+u
+
+l
+
+,
+r
+e
+s
+s
+o
+h
+c
+S
+n
+e
+m
+r
+a
+C
+:
+e
+c
+r
+u
+o
+S
+
+m
+e
+t
+s
+y
+s
+
+n
+o
+i
+t
+a
+c
+i
+n
+u
+m
+m
+o
+C
+
+i
+
+s
+g
+n
+n
+r
+a
+w
+
+f
+o
+
+l
+
+n
+o
+i
+t
+a
+u
+m
+r
+o
+F
+
+301
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Good Practice 4th 8/3/04 2:44 pm Page 302
+
+disaster risk reduction: mitigation and preparedness
+
+Box 16.1
+Ten guiding principles for the application of early 
+warning at national and local levels
+
+1. Early warning practices need to be
+
+a coherent set of linked
+operational responsibilities
+established at national and local
+levels of public administration and
+authority. To be effective, these
+early warning systems should
+themselves be components of a
+broader program of natural hazard
+mitigation and vulnerability
+reduction.
+
+2. Within each country, the sole
+
+responsibility for the issuance of
+early warnings for natural and
+similar disasters should rest with
+an agency, or agencies,
+designated by the government.
+3. The decision to act upon receipt of
+warning information is political in
+character. Authoritative decision-
+makers should be identified and
+have locally-recognised political
+responsibility for their decisions.
+Normally, action resulting from
+warnings should be based on
+previously-established disaster
+management procedures of
+organisations at national and local
+level.
+In the chain of political
+responsibility, initial hazard
+information is often technically
+specialised or specific to a single
+type of hazard authority. To be
+applied effectively, warnings
+
+4.
+
+need to be clearly understood
+and operationally relevant to
+local agencies which are more
+frequently oriented toward non-
+specific hazard functions.
+5. Early-warning systems must be
+based upon risk analysis which
+includes the assessment of the
+occurrence of hazards, the nature
+of their effects and prevailing
+types of vulnerability, at national
+and local levels of responsibility.
+The warning process must lead to
+demonstrated practices that can
+communicate warning and
+advisory information to vulnerable
+groups of people so that they may
+take appropriate actions to
+mitigate loss and damage.
+6. Locally predominant hazard
+
+types and patterns, including
+small-scale or localised hydro-
+meteorological hazards related
+to patterns of human economic
+or environmental exploitation,
+must be incorporated if early
+warning is to be relevant to risk
+reduction practices.
+
+7. There is a continuing need to
+
+monitor and forecast changes in
+vulnerability patterns, particularly
+at local levels, such as sudden
+increases in vulnerability arising
+from social developments. These
+may include conditions of rapid
+
+(continued)
+
+302
+
+Good Practice 4th 8/3/04 2:44 pm Page 303
+
+s
+r
+e
+t
+s
+a
+s
+i
+d
+r
+o
+f
+
+g
+n
+i
+r
+a
+p
+e
+r
+p
+
+6
+1
+
+chapter 16 preparing for disasters and emergencies
+
+Box 16.1 (continued)
+
+urbanisation, abrupt migration,
+economic changes, nearby civil
+conflict or similar elements which
+alter the social, economic or
+environmental conditions of an
+area.
+
+8. The primary responsibilities must
+rest at local levels of involvement
+for producing detailed
+information on risks, acting on
+the basis of warnings,
+communicating warnings to
+those individuals at risk and,
+ultimately, for facilitating
+appropriate community actions
+to prevent loss and damage. A
+high resolution of local
+knowledge and developed
+experiences of local risks,
+decision-making procedures,
+definitive authorities concerned,
+means of public communication
+and established coping
+strategies are essential for
+functions to be relevant.
+9. Groups of people that exhibit
+different types of vulnerability
+will have different perceptions of
+risk and various coping
+
+strategies. Locally appropriate
+warning systems will provide a
+range of communication
+methods and should provoke
+multiple strategies for protection
+and risk reduction.
+
+10. To be sustainable, all aspects of
+
+the design and implementation of
+early-warning systems require the
+substantive involvement of
+stakeholders at the local and
+national levels. This includes
+production and verification of
+information about perceived risks,
+agreement on the decision-
+making processes involved, and
+standard operational protocols.
+Equally important abilities involve
+the selection of appropriate
+communication media and
+dissemination strategies which
+can assure an effective level of
+participation in acting upon
+receipt of warning information.
+
+IDNDR Early Warning Programme:
+
+Reports on Early Warning (Geneva: UN
+
+International Decade for Natural Disaster
+
+Reduction, 1999), pp. ii–iv.
+
+manage. They have to integrate multiple actors and different levels (inter-
+national, regional, national, local), and must be linked not only to disaster
+preparedness but also to wider mitigation programmes. It is relatively easy
+to design a system on paper, but its implementation can take many years,
+depending on the scale, and should always be undergoing review and
+refinement.
+
+303
+
+ 
+ 
+ 
+Good Practice 4th 8/3/04 2:44 pm Page 304
+
+disaster risk reduction: mitigation and preparedness
+
+Case Study 16.5 
+The Bangladesh Cyclone Preparedness Programme
+
+Following the 1970 cyclone, which
+killed 500,000 people, the
+government and the Bangladesh
+Red Crescent Society began working
+together to improve coastal
+warnings and evacuation. The
+Cyclone Preparedness Programme
+currently covers 11 districts
+containing 3,500 villages. Its
+activities include issuing warnings,
+building and operating shelters
+(there are 1,350 along the coast,
+some built by other agencies),
+assisting with evacuation, search
+and rescue, first aid, relief and
+rehabilitation, and building up
+community preparedness capacity.
+
+The backbone of the project is a
+cadre of 32,000 village volunteers,
+men and women, organised into
+local teams of 12. They are equipped
+with radios to monitor weather
+bulletins, megaphones and hand-
+operated sirens, first aid kits, rescue
+equipment and protective clothing.
+They are not paid, but receive travel
+costs and daily allowances for
+attending training sessions.
+
+In the periods between cyclones,
+volunteers are trained by permanent
+Red Crescent staff. They receive a
+three-day basic training in cyclone
+preparedness, with refresher courses
+every five years. Specialist training in
+
+subjects such as radio use, first aid
+and leadership is provided separately.
+
+The volunteers organise regular
+rehearsals and demonstrations in
+villages: the project aims to hold at
+least 260 mass community
+awareness demonstrations each
+year. Plays have been written for the
+programme to disseminate
+information about storing emergency
+rations, safe shelter and basic
+hygiene. More than 200,000 people
+have seen these. Folk songs, wall
+paintings, video shows and posters
+are among the other methods used
+to raise awareness.
+
+The village volunteer groups are
+linked to each other and to Red
+Crescent offices at field and higher
+levels through a network of radio
+stations. This network is maintained
+throughout the year, and runs 24
+hours a day during a warning or
+emergency period.
+
+The system is costly and requires
+ongoing funding from the government
+and the international Red Cross/Red
+Crescent movement. Extending its
+coverage and improving its
+operational effectiveness are
+continuing challenges. However, it is
+widely acknowledged to be highly
+effective. Hundreds of thousands of
+
+304
+
+Good Practice 4th 8/3/04 2:44 pm Page 305
+
+chapter 16 preparing for disasters and emergencies
+
+Case Study 16.5 (continued)
+
+s
+r
+e
+t
+s
+a
+s
+i
+d
+r
+o
+f
+
+g
+n
+i
+r
+a
+p
+e
+r
+p
+
+6
+1
+
+l
+
+h
+s
+e
+d
+a
+g
+n
+a
+B
+S
+V
+
+I
+
+A page from a community training manual, showing actions to take in preparing for
+
+a cyclone
+
+people can now routinely be
+evacuated from the path of cyclones.
+In May 1994, three quarters of a
+million people were safely evacuated;
+only 127 died.
+
+A review in 2000 found that, as a
+result of the programme, ‘Cyclone
+warning and the response to it have
+become part of people’s daily lives.’
+
+Cyclone Preparedness Programme
+
+(London: British Red Cross Society, NGO
+
+Initiatives in Risk Reduction, Case Study 4,
+
+2000), www.redcross.org.uk/riskreduc-
+
+tion; M. H. Akhand, ‘Disaster Management
+
+and Cyclone Warning System in
+
+Bangladesh’, in J. Zschau and A. N.
+
+Küppers (eds), Early Warning Systems for
+
+Natural Disaster Reduction (Heidelberg:
+
+Springer Verlag, 2003), pp. 49–64.
+
+It is certainly not the case that only rich societies can have effective forecasting
+and warning systems: one of the most notable successes in recent years is the
+Cyclone Preparedness Programme in Bangladesh (Case Study 16.5).
+
+Well-integrated systems like the cyclone preparedness programme in
+Bangladesh cover a wide geographical area and reach down to community
+level. It is not clear how common this is. Centralised forecasting and warning
+systems tend to achieve broad geographical coverage, but can ‘fade out’ as
+they get closer to vulnerable communities.
+
+305
+
+ 
+ 
+ 
+ 
+Good Practice 4th 8/3/04 2:44 pm Page 306
+
+disaster risk reduction: mitigation and preparedness
+
+In most systems, the bulk of effort and expense is put into transmitting
+detailed, clearly presented information to decision-makers and government
+emergency management services. Far less effort and funding go into dissemi-
+nating this information right down to individual communities or households
+through accessible messages that will warn them and help them to make
+sensible decisions about how to respond. In Delhi, for example, a sophisticated
+forecasting and warning system for floods in the Yamuna River was found to
+break down at the point of informing poor people living in slums in the riverbed.
+A cryptic one-line statement (‘the water level is expected to rise, make your
+own arrangements’) was all these communities received to warn of floods in
+September 1995, delivered by local policemen touring the settlement.10
+
+Local and community-based systems
+
+There is a role for small-scale early-warning systems. These can be based on
+local capacities and technologies to a greater extent than larger systems.
+They can deal with the local incidence of hazards, which larger systems
+cannot usually manage. Communities can be more closely involved in running
+them – and are more likely to respond to their warnings. 
+
+The effectiveness of such systems is particularly evident in community-based
+monitoring of drought/famine (see Chapter 15.4, page 274), but they can also
+be effective with other hazards, notably flood warnings (see Case Study 16.6).
+Local warning systems can sometimes be free-standing, but for comprehen-
+sive, integrated outreach it is better if they form ‘sub-systems’ of larger-scale
+programmes.
+
+Technological sophistication is not necessarily a barrier to small-scale
+warning systems or community involvement. In Jamaica, volunteer rainfall
+gauge readers in the upper watershed of the Cave River respond to heavy
+rainfall and general alerts by the National Meteorological Services by moni-
+toring the amount and duration of the rainfall. They transmit information
+down to the village of Aenon Town, which the river also runs through, using
+citizen band radio. The radio operator at Aenon Town interprets the data
+and, using a prediction table, estimates how long it will be until the river
+floods there and how high the floodwaters will be. A complex computer-
+based flood forecasting model developed by scientists was used to draw up
+the prediction table, but the local radio operator only has to use the table
+itself and does not have to make any other calculations. When the esti-
+mated time to flooding gets down to three hours, an emergency operations
+centre is activated.11
+
+306
+
+Good Practice 4th 8/3/04 2:44 pm Page 307
+
+s
+r
+e
+t
+s
+a
+s
+i
+d
+r
+o
+f
+
+g
+n
+i
+r
+a
+p
+e
+r
+p
+
+6
+1
+
+chapter 16 preparing for disasters and emergencies
+
+Case Study 16.6
+A community-operated early-warning system
+
+The Coyolate River Basin covers 900
+square kilometres of highlands and
+coastal plains in Guatemala. It is
+subject to recurrent floods. In 1997,
+the government established a
+community-operated disaster
+management programme with funding
+from the Swedish International
+Development Agency (SIDA). 
+
+Local emergency committees and
+volunteers were trained in hazard
+mapping and elements of emergency
+planning and response, including
+early warning. A technologically
+simple early-warning system was
+established, at about a quarter of
+the cost of conventional automated
+(telemetric) systems which use more
+sophisticated instruments.
+Community volunteers use plastic
+rain gauges to monitor rainfall, and
+simple electronic instrumentation to
+measure river levels, feeding
+information to a local forecasting
+centre via solar-powered radios. The
+centre, which is staffed by members
+of the local emergency committee,
+
+can forecast floods two to three
+hours in advance and begin
+emergency preparations if required.
+
+Hurricane Mitch in October 1998 was
+the system’s first test. While almost
+300 people died in Mitch-induced
+floods on other rivers in Guatemala,
+no lives were lost along the Coyolate
+River system thanks to successful
+evacuation. In its first five years, the
+early-warning system benefited over
+5,000 people in about 100
+communities. 
+
+The project’s success has led to
+similar systems being developed
+elsewhere in Guatemala and Central
+America. There are believed to be
+more than 20 community-operated
+early-warning systems in watersheds
+in the region, most of which have
+been set up since Mitch.
+
+World Disasters Report 2002: Focus on
+
+Reducing Risk (Geneva: International
+
+Federation of Red Cross and Red Crescent
+
+Societies, 2002), pp. 52–53.
+
+In any case, vulnerable communities will probably monitor impending events
+themselves. Communities living close to flood-prone rivers often have people
+watching water levels at times of severe or prolonged rainfall, and simple
+gauges – e.g. marks on a tree or a bridge – are used to measure this.
+
+307
+
+ 
+ 
+ 
+Good Practice 4th 8/3/04 2:44 pm Page 308
+
+disaster risk reduction: mitigation and preparedness
+
+Influences on official response 
+
+Institutional response to forecasts and warnings of impending disasters is
+influenced by external factors – political, attitudinal, legal, economic, logis-
+tical, ideological and institutional – that are unrelated to the scientific data
+(for a discussion of this in famine/food security early-warning systems, see
+Chapter 15.4, page 274).
+
+Where events are seasonal or frequent, such as cyclones or monsoon floods,
+institutions are relatively familiar with them and it is easier to develop and
+run effective warning systems. But in the case of infrequent events, officials
+may not understand the hazard, and establishing a warning system is less
+likely to have been a political priority. 
+
+Volcanic eruptions are a prime example. Many potentially dangerous volca-
+noes have not erupted in living memory, there is still a lot of scientific uncer-
+tainty when it comes to predicting the timing of individual eruptions, and as
+complex natural phenomena volcanoes are not easily explained to non-scien-
+tists – yet scientists still need to explain matters to decision-makers, the
+media and the public.12 Successful evacuations, such as that of 60,000
+people ahead of the eruption of Mount Pinatubo in 1991, owe their success to
+the effort and ingenuity that went into communicating with non-specialists
+(see Chapter 11.3.5).
+
+Case Study 16.7 outlines a famous, tragic example of political and institu-
+tional weaknesses contributing to a disaster that could have been avoided.
+
+Influences on community response
+
+As previous chapters have shown, people at risk do make rational choices
+about protecting themselves from disaster.13 Within communities, there are
+many different perspectives of risk which vary according to socio-economic
+differences in wealth, social standing, level of education, age, religion, ethnic
+group and gender. Personal and collective experience plays a significant part
+here. Risk perceptions are likely to vary considerably between different
+communities, and even within the same community. This diversity presents a
+particular challenge to those who have to transmit early-warning messages
+over wide areas.
+
+One of the principal socio-economic factors affecting response to disaster
+warnings in many developing countries is, surely, the vital need to protect
+assets and maintain livelihoods. The poorer and more marginalised a house-
+
+308
+
+s
+r
+e
+t
+s
+a
+s
+i
+d
+r
+o
+f
+
+g
+n
+i
+r
+a
+p
+e
+r
+p
+
+6
+1
+
+Good Practice 4th 8/3/04 2:44 pm Page 309
+
+chapter 16 preparing for disasters and emergencies
+
+Case Study 16.7
+Early-warning failure
+
+Shortly after 9pm on the evening of
+13 November 1985, the Nevado del
+Ruiz volcano in Colombia erupted. It
+threw out clouds of hot ash that
+scoured and melted part of the
+summit’s snow and ice cap, sending
+torrents of meltwater, slush, ice and
+volcanic debris down the slopes,
+where they picked up water,
+vegetation and other debris to form
+lahars that raced along the valleys of
+streams and rivers normally fed by
+the volcano’s melting snow and ice.
+Shortly before midnight, the lahars
+reached the town of Armero: more
+than 21,000 people were killed.
+
+The eruption was not a surprise. The
+volcano had been noticeably active for
+about a year. Early in 1985,
+government scientists and civil
+defence authorities were alerted. The
+Civil Defence prepared a disaster plan,
+but this was done without an up-to-
+date hazard/risk map. This was the
+responsibility of the government
+geology and mines bureau,
+INGEOMINAS, but it showed little
+sense of urgency when it came to
+mapping or monitoring the volcano
+and in any case did not have sufficient
+expertise. Equipment and experts had
+to be brought in from other countries
+to help monitor seismic activity, but
+the monitoring system was not in
+place until the end of August, and
+
+even then there were two parallel
+monitoring sets in operation, one run
+by INGEOMINAS and the other by an
+officially sanctioned local Volcanic
+Risk Committee that had been set up
+by local government, universities and
+businesses. Central government
+officials were offered more expert
+volcanologists, equipment, training
+and information by UNESCO, but did
+not act on the offer for nearly two
+months.
+
+Nevado del Ruiz increased its volcanic
+activity markedly in September, and
+this speeded up preparedness
+activity. The Volcanic Risk Committee
+issued a public warning of serious
+risk of an eruption and avalanches of
+rock and ice. A national-level
+emergency committee was formed,
+the Civil Defence developed its
+emergency management plan and the
+Colombian Red Cross assumed
+responsibilities for emergency
+communication and disaster
+response. The Civil Defence was
+active in identifying populations at
+most risk along the river systems fed
+by the volcano, initiating awareness
+programmes in schools, improving
+radio communications facilities and
+providing other emergency
+equipment, and meeting national and
+local officials. Provincial emergency
+committees contacted villages to
+
+(continued)
+
+309
+
+ 
+ 
+ 
+Good Practice 4th 8/3/04 2:44 pm Page 310
+
+disaster risk reduction: mitigation and preparedness
+
+Case Study 16.7 (continued)
+
+highlight the need for preparedness
+and encourage the development of
+local evacuation plans.
+
+Yet the disaster management
+arrangements remained incomplete.
+A preliminary hazard map was
+presented in early October, showing
+that extensive areas were threatened
+and some towns would need to
+evacuate rapidly; but only ten copies
+were made and distributed. The four
+provinces likely to be affected were
+developing separate plans, with little
+coordination. The seismic monitoring
+programme was still inadequate and
+data were not being shared fully. It
+was felt that national government
+was hesitant about action, and some
+government officials in the capital
+criticised the hazard map as being
+too alarming. In an attempt to calm
+the population, a national
+newspaper stated that the volcano
+was not dangerous, as did the
+Director of the Geophysical Institute
+of the Andes. The Chamber of
+Commerce in Manizales, a large town
+near the volcano, expressed concern
+that irresponsible reporting would
+cause economic losses. An
+archbishop criticised the media for
+spreading ‘volcanic terrorism’. The
+Mayor of Armero stated that many
+people were confused by the
+information they received: they did
+not know whether to stay or leave.
+
+Improvements to the scientific
+monitoring system and public
+presentation of a revised hazard map
+were delayed by a national political
+crisis early in November, when
+guerrillas took over the Palace of
+Justice in Bogota and the
+government sent in troops to
+recapture it. When Nevado del Ruiz
+began to erupt in mid-afternoon on
+13 November, regional and local
+emergency structures were alerted
+but no immediate decision to
+evacuate was made, although it was
+known that the lahar flows might be
+rapid, leaving little time to escape:
+the people of Armero would have at
+most two hours’ warning to evacuate
+to higher ground. In Armero,
+residents were reassured by a local
+radio station and the church public
+address system that there was no
+immediate danger.
+
+After a new and more serious phase
+of the eruption began at 9pm, the
+Governor of Caldas Province called
+local radio stations to issue red
+alerts to communities living along
+the rivers. Officials in the capital of
+Tolima Province attempted to order
+the evacuation of Armero from 9.45,
+but there were power and
+communications difficulties owing to
+a torrential rainstorm filled with
+volcanic ash. Shortly afterwards, the
+lahar broke through a natural dam
+
+(continued)
+
+310
+
+Good Practice 4th 8/3/04 2:44 pm Page 311
+
+chapter 16 preparing for disasters and emergencies
+
+Case Study 16.7 (continued)
+
+created by a landslide 12km
+upstream. The dam had been
+holding back 250,000 cubic metres
+of water, which were now released in
+a 40-metre-high wave. The Mayor of
+Armero had stated his concern about
+the dam on 17 September and
+government geologists had
+recommended draining it, but the
+work had not begun. 
+
+Survivors’ accounts suggest that
+there was no official, systematic
+order to evacuate, although in some
+cases representatives of relevant
+
+agencies took action as individuals.
+Many people were reluctant to move
+having heard the earlier
+reassurances from the local priest
+and radio station. Even the Mayor
+and his family remained. In Armero,
+most people fled, on foot and in the
+darkness, only after hearing the first
+flood waves hit the town.
+
+B. Voight, ‘The 1985 Nevado del Ruiz
+
+Volcano Catastrophe: Anatomy and
+
+Retrospection’, Journal of Volcanology
+
+and Geothermal Research, vol. 44, 1990,
+
+pp. 349–86.
+
+s
+r
+e
+t
+s
+a
+s
+i
+d
+r
+o
+f
+
+g
+n
+i
+r
+a
+p
+e
+r
+p
+
+6
+1
+
+hold is, the more important it becomes to hold on to assets and property
+(such as livestock and household goods) and income (for a day labourer,
+every day’s wages are vital in feeding the family or paying off debts to money-
+lenders). A household may perceive the risk of evacuation, in terms of losing
+control of its assets and resources, as more devastating than the risk of the
+hazard, especially where warnings are frequent but do not necessarily lead to
+disaster. 
+
+There are many indications that poor people delay evacuation because of
+this, often with fatal consequences. It is believed, for example, that many of
+the 700 people who died in Mozambique in the 2000 floods were family
+members left behind to tend cattle and goats.14 Anecdotal evidence suggests
+that Bangladeshis respond to flood and cyclone warnings more readily when
+they know that there is a place of safety for their livestock. The remark of a
+woman inhabitant of a char island on the Jamuna River in Bangladesh is
+revealing: ‘During the ’88 floods I remained alone here. Someone obviously
+had to look after the farm’.15
+
+Gaining a better understanding of the contextual factors and constraints that
+generate people’s diverse perceptions of risk and hence their diverse
+
+311
+
+ 
+ 
+ 
+Good Practice 4th 8/3/04 2:44 pm Page 312
+
+disaster risk reduction: mitigation and preparedness
+
+responses to warnings should enable early-warning systems to be more
+effective. However, warning specialists are often not well-equipped to under-
+stand how communities perceive and react to hazards and risks. There are
+several reasons for this. 
+
+The first is that specialists and communities look at a potential disaster from
+different starting points. Early-warning systems start centrally, at international
+and national levels, and then move outwards and downwards through the
+administrative system towards districts, sub-districts and villages or neigh-
+bourhoods. In this perspective, individual villages or neighbourhoods are on
+the periphery. But for the individual at risk, their home and immediate locality
+are at the centre of the picture. This means that factors that are of primary
+importance to the villager or householder at risk are likely to be invisible to
+system managers, who work on a much larger scale. Conversely, the manager’s
+national or regional perspective appears irrelevant to the individual at risk.
+
+The second reason is that the two groups measure and describe risk in quite
+different ways. Technical specialists draw upon scientific and engineering
+methods of analysis to quantify risk, principally in mathematical terms of
+probability. This esoteric language is not understood outside the scientific
+community. It may not even be understood by officials and NGO staff respon-
+sible for disaster preparedness and response. It is not easy to translate such
+mathematical calculations into everyday language (such as ‘high’, ‘medium’
+or ‘low’ risk) for operational use; indeed, this may only add to the confusion.
+Disaster victims and potential victims measure and describe risk in more
+varied, qualitative terms.
+
+A third reason is the assumption among some disaster professionals that they
+alone understand and assess risk objectively (i.e. scientifically), whereas the
+disaster victims’ understanding and assessment is merely subjective, even irra-
+tional, perception. There are a number of problems with this attitude. One is
+methodological: it is not possible to maintain a clear distinction between
+‘objective statistical’ and ‘subjective perceived’ risk because ‘objective’ risk
+estimation itself involves value judgements, such as the definition of hazard
+events and the time/space sampling frame chosen for the events. Second, such
+a perspective undervalues the knowledge of those who actually experience
+hazards on the ground. It also overlooks the social and economic forces that
+make some people more vulnerable to natural hazards than others.
+
+A better understanding of such matters will require different approaches to
+communicating with communities at risk based on dialogue with communi-
+ties and community participation (see Chapter 11.2). Participatory methods
+
+312
+
+Good Practice 4th 8/3/04 2:44 pm Page 313
+
+chapter 16 preparing for disasters and emergencies
+
+s
+r
+e
+t
+s
+a
+s
+i
+d
+r
+o
+f
+
+g
+n
+i
+r
+a
+p
+e
+r
+p
+
+6
+1
+
+Case Study 16.8
+Communicating community response
+
+Simulation exercises can enable
+communities to explain themselves
+fully and clearly on their own terms,
+without mediation. In one such
+exercise, in the Philippines in 1996,
+villagers re-enacted what they had
+done before and during a major
+cyclone, Typhoon Ruping. 
+
+Villagers were divided into three
+groups with, as far as possible, a
+similar social and occupational mix.
+Each group was given one hour to
+discuss a different stage of the
+typhoon (before, during and after)
+and prepare its presentation, which
+took the form of a short drama
+
+involving all group members, followed
+by a more detailed explanation by the
+groups’ rapporteurs.
+
+The simulation provided valuable
+insights into how the villagers had
+learnt about the impending typhoon,
+their actions to protect property and
+assets, and their evacuation plans. It
+also revealed the impact of the
+typhoon on different groups in the
+community. 
+
+R. Bellers, ‘Simulation Exercise Notes:
+
+Igbalangao’s Experience of a Typhoon’,
+
+mimeo (Oxford: Oxford Centre for
+
+Disaster Studies, 1996).
+
+have considerable potential in helping outsiders to understand local contexts
+and actions in response to warnings (see Case Study 16.8).
+
+Many communities draw on their own indicators of impending hazard when
+deciding how to respond to warnings. A survey on the offshore islands of
+Bangladesh has identified a wide range of local indicators of impending
+cyclones based on observation of weather patterns, action of the sea and
+rivers, and animal behaviour.16 In the 1970s, China claimed success in
+predicting earthquakes by mobilising the masses to watch for signs in nature,
+such as chickens roosting in trees, fish leaping out of the water, horses
+refusing to enter stalls, dogs howling and other animals acting nervously. The
+Chinese believe that the bat is the animal most sensitive to approaching
+tremors; for the Japanese, it is the pheasant. Well water is also thought to
+rise before an earthquake.17
+
+Indigenous knowledge of this kind has been shown to be reliable on occasion
+– as in the case of methods used by villagers along the Jamuna River in
+
+313
+
+ 
+ 
+ 
+Good Practice 4th 8/3/04 2:44 pm Page 314
+
+disaster risk reduction: mitigation and preparedness
+
+Bangladesh to plot and predict flooding and erosion.18 But in general there
+has been little attempt to validate indigenous forecasting scientifically. More
+work should be done in this area. It would help to dispel potentially
+dangerous errors in understanding, but it might also enable warning systems
+to incorporate reliable indigenous indicators, with a potentially higher chance
+of community response. Famine early-warning systems certainly benefit from
+community participation, as local people are sensitive to socio-economic as
+well as agricultural indicators of food insecurity.
+
+Information command and control
+
+Emergency planning manuals highlight the importance of officially validated
+forecasting and warning information issued from a central point. Experts are
+often concerned about the growing diversity of unofficial sources of informa-
+tion, especially radio, satellite and cable television stations and the Internet.
+Information from multiple sources, with varying degrees of reliability, is gener-
+ally reckoned to be dangerous, leading to incorrect responses or even panic.
+
+There is some justification for this. In Nepal in 1997, statements were made in
+the media and by politicians about the risk that the natural dam holding back
+the Tsho Rolpa glacial lake could burst during the imminent monsoon season,
+causing a sudden, massive and highly destructive flood that would hit some
+4,000 people in the river valleys below. Alarm spread quickly among government
+officials, NGOs and communities. Officials advised thousands of people to
+evacuate, prices shot up and down in local markets, traders and large numbers
+of villagers moved to higher ground, and flights to the local airport were
+suspended. There was general confusion, but it was not in response to an official
+warning, because none was issued. There was not even an early-warning system
+in place on the lake at the beginning of the alarm. Scientific studies of the lake
+and the potential threat were carried out, but the response of officials, NGOs and
+communities alike was triggered by media stories and politicians’ public state-
+ments. The media and politicians were not technical experts, but jumped to their
+own conclusions from the scientific data. There was no flood.19
+
+But in the modern age command and control of information is unrealistic. The
+public are increasingly consumers of information from different sources,
+choosing what information to use and where to obtain it (see Chapter 11.3.4,
+page 177). 
+
+It will be extremely difficult to strike a balance between the need for warning
+systems that disseminate authoritative information and the public’s desire to
+make its own choices. Disaster managers will have to acquire extensive skills
+
+314
+
+Good Practice 4th 8/3/04 2:44 pm Page 315
+
+chapter 16 preparing for disasters and emergencies
+
+in media management, but the central issue is arguably one of public trust in
+disaster professionals. It has been suggested that one of the reasons for the
+Cuban authorities’ success in evacuating 700,000 people from the path of
+Hurricane Michelle in November 2001 was the population’s trust in officials
+and in their warnings. There were many other reasons – the warning and
+evacuation appear to have been models of good planning and implementa-
+tion – but their effect would have been weakened without a sufficiently high
+level of public trust.20
+
+s
+r
+e
+t
+s
+a
+s
+i
+d
+r
+o
+f
+
+g
+n
+i
+r
+a
+p
+e
+r
+p
+
+6
+1
+
+Science and technology
+
+Recent decades have seen rapid advances in the scientific understanding of
+natural hazards and in the development of technologies to monitor them.
+This has greatly enhanced scientists’ ability to forecast the location, timing
+and severity of many events.
+
+All forecasting and warning systems, other than a few free-standing local
+ones, rely at some point on such scientific knowledge, but scientists’ capacity
+to predict varies with the hazard studied. For example, in the case of geolog-
+ical hazards (earthquakes, volcanic eruptions, landslides, tsunamis), it is
+possible to identify where events may take place, but very difficult to indicate
+when. Short-term predictions or forecasts (over days and hours) are generally
+much more successful in the cases of landslides, volcanoes and tsunamis
+than they are for earthquakes. Meteorologists have become very skilled at
+making short-term forecasts of hurricanes, predicting their timing and
+movement, and their seasonal forecasting is also becoming more reliable.
+Scientists’ improved understanding of the El Niño phenomenon over the past
+20 years has made their predictions of its timing relatively accurate.
+
+The scientific and technical resource base is the result of many years of
+investment throughout the world. Knowledge is widely shared among the
+various scientific communities. Data from technical devices (such as remote-
+sensing satellites and buoys monitoring sea-surface temperatures) are
+routinely transmitted to forecasters and disaster planners through estab-
+lished global networks. The World Meteorological Organization, for example,
+has played a significant role in coordinating monitoring and forecasting of
+hydro-meteorological hazards.
+
+Evacuation and shelter
+
+In most cases, evacuation will be the primary response to warnings. Creation
+of escape routes and shelters is therefore essential.
+
+315
+
+ 
+ 
+ 
+Good Practice 4th 8/3/04 2:44 pm Page 316
+
+disaster risk reduction: mitigation and preparedness
+
+Case Study 16.9
+No escape route
+
+In January 1981, 104 people were
+killed by floods in the small town of
+Laingsburg in South Africa. The lack
+of a flood warning system was a
+major factor in the disaster. The town
+is in a floodplain and there had been
+heavy rainfall.
+
+The highest loss of life was due to
+residents staying in their houses,
+close to the river, until the depth and
+speed of the flood waters prevented
+them from leaving. Sixteen people
+were killed on the road bridge across
+the Buffels River. When the river
+overflowed its banks and spread into
+the town, vehicles approaching from
+
+the direction of Cape Town could go
+no further and traffic built up on the
+bridge. Unaware of the danger they
+were facing, drivers, passengers and
+onlookers remained on the bridge.
+The river continued to rise and
+crossed the road on the other side of
+the bridge, cutting off their escape
+route. The flood then covered the
+bridge itself.
+
+W. J. R. Alexander, ‘Early Warning Systems
+
+for the Detection and Response to Severe
+
+Floods’, in J. Zschau and A. N. Küppers
+
+(eds), Early Warning Systems for Natural
+
+Disaster Reduction (Heidelberg: Springer
+
+Verlag, 2003), pp. 311–16.
+
+People at risk need to know which routes are safe to use for escape and
+where to go in case of a hazard event. They must be confident that the escape
+routes will not be blocked by those fleeing the disaster, or be cut off by the
+hazard itself (e.g. by flood waters). Where routes are cut off people should be
+aware of alternative routes. Many lives are lost in disasters because people
+remain in their homes for too long, until they cannot escape, or because
+places they believed to be safe were not (see Case Study 16.9).
+
+Particular attention should be given to helping vulnerable people to escape.
+Older people, the disabled, and pregnant women or women with young
+children cannot move very quickly and easily. They may need assistance, as in
+the example from India cited in Chapter 6.3.1 (page 89), in which young
+people helped their elders to safety before a cyclone struck.
+
+People must also have confidence that emergency shelters are in safe loca-
+tions and can withstand the hazards concerned. In some places, women have
+been particularly reluctant to go to shelters, because of the lack of privacy or
+
+316
+
+Good Practice 4th 8/3/04 2:44 pm Page 317
+
+chapter 16 preparing for disasters and emergencies
+
+fear of abuse there. Many specially-constructed disaster shelters are used
+during normal times as community buildings, such as meeting halls, schools
+and stores. There is concern that local elites may use such facilities for their
+own purposes, and may deny access to others at times of crisis. Certainly,
+there is plenty of anecdotal evidence of this. It is also not unknown for local
+elites to influence the siting of shelters. It is unclear how widespread this is
+and how best to prevent it. More systematic study of how shelters are
+managed during and between disasters would be helpful.
+
+Shelters do not always need to be specially constructed, since existing
+community buildings such as schools, churches, temples and mosques may
+be adequate. Planning should include compiling inventories of such facilities
+and strengthening or protecting them where necessary.
+
+s
+r
+e
+t
+s
+a
+s
+i
+d
+r
+o
+f
+
+g
+n
+i
+r
+a
+p
+e
+r
+p
+
+6
+1
+
+16.4 Chapter summary
+
+• Disaster preparedness comprises several elements: forecasting and
+warning, taking precautionary measures and organising effective rescue
+involves
+and relief. Establishing a disaster preparedness system 
+addressing a range of technical and institutional issues.
+
+• Good disaster preparedness planning is crucial to success. Plans should
+be based on thorough and realistic analysis, should ensure coordination
+by all groups concerned and should be ‘owned’ by them.
+
+• Above all, planning should be seen as a continuing process of improve-
+
+ment, not merely as the production of a plan.
+
+• When disaster strikes, a variety of material and human resources will be
+needed. These should be built up (e.g. through stockpiling and training)
+well in advance.
+
+• Relief materials should be genuinely appropriate to local needs, cultures
+
+and practices, and should be bought locally wherever possible.
+
+• Volunteer-based programmes can be effective on both small and large
+scales. They should be based on existing community institutions, if
+possible. Thorough training and refresher courses are essential.
+
+• Protection of livelihood assets is seen largely as a matter for individual
+
+households at present, but it deserves more attention.
+• Disaster preparedness systems themselves need protecting.
+• There have been great advances in hazard forecasting in recent years, but
+insufficient attention has been paid to communicating warnings to
+decision-makers and communities in appropriate ways.
+
+• Small-scale, community-based warning systems can be very effective.
+• The need to protect livelihood assets is a powerful influence on the way
+poor people respond to disaster warnings, but this is poorly understood
+
+317
+
+ 
+ 
+ 
+Good Practice 4th 8/3/04 2:44 pm Page 318
+
+disaster risk reduction: mitigation and preparedness
+
+by most disaster managers. More dialogue with communities about their
+priorities and perceptions of risk is needed.
+
+Notes
+
+1 See R. Kent, Disaster Preparedness (New York/Geneva: UNDP/DHA Disaster Training
+
+Programme, 1994), http://undmtp.org/english/disaster_preparedness/disaster_prepared-
+
+ness.pdf; E. L. Quarantelli, Major Criteria for Judging Disaster Planning and Managing and
+
+Their Applicability in Developing Societies (Newark, DE: University of Delaware Disaster
+
+Research Center (Preliminary Paper 268), 1998), www.udel.edu/DRC/preliminary/268.pdf; D.
+
+Alexander, Principles of Emergency Planning and Management (Harpenden: Terra Publishing,
+
+2002).
+
+2 Examples of the structure and content of typical disaster plans are given in Kent, Disaster
+
+Preparedness, p. 15; Alexander, Principles of Emergency Planning and Management, pp.
+
+96–97.
+
+3 Kent, Disaster Preparedness, p. 14.
+
+4 On emergency management training, see Alexander, Principles of Emergency Planning and
+
+Management, pp. 287–300; A. von Kotze and A. Holloway, Reducing Risk: Participatory
+
+Learning Activities for Disaster Mitigation in Southern Africa, International Federation of Red
+
+Cross and Red Crescent Societies/Oxfam/University of Natal, 1996, pp. 187–232.
+
+5 T. Schilderman, ‘Disasters and Development: A Case Study from Peru’, Journal of International
+
+Development, vol. 5, no. 4, 1993, pp. 415–23.
+
+6 R. Vonk, ‘Emergency Preparedness in Cyclone Prone Areas in Madagascar’, in J. Scobie (ed)
+
+Mitigating the Millennium: Community participation and impact measurement in disaster
+
+preparedness and mitigation programmes (Rugby: ITDG, 1997), p. 54.
+
+7 
+
+I. Davis, Shelter after Disaster (Oxford: Oxford Polytechnic Press, 1978).
+
+8 For example, A. Heijmans and L. P. Victoria, Citizenry-Based & Development-Oriented Disaster
+
+Response: Experiences and Practices in Disaster Management of the Citizens’ Disaster
+
+Response Network in the Philippines (Quezon City: Center for Disaster Preparedness, 2001),
+
+pp. 45–80.
+
+9 K. Smith, Environmental Hazards. Assessing Risk and Reducing Disaster (London: Routledge,
+
+1996), pp. 110–12.
+
+10 A. Sharma, ‘Early Warning: Community Interpretations and Perceptions – A Case of Recurrent
+
+Floods and their Warnings in Delhi (India)’, in J. Zschau and A. N. Küppers (eds), Early Warning
+
+Systems for Natural Disaster Reduction (Heidelberg: Springer Verlag, 2003), pp. 77–80.
+
+11 B. E. Carby, ‘Transferring Flood Warning Technology to Vulnerable Communities in Jamaica’, in
+
+ibid., pp. 811–13.
+
+12 For guidance on this, see Communication During Volcanic Emergencies (London: Benfield
+
+Hazard Research Centre, 2002), www.benfieldhrc.org/DMU/Carib/Carib.2003.pdf.
+
+13 The following paragraphs are based on J. Twigg, ‘The Human Factor in Early Warnings: Risk
+
+Perception and Appropriate Communications’, in Zschau and Küppers, Early Warning Systems
+
+for Natural Disaster Reduction, pp. 19–26.
+
+318
+
+Good Practice 4th 8/3/04 2:44 pm Page 319
+
+chapter 16 preparing for disasters and emergencies
+
+14 World Disasters Report 2002: Focus on Reducing Risk (Geneva: International Federation of Red
+
+Cross and Red Crescent Societies, 2002), p. 65.
+
+15 H. Schmuck-Widmann, Living with the Floods: Survival Strategies of Char-Dwellers in
+
+Bangladesh (Berlin: ASA-Programm of the Carl-Duisberg-Gesellschaft, 1996), p. 30.
+
+16 P. Howell, Indigenous Early Warning Indicators of Cyclones: Potential Application in Coastal
+
+Bangladesh (London: Benfield Hazard Research Centre (Disaster Studies Working Paper 6),
+
+2003), www.benfieldhrc.org/DMU/WorkingPapers/workingpaper6.pdf.
+
+17 A. Wijkman and L. Timberlake, Natural Disasters: Acts of God or Acts of Man? (London:
+
+Earthscan, 1984), pp. 93–94.
+
+18 Schmuck-Widmann, Living with the Floods; H. Schmuck-Widmann, Facing the Jamuna River:
+
+Indigenous and Engineering Knowledge in Bangladesh (Dhaka: Bangladesh Resource Centre
+
+for Indigenous Knowledge, 2001).
+
+19 D. Gyawali and A. Dixit, ‘How Distant Is Nepali Science from Nepali Society? Lessons from the
+
+1997 Tsho Rolpa GLOF Panic’, Water Nepal, vol. 5, no. 2, 1997, pp. 5–43.
+
+20 B. Wisner, ‘Lessons from Cuba? Hurricane Michelle, November, 2001’, Radix website, 2001,
+
+http://online.northumbria.ac.uk/geography_research/radix/resources/lessons-from-
+
+cuba.doc.
+
+s
+r
+e
+t
+s
+a
+s
+i
+d
+r
+o
+f
+
+g
+n
+i
+r
+a
+p
+e
+r
+p
+
+6
+1
+
+319
+
+ 
+ 
+ 
+Good Practice 4th 8/3/04 2:44 pm Page 320
+
+disaster risk reduction: mitigation and preparedness
+
+Chapter 17
+
+Risk reduction after disaster
+
+17.1 Introduction
+
+This chapter looks at the operational challenges of introducing risk reduction
+measures during post-disaster work. First, it looks at the broad challenge of
+integrating relief, recovery and development. Next, it surveys some of the
+main ways in which mitigation and preparedness are introduced after disas-
+ters (though the basic principles of good practice outlined in earlier chapters
+also apply to post-disaster conditions).
+
+17.2 Relief, rehabilitation and development
+
+Underdevelopment and ineffective or inappropriate development program-
+mes increase vulnerability to hazards, and hence lead to more disasters,
+great and small. In turn, emergencies make subsequent development more
+difficult for disaster-affected communities that have lost their livelihood
+assets – and therefore for the institutions that are trying to help them. 
+
+There is widespread agreement on the need for closer integration of relief,
+rehabilitation and development, which implies a longer-term perspective
+behind post-disaster action. In essence, it means that relief and rehabilitation
+should contribute to long-term development and the reduction of vulnera-
+bility, where they can – they should not simply reconstruct the existing risk.
+At one time, the phrase ‘relief–development continuum’ was used to refer to
+this integration. Nowadays, it is usual to speak of ‘developmental relief’, a
+concept first articulated by the Red Cross in the mid-1990s. This expresses a
+broad-based and sustainable approach to post-disaster work (see Box 17.1).
+ActionAid uses the notion of ‘recovery plus’, meaning an intervention
+‘whereby people are in some way better off than before the emergency’.1
+
+There is plenty of scope for academics to debate the merits or drawbacks of
+such terms and concepts. Operationally, it is helpful to look for the similari-
+ties in their basic principles, which can be summed up as follows:
+
+• intervene at the earliest possible stage in the disaster cycle to protect
+
+livelihoods and reduce vulnerability;
+
+• incorporate development principles into disaster relief operations (e.g.
+
+build up local capacities, adopt participatory approaches);
+
+320
+
+Good Practice 4th 8/3/04 2:44 pm Page 321
+
+chapter 17 risk reduction after disaster
+
+Box 17.1
+Nine features of ‘developmental relief’
+
+1. Participation.
+2. Accountability.
+3. Decentralised control.
+4. Demonstrating concern for
+sustaining livelihoods.
+
+7. Building on survivors’ capacities.
+8. Building on local institutions.
+9. Setting sustainable standards for
+
+services.
+
+5. Basing strategies on the reality of
+
+World Disasters Report 1996 (Oxford:
+
+a disaster.
+
+Oxford University Press/IFRC, 1996), pp.
+
+6. Identifying the needs and
+
+50–51.
+
+capacities of diverse disaster
+survivors.
+
+n
+o
+i
+t
+c
+u
+d
+e
+r
+k
+s
+i
+r
+
+r
+e
+t
+s
+a
+s
+i
+d
+r
+e
+t
+f
+a
+
+7
+1
+
+• use disaster relief not just to meet immediate needs but also to restore
+
+livelihood assets and rebuild livelihoods;
+
+• use disaster relief to develop infrastructure that will be of value after the
+
+emergency is over; and
+
+• take the opportunity to induce positive socio-economic change and not
+
+merely a return to the status quo.
+
+This shift puts more emphasis on what is normally called rehabilitation.
+Originally seen as a distinct linking phase between relief and development, it
+is now seen more as a continuing process that may take place alongside both
+disaster relief and development, and ideally is integrated with them.
+
+It is clearly unrealistic to expect ‘normal’ development to resume soon after
+the crisis period. People affected by disasters are left more vulnerable than
+they were before. Relief and development programmes need to adjust to take
+account of this. For example, the Centre for Sustainable Agriculture and
+Appropriate Technology, which works with peasant farmers in the Dominican
+Republic, had to redirect much of its efforts away from long-term rural devel-
+opment and towards short-term agricultural rehabilitation for two years after
+Hurricane Georges in 1998.2
+
+Although interest in monitoring and evaluating relief programmes has grown
+enormously over the past few years, rehabilitation has not been studied as
+
+321
+
+ 
+ 
+ 
+Good Practice 4th 8/3/04 2:44 pm Page 322
+
+disaster risk reduction: mitigation and preparedness
+
+much. Evidence of the long-term impact of rehabilitation is in particularly
+short supply. Where this is investigated, it is usually to demonstrate under-
+achievement, as in the Times of India’s assessment of the Orissa state
+government’s work after the two cyclones in 1999, which found that only 11
+out of 100 planned cyclone shelters had been built, only 392 out of 3,779
+secondary schools had been rebuilt, and government departments had not
+spent funds allocated for rehabilitation.3
+
+Many post-disaster assistance projects come to an end too soon and too
+suddenly. Disaster response organisations talk a lot about ‘exit strategies’,
+but what an external agency describes as a phase-out may be seen by the
+affected community as a cop-out, in which the agency concerned walks away
+rather than seeing the job through to the end. Reflecting on the experiences
+local NGO
+of Afro-Honduran communities after Hurricane Mitch, a 
+complained of a disaster training programme established by a major interna-
+tional NGO that ‘existed here for a few months, but made no provision for
+follow up, provided no ongoing funds for replication to expand the number of
+people trained beyond the initial group, and left no materials or resources for
+implementation of what people had learned’.4
+
+Organisations that are only working in the short to medium terms in a
+disaster-affected area should plan their withdrawal carefully, recognising that
+there will be plenty of work left unfinished, and community expectations may
+not have been fulfilled. Phased withdrawal is preferable to sudden departure.
+There must be a coherent handover to locally-based organisations and
+communities. The process should be planned early, it should be transparent
+and it should be agreed with partners. Relief and rehabilitation agencies bear
+some of the responsibility for ensuring that activities are sustained, and that
+local agents have the capacity and resources to manage this.5
+
+Some relief and rehabilitation initiatives lead to longer-term risk reduction
+projects, especially where the same agencies are involved in both relief and
+development work in the area concerned. It is impossible to say how wide-
+spread this is: again, it is probably not common, but it may have become
+slightly more so since the spate of major natural disasters in the late 1990s.
+
+Relief and post-relief initiatives tend to operate on different scales, with mass
+coverage being more easily achieved in relief operations. In the Red Sea
+Province of Sudan during the 1985–86 famine, a major food aid programme
+supported more than 400,000 people, but a parallel rehabilitation initiative
+including locust control and improvements to village wells could only reach a
+few thousand.6 There is a dilemma for relief agencies in deciding how to
+
+322
+
+Good Practice 4th 8/3/04 2:44 pm Page 323
+
+n
+o
+i
+t
+c
+u
+d
+e
+r
+k
+s
+i
+r
+
+r
+e
+t
+s
+a
+s
+i
+d
+r
+e
+t
+f
+a
+
+7
+1
+
+chapter 17 risk reduction after disaster
+
+balance the need to give relief to as many people as possible with the need to
+provide for future emergencies.
+
+The shortage of funds for rehabilitation is another obstacle. Relief funding
+covers only short-term, often fixed periods (typically six to nine months) and
+so cannot be used to support many longer-lasting activities that would
+improve resilience. This makes no sense logically. It results from the distinc-
+tion between ‘relief’ and ‘development’ in donor budget lines. It leads to
+effort and resources going into activities that are not sustained, and to strict
+limitations on activities deemed too ‘developmental’ by relief donors. UK-
+based international NGOs interviewed in a recent study were frustrated by
+the inflexibility of donor regulations in this regard.7 Funding from develop-
+ment budget lines is not a realistic alternative owing to the length of time
+taken for major funding schemes to reach decisions.
+
+Staff in a development NGO once told the author of problems it had had with a
+humanitarian aid donor after a hurricane in the Caribbean. With the trees grown
+by its community forestry project flattened, it sought to make the best of the
+situation by using the wood to build shelter for people living in shanty towns,
+who were hurricane victims. The donor approached turned the proposal down
+because shelters made of wood were considered too permanent to be emer-
+gency response – but the donor was prepared to pay for bringing in plywood
+boards and plastic sheeting from outside the island for emergency shelter.
+
+17.3 Approaches to risk reduction after disasters
+
+17.3.1 Rebuilding livelihoods
+
+Preservation of livelihoods is vitally important to poor and vulnerable people,
+and vulnerability is closely linked to livelihood security. After a disaster, earning
+a living will soon be a priority for the victims. Take, for example, the village of
+Rampur in Nepal and its farmlands, hit by a landslide in July 1993 that claimed
+the lives of 18 people and more than 70 animals. The disaster occurred during a
+peak period for harvesting, mending terraces and planting, and so from the
+third day after the disaster most villagers divided their time between rehabili-
+tating canals and farmland and managing the chaos in their homes.8 
+
+In the past, relief agencies often failed to appreciate how important this is.
+For example, in the case of drought, interventions are often launched only
+after communities have begun to dispose of essential livelihood assets as the
+last resort in their coping strategy (see Chapter 15). Research by HelpAge
+International found a major discrepancy between the perspectives of older
+
+323
+
+ 
+ 
+ 
+Good Practice 4th 8/3/04 2:44 pm Page 324
+
+disaster risk reduction: mitigation and preparedness
+
+people affected by emergencies and those of aid agencies. The aid agencies
+did not think that earning income would be a concern for older people, but in
+fact it was one of their top priorities.9 Relief efforts also risk undermining
+local markets and incomes by flooding them with goods (e.g. food aid,
+shelter materials) or outside 
+in housing reconstruction
+programmes). Given that many relief/rehabilitation programmes are charac-
+terised by a lack of beneficiary participation in assessment and planning,
+there is a danger that livelihood support activities will be inappropriate. It is
+difficult for outside agencies to identify key livelihood issues in the chaotic
+and stressful conditions after a disaster, but even rapid participatory
+approaches can give insights into the complexity of livelihoods.
+
+labour (e.g. 
+
+However, disaster response programmes nowadays usually recognise the need
+for some livelihood support. Relief/rehabilitation aid commonly includes food-
+or cash-for-work schemes (see below). It is also common to provide seeds and
+tools for agriculture, livestock, household utensils and shelter materials. The
+appropriateness of such goods (e.g. are seeds suitable for local conditions and
+farmers?) is much debated in the literature of humanitarian relief, but the prin-
+ciple of helping livelihoods and not just saving lives is generally accepted. 
+
+Interest in financial assistance measures is growing. Cash-based responses
+to emergencies may have potential in empowering local communities
+economically.10 In the field, micro-finance institutions establish emergency
+loan funds to help their clients replace or repair assets (Chapter 13.2.2, page
+222). The Disaster Mitigation Institute’s livelihood relief fund finances the
+purchase of tools, seeds and raw materials for victims of natural hazards and
+riots in India. The fund has supported 9,500 people since 1998.11
+
+Agencies are also looking more creatively at ways of supporting jobs. After
+the 2000 floods in Mozambique, initiatives by the International Labour
+Organisation (ILO) included rehabilitation of the central market in Chokwe
+and construction of three other markets, in order to help small-scale traders
+resume business and make goods more easily available locally.12 In India,
+NGOs have helped artisans to continue to earn money by such measures as
+organising credit and supplies of raw materials, purchasing their products,
+and creating temporary exhibitions to help market products.13
+
+There are encouraging signs of such livelihood support initiatives making a
+significant difference to poor people in the months after disasters.14 However,
+little is known about their long-term impact. This is a significant gap, since it
+can take a very long time for livelihoods to recover fully, and in many cases
+they never do. 
+
+324
+
+Good Practice 4th 8/3/04 2:44 pm Page 325
+
+n
+o
+i
+t
+c
+u
+d
+e
+r
+k
+s
+i
+r
+
+r
+e
+t
+s
+a
+s
+i
+d
+r
+e
+t
+f
+a
+
+7
+1
+
+chapter 17 risk reduction after disaster
+
+Case Study 17.1
+Rebuilding livelihoods after disaster
+
+After the October 1999 cyclone in the
+Indian state of Orissa, two Indian
+NGOs – Voluntary Health Association
+of India (VHAI) and Orissa Voluntary
+Health Association (OVHA) –
+established a community-based
+disaster management initiative in
+which livelihood support played a
+central part.
+
+The initiative supported a wide range
+of income-generating groups:
+women’s groups involved in dry fish
+processing, mat-weaving and broom-
+making; artisans, including bamboo-
+basket makers, masons, carpenters,
+blacksmiths, makers of fishing nets,
+toy makers and weavers; small
+traders; and women-headed
+households (through poultry and
+animal husbandry). It also supplied
+fertilisers and seeds, renovated
+wells, ponds, latrines and salt pans,
+and built water-harvesting
+structures. Village volunteers were
+trained in disaster preparedness and
+health care.
+
+The type of support varied according
+to the activity. For example,
+
+fishermen were offered equipment
+under a long-term repayment
+scheme. Each newly formed
+cooperative group of five received a
+boat, net and radio worth Rs16,000
+($350) and agreed to pay back half
+of the value within 18 months.
+Members shared the money received
+from selling their catch: one group
+interviewed some months later
+reckoned each member was earning
+about Rs150 ($3) a day on average. 
+
+Two women’s groups were trained in
+literacy and small enterprise
+management, enabling them each to
+secure a loan of Rs20,000 ($440) to
+fund fruit processing: in their first
+three months of operation, each
+enterprise earned a profit of over
+Rs7,000 ($155).
+
+J. Keve and P. K. Mohanty, ‘From Disaster
+
+to Development: How People Can Help
+
+Themselves’, in T. Palakudiyil and M.
+
+Todd (eds), Facing Up To the Storm. How
+
+Local Communities Can Cope with
+
+Disaster: Lessons from Orissa and Gujarat
+
+(New Delhi/London: Christian Aid, 2003),
+
+pp. 53–61.
+
+Establishing sustainable small enterprises or more secure livelihoods usually
+takes much longer than the limited timetables of relief programmes.
+Potentially valuable initiatives may not be followed through. Road repairs by
+humanitarian agencies in Mozambique after the 2000 floods helped the local
+
+325
+
+ 
+ 
+ 
+Good Practice 4th 8/3/04 2:44 pm Page 326
+
+disaster risk reduction: mitigation and preparedness
+
+economy as well as the relief effort, but maintenance stopped when the relief
+phase ended.15
+
+Post-disaster conditions are special, and it is not clear how well conventional
+income-generating activities can work in these circumstances. Moreover, as
+livelihood strategies vary greatly between and within communities, liveli-
+hood-supporting programmes need to be equally varied and based on very
+thorough knowledge of local conditions. Local NGOs and CBOs are best
+placed to undertake such work – and because they are locally based, to
+follow up. Participatory approaches are clearly valuable here for identifying
+needs, setting priorities and targeting beneficiaries. They may lead to unex-
+pected results, such as a community workshop to design a response to
+drought in Ethiopia that came out firmly in support of providing food, seed,
+fertiliser and blankets on credit instead of as hand-outs.16 More project evalu-
+ation and comparative research on such issues would be helpful.
+
+17.3.2 Public works 
+
+Cash- and food-for-work programmes are a standard device in an emergency,
+intended to give temporary help to disaster victims and to provide more
+permanent community facilities for the longer term. By supplying food or
+creating paid jobs they can prevent livelihood collapse. One of the most
+famous examples is the 1972–73 drought in Maharashtra, India, where at one
+point nearly five million labourers were employed on public works by the
+state. The income they received under the programme enabled them to buy
+food in the market, and by doing so helped to prevent famine.17 
+
+Public works activities tend to focus on construction or repair of physical
+structures such as roads and schools. They are often used to improve
+resilience to future shocks by building mitigation infrastructure such as irriga-
+tion channels, dams and other water harvesting structures, embankments,
+flood shelters, and measures to stabilise hillsides (terraces, gabions and
+afforestation). Rehabilitation after the 1998 Bangladesh floods, for example,
+saw a number of cash-for-work projects building flood shelters of raised earth
+on common land such as school grounds and market places.18
+
+Although food- and cash-for-work initiatives can help to protect livelihoods and
+reduce risk, success depends on good management. Threats to success include:
+
+• Lack of clarity about objectives. Most schemes aim to provide income and
+public facilities, but in practice these two aims can be difficult to reconcile.
+The need to create work quickly may lead to projects of limited value,
+
+326
+
+Good Practice 4th 8/3/04 2:44 pm Page 327
+
+n
+o
+i
+t
+c
+u
+d
+e
+r
+k
+s
+i
+r
+
+r
+e
+t
+s
+a
+s
+i
+d
+r
+e
+t
+f
+a
+
+7
+1
+
+chapter 17 risk reduction after disaster
+
+Case Study 17.2
+Cash-for-work and food insecurity
+
+Koisha is a woreda (administrative
+unit) covering 700 square kilometres
+in southern Ethiopia, with a
+population of over 150,000. Since the
+1970s, a number of factors including
+plant and animal disease, shortage of
+adult labour and small farm size, as
+well as low rainfall, have contributed
+to food shortages there. The region
+was badly affected by the 1984
+famine, from which it has not
+recovered. Vulnerable households
+need food relief every year and almost
+all households need it in bad seasons.
+
+The development NGO SOS Sahel
+began working in Koisha in 1991 on an
+agricultural development programme,
+but soon realised that chronic
+seasonal food insecurity made it
+necessary to develop an integrated
+strategy of relief and development.
+This included a cash-for-work project
+to rehabilitate the main road through
+Koisha, an earth road built in the
+1970s that had deteriorated badly.
+Road improvement was expected to
+improve marketing opportunities for
+local farmers.
+
+A review of the initiative two years
+after it had begun identified a
+number of benefits: 
+
+• Nearly 700 households took part
+
+in the first year of the project (a
+
+•
+
+good year agriculturally) and
+over 1,300 in the second year (a
+bad year). Even so, the project
+could not provide for many in
+need. Nor did it make provision
+for those unable to work (an
+estimated 15% of families could
+not participate because they did
+not have the necessary labour).
+The targeting method used,
+which involved community
+participation in selecting
+beneficiaries, was relatively
+effective, but support and
+training are required to make
+such processes sustainable.
+• Most work was carried out during
+the slack period in the farming
+season, and in the mornings,
+allowing the labourers to attend to
+their farms and other activities. 
+
+• Cash-for-work improved food
+
+security: nearly half the money
+earned from the road repair in
+the first year was spent on food,
+and it appeared that the increase
+in money supply did not affect
+grain prices in local markets.
+Most labourers would
+nonetheless have preferred food
+for several reasons, including
+fear of losing out when cash was
+converted into food and the
+likelihood of creditors becoming
+more insistent when cash was
+available.
+
+(continued)
+
+327
+
+ 
+ 
+ 
+Good Practice 4th 8/3/04 2:44 pm Page 328
+
+disaster risk reduction: mitigation and preparedness
+
+Case Study 17.2 (continued)
+
+• Over 40km of road through the
+woreda were rehabilitated,
+leading to increased commercial
+and relief traffic, a fall of 50% in
+transport costs and improved
+access to markets and services.
+
+The review also found that, if such
+employment schemes are to make a
+real difference to local food security,
+they must be longer-term
+investments, managed as far as
+possible by communities and directed
+to public works identified as a priority
+by communities themselves.
+
+Government and non-government
+institutions would have to be
+involved, and shared responsibilities
+negotiated. A range of projects would
+be required, together with a high
+degree of flexibility that would allow
+initiatives to close down during peak
+periods of demand for agricultural
+labour, and to scale up or down
+during good and bad years.
+
+P. Jenden, Cash-for-Work and Food
+
+Insecurity in Koisha, Southern Ethiopia
+
+(London: Humanitarian Practice Network,
+
+Network Paper 11, 1995).
+
+whereas it takes a long time to set up more substantial, complex initiatives
+because of the level of technical, managerial and other inputs required.
+• Poor targeting that fails to support those most in need or creates divisions
+within communities by selecting some individuals and not others. There is
+still some debate about the best methods of selecting beneficiaries.19
+
+• Inadequate planning and consultation, leading to effort being wasted on
+mitigation structures that are not a priority for the community, or will not
+work.
+
+• Lack of commitment by beneficiaries, usually because they are not partic-
+ipants in the project, but are treated merely as employees. This can result
+in poor quality of construction. It also makes it less likely that the commu-
+nity will continue to maintain the newly-built facilities once the food or
+cash payments come to an end.
+
+17.3.3 Changing attitudes: windows of opportunity
+
+Disasters are generally believed to present a ‘window of opportunity’ for
+promoting and implementing risk reduction measures, because the conse-
+quences of failing to act are so strongly implanted in the minds of those who
+
+328
+
+Good Practice 4th 8/3/04 2:44 pm Page 329
+
+n
+o
+i
+t
+c
+u
+d
+e
+r
+k
+s
+i
+r
+
+r
+e
+t
+s
+a
+s
+i
+d
+r
+e
+t
+f
+a
+
+7
+1
+
+chapter 17 risk reduction after disaster
+
+are affected by disasters, the operational agencies that have to respond to
+them, and the public policy-makers who have to manage their effects. This
+reasonable assumption is well-demonstrated by the number and variety of
+mitigation initiatives introduced at all levels after major disasters in partic-
+ular. For example:
+
+• Disasters can be an opportunity to change socio-economic relationships
+
+that affect vulnerability (Case Studies 6.3 and 6.4).
+
+• In Mozambique, ActionAid undertook an HIV/AIDS awareness campaign
+in camps for people displaced by the floods in 2000. The people then
+dispersed to their home areas, with key contact people in each place with
+whom the programme could work. Such coverage would not have been
+possible in normal conditions, where people cannot spare the time to sit
+together for several hours to discuss such issues.20
+
+• In Central America, Hurricane Mitch prompted vigorous debate about
+vulnerability and how to reduce it, leading to the creation of new pressure
+groups such as the Foro Permanente de Ciudadanas in El Salvador that
+sought new laws and policies for disaster prevention.21
+
+• Disasters can stimulate renewed thinking about the problem, which is
+
+leading to shifts in policy in some organisations.22
+
+• In the UK, a series of technological disasters in the 1980s led to the
+creation in 1991 of Disaster Action, a mutual support group and pressure
+group for improved disaster management.23 
+
+Characteristics of the ‘window of opportunity’ are said to include:24
+
+• residents and local officials are thinking about the problem of risk, when
+
+they do not normally do so;
+
+• the disaster may already have forced some changes (for example by
+
+destroying unsafe buildings and infrastructure);
+
+• the community has to make decisions about recovery; and
+• technical and expert advice and resources become available from govern-
+
+ment and non-government sources.
+
+It is hard to tell how long the window will remain open, or what conditions
+must be met to take advantage of the opportunity. Chances of success at
+community level may be improved by:25
+
+• acting quickly before the fear or enthusiasm for change created by the
+
+disaster have lessened;
+
+• basing interventions on familiar technologies and local resources as far as
+
+possible;
+
+329
+
+ 
+ 
+ 
+Good Practice 4th 8/3/04 2:44 pm Page 330
+
+disaster risk reduction: mitigation and preparedness
+
+• concentrating on a small number of important actions, not introducing a
+
+whole portfolio of changes that dissipate efforts;
+
+• focusing on what is achievable – communities already hit by a disaster
+have many urgent problems to attend to, and they will not respond if they
+believe the proposed mitigation measures are beyond their reach; and 
+• encouraging, supporting and involving communities as participants in
+
+change.
+
+The principles of being realistic and setting priorities apply equally at organi-
+sational level, for here too momentum can easily be lost and lessons learned
+are soon forgotten. A further problem among organisations is that disasters
+may be caught up and lost in discussion of other development issues that are
+currently a policy priority for the organisation concerned. This happened in
+Nicaragua after Hurricane Mitch, when evidence of the disaster’s impact was
+used to support arguments over alternative economic development models
+more than to debate measures that addressed risk reduction more directly.26 
+
+The psychological impact of disaster must also be taken into account. Post-
+traumatic stress can be a significant influence on the way survivors, the
+bereaved and responders behave after disasters, yet there is scope for
+discussion about the nature and consequences of such stress.27 Over-
+emphasis on negative responses such as post-traumatic stress disorder and
+unresolved grief can lead to the assumption that people affected by disasters
+are passive victims, whereas in fact disaster-affected communities are the
+main actors in disaster response. The reluctance of some practitioners and
+researchers to take post-traumatic stress disorder seriously may be due in
+part to the fear that it will reinforce stereotypes of passivity. The experience
+of disasters can even stimulate survivors and the bereaved to work vigor-
+ously for better risk reduction efforts in the long term.28
+
+This issue is neglected in relief and rehabilitation work in the South. This may
+be because psychological recovery is assumed to be ‘a community function’,
+not a task for outside agencies.29 Or it may simply be overlooked. 
+
+It has been suggested that severe traumatic events sometimes undermine
+the individual and collective will to respond. It is conceivable that what aid
+agencies perceive as dependency syndrome (passivity brought about by the
+abundance of relief supplies) among disaster victims or lack of community
+spirit in undertaking post-disaster recovery is – at least in part – an expres-
+sion of post-traumatic stress disorder. But this is complex and contested
+territory, and much more investigation is needed.
+
+330
+
+Good Practice 4th 8/3/04 2:44 pm Page 331
+
+n
+o
+i
+t
+c
+u
+d
+e
+r
+k
+s
+i
+r
+
+r
+e
+t
+s
+a
+s
+i
+d
+r
+e
+t
+f
+a
+
+7
+1
+
+chapter 17 risk reduction after disaster
+
+Case Study 17.3
+Community strengthening through disaster recovery
+
+In September 1989, Hurricane Hugo
+struck the small Caribbean island of
+Montserrat. Only 11 people were
+killed, but the physical damage was
+extensive: 98% of homes were
+damaged and 3,000 people (a
+quarter of the population) made
+homeless; 80% of hotel rooms (on
+which Montserrat’s tourist industry
+depended) were destroyed; all
+government buildings and schools
+were damaged, and some destroyed.
+
+Eight months later, an international
+development NGO (Canadian
+University Students Organization –
+CUSO), an intermediary NGO from
+the eastern Caribbean (Caribbean
+Conference of Churches – CCC) and a
+community action group began a
+rebuilding programme in the poor
+village of Streatham, where almost
+all the houses had been severely
+damaged or destroyed. 
+
+The initiative was community-based,
+using local people in a housing
+assistance team that held training
+workshops on rebuilding and
+structural strengthening techniques,
+built 22 homes and repaired the
+severely damaged community
+centre. The long-term developmental
+achievements were more significant.
+The housing team members took
+
+great pride in their work and the
+importance of the Streatham
+Community Action Group was
+enhanced as a result of its
+involvement in the programme. The
+participation of local people in
+volunteer group activities was
+greater than before the disaster. The
+action group’s coordinator observed:
+‘We used to have just one or two
+people show up to help out.
+Sometimes nobody came. Now we
+often get ten coming, sometimes 20
+who show up to pitch in’.
+
+On this basis, CUSO decided to put
+additional funding into local
+development projects: introducing
+new agricultural production practices
+and improving water distribution.
+These had been planned before the
+hurricane, but over a longer time-
+scale; they were now brought
+forward. Two years after Hugo, the
+community group appeared to have
+established an economically-viable
+agricultural production and
+marketing cooperative.
+
+P. R. Berke and T. Beatley, After the
+
+Hurricane: Linking Recovery to
+
+Sustainable Development in the
+
+Caribbean (Baltimore, MD and London:
+
+Johns Hopkins University Press, 1997),
+
+pp. 82–116.
+
+331
+
+ 
+ 
+ 
+Good Practice 4th 8/3/04 2:44 pm Page 332
+
+disaster risk reduction: mitigation and preparedness
+
+17.3.4 Safer housing and locations
+
+Every disaster that leaves many people homeless triggers renewed interest in
+rebuilding homes so that they are ‘safe’ or ‘disaster-resistant’. Shelter relief
+and reconstruction programmes absorb large amounts of international aid,
+yet very little is known about their long-term impact in making vulnerable
+people more secure. It is likely that such programmes have little impact, for
+the following reasons:30
+
+• An emphasis on technically ‘safe’ housing, without certainty that such
+housing is affordable or culturally acceptable. Large-scale programmes
+are particularly likely to be technology-driven and introduce new and
+expensive construction technologies.
+
+• Although reconstruction programmes can provide jobs for local builders,
+in many cases the builders and their traditional skills are displaced by
+imported technologies and labour. Communities do not acquire the skills
+needed to extend, modify and repair the new houses.
+
+• Where reconstruction does create local jobs, it is not clear how sustain-
+able these new livelihood opportunities are once the programmes funded
+by aid agencies come to an end.
+
+• The focus is on houses (physical structures) rather than housing (the
+arena of social and economic life). Homes are not seen as places of work,
+learning, communication and relationship-building. Houses are built
+without regard for how – or if – this will improve social and economic
+status or reduce vulnerability in its widest sense.
+
+• Lack of community participation. Most reconstruction projects claim that
+they are participatory, but there is usually an element of agency propa-
+ganda in this, and the extent and nature of such participation are often
+hotly disputed. 
+
+In general, participatory approaches, based on local skills and appropriate
+technologies, offer the best chance of long-lasting success in post- and pre-
+disaster situations alike.
+
+A common response to the destruction of housing in disasters is to resettle
+their occupants in safer locations as the best way to defend them against
+future hazard events. One of the most striking examples of this came after
+the Maharashtra earthquake of 1993, when the state government moved
+28,000 inhabitants of 52 devastated villages to new sites.31 Governments are
+probably best placed to undertake resettlement because of the major prac-
+tical challenges, but NGOs are sometimes involved. Several NGOs’ responses
+
+332
+
+Good Practice 4th 8/3/04 2:44 pm Page 333
+
+n
+o
+i
+t
+c
+u
+d
+e
+r
+k
+s
+i
+r
+
+r
+e
+t
+s
+a
+s
+i
+d
+r
+e
+t
+f
+a
+
+7
+1
+
+chapter 17 risk reduction after disaster
+
+to Hurricane Mitch in Central America in 1998 included relocation of vulner-
+able communities from the hillsides where their homes had been washed
+away by the torrential rains.32
+
+From a purely hazards point of view, relocation makes sense. Some locations –
+floodplains, unstable hillsides, soils likely to liquefy as a result of seismic
+tremors – are inherently unsafe. It is impossible, or at least extremely costly, to
+make communities that live in such places more secure. After a major disaster,
+such as an earthquake, survivors may be so traumatised and afraid of future
+shocks that they are very keen to move. Provision of land can also improve
+livelihoods where it is used to grow crops or products used in building or craft
+work: there are instances of this in Central America after Mitch.33
+
+However, relocation presents considerable practical challenges, notably the
+cost of purchasing land and providing infrastructure, and the difficulty of
+securing legal title. There are examples of planned relocation projects failing
+because the community could not obtain public land or buy private land.34
+NGOs need to work very closely with local authorities and beneficiaries to
+resolve these problems. More fundamentally, the policy of resettlement over-
+looks the economic and other reasons that make people settle in unsafe
+areas in the first place.35
+
+There is sometimes a degree of compulsion in resettlement; even after disas-
+ters, people are usually reluctant to move. In Mozambique in 2000, govern-
+ment policy was to move communities away from areas at risk of flooding,
+even though their economy was based on the fertile farmland of the flood
+plains. Aid agencies were forbidden to give shelter materials to anyone who
+was not at a government-approved site, and these were often some distance
+from people’s lands. This led to many farmers living in grass shelters on their
+old lands, and only returning to their new houses from time to time.36
+
+17.4 Chapter summary
+
+• Lack of integration between relief, rehabilitation and development
+
+hinders a sustained attack on vulnerability.
+
+• Relief and rehabilitation should contribute to vulnerability reduction –
+they should not simply reconstruct the existing risk. This requires earlier
+intervention, more emphasis on rebuilding livelihoods and encouraging
+positive socio-economic change.
+
+• Rehabilitation has not been studied a great deal, and there is little
+
+evidence of programmes’ long-term impact.
+
+333
+
+ 
+ 
+ 
+Good Practice 4th 8/3/04 2:44 pm Page 334
+
+disaster risk reduction: mitigation and preparedness
+
+• Many post-disaster assistance projects come to an end too soon and too
+suddenly (partly due to restrictions imposed by donors). More careful,
+phased withdrawal is needed.
+
+• Livelihood recovery is a priority for disasters’ victims but influxes of relief
+goods and outside labour can undermine local markets and income-
+earning opportunities. 
+
+• Cash- and food-for-work programmes are a standard device in emergencies,
+to give temporary help to disaster victims and provide more permanent
+community facilities (including mitigation structures) in the longer term.
+These can be very successful, but success depends on good management,
+clarity about objectives, careful targeting and community participation.
+• Disasters can present ‘windows of opportunity’ for promoting risk reduc-
+tion because the consequences of failing to act are so strongly implanted
+in the minds of all involved. But it is hard to tell how long the window will
+remain open, or what conditions must be met to take advantage of the
+opportunity.
+
+• The psychological impact of disasters is much debated but must be taken
+
+into account in post-disaster recovery.
+
+• Many ‘safe housing’ programmes after disasters may have little impact
+because they do not take sufficient account of communities’ needs, pref-
+erences and capacities. Participatory approaches based on local skills
+and appropriate technologies offer the best chances of long-lasting
+success.
+
+• Relocation is often advocated and practised after disasters, but presents
+considerable practical challenges and overlooks the economic and other
+reasons that make people live in unsafe conditions in the first place.
+
+Notes
+
+1 Emergencies Impact Review (London: ActionAid, 2002), pp. 12–13.
+
+2 M. Mowforth, Storm Warnings: Hurricanes Georges and Mitch and the Lessons for
+
+Development (London: Catholic Institute for International Relations, 2001), pp. 32–35.
+
+3 A. Sharma and T. Palakudiyil, ‘The Orissa Supercyclone: Lessons from a Calamity’, in T.
+
+Palakudiyil and M. Todd (eds), Facing Up To the Storm: How Local Communities Can Cope with
+
+Disaster: Lessons from Orissa and Gujarat (New Delhi/London: Christian Aid, 2003), p. 48.
+
+4 Comité de Emergencia Garifuna de Honduras, ‘Lessons and Experiences from the Garifuna
+
+Coast after Mitch’, contribution to the ISDR email conference for Earth Summit 2002, 11 May
+
+2002, http://earthsummit2002.dyndns.org/pages.
+
+5 S. Packwood, ‘Exit Strategy: How To Withdraw Responsibly’, Aid Workers Exchange website,
+
+2002, www.aidworkers.net/exchange/20021127.html. 
+
+6 P. Walker, ‘Famine Relief Amongst Pastoralists in Sudan: A Report of Oxfam’s Experience’,
+
+Disasters, vol. 12, no. 3, 1998, pp. 196–202.
+
+334
+
+Good Practice 4th 8/3/04 2:44 pm Page 335
+
+n
+o
+i
+t
+c
+u
+d
+e
+r
+k
+s
+i
+r
+
+r
+e
+t
+s
+a
+s
+i
+d
+r
+e
+t
+f
+a
+
+7
+1
+
+chapter 17 risk reduction after disaster
+
+7 
+
+J. Twigg et al., NGO Natural Disaster Mitigation and Preparedness Projects: A Study of
+
+International Development and Relief NGOs Based in the UK (London: British Red Cross
+
+Society, 2000), pp. 103–104.
+
+8 N. Dahal, ‘Coping with Climatic Disasters in Isolated Hill Communities of Nepal: The Case of
+
+Rampur Village in Okhaldunga’, in J. Twigg and M. R. Bhatt (eds), Understanding Vulnerability:
+
+South Asian Perspectives (London: IT Publications/Duryog Nivaran), pp. 47–67.
+
+9 Older People in Disasters and Humanitarian Crises: Guidelines for Best Practice (London:
+
+HelpAge International, 2000), www.helpage.org/images/pdfs/bpg.pdf, p.18.
+
+10 D. Peppiatt et al., Cash Transfers in Emergencies: Evaluating Benefits and Assessing Risks,
+
+Network Paper 35 (London: ODI, 2001).
+
+11 Action Learning for Disaster Mitigation: Disaster Mitigation Institute’s Annual Report
+
+(2002–2003) (Ahmedabad: Disaster Mitigation Institute, 2003), pp. 26–30.
+
+12 ‘Support to the Job Recovery Process in the Flood Affected Areas in Chokwe: Progress Report
+
+March 2001’, mimeo (Geneva: ILO InFocus Programme Crisis Response and Reconstruction, 2001).
+
+13 L. Tyabji, Craft in the Aftermath of Disaster: Generating Independence As Well As Incomes
+
+(Ahmedabad: Disaster Mitigation Institute/Duryog Nivaran, 1997); T. Vaux, Disaster and
+
+Vulnerability: SEWA’s Response to the Earthquake in Gujarat (Ahmedabad: Disaster Mitigation
+
+Institute/Self-Employed Women’s Association, 2002), p. 15.
+
+14 For example, Palakudiyil and Todd (eds), Facing Up To the Storm.
+
+15 Independent Evaluation of Expenditure of DEC Mozambique Floods Appeal Funds, March
+
+2000–December 2000 (London: DEC, 2001), www.dec.org.uk, pp. 25–26.
+
+16 P. Howell, ‘Crop Failure in Dalocha, Ethiopia: A Participatory Emergency Response’, Disasters,
+
+vol. 22, no. 1, 1998, pp. 57–75.
+
+17 J. Drèze and A. Sen, Hunger and Public Action (Oxford: Clarendon Press, 1989), pp. 129–33.
+
+18 DEC Bangladesh: 1998 Flood Appeal. An Independent Evaluation (London: DEC, 2000),
+
+www.dec.org.uk, p. 26.
+
+19 For example, K. Sharp, Between Relief and Development: Targeting Food Aid for Disaster
+
+Prevention in Ethiopia (London: Humanitarian Practice Network, Network Paper 27, 1998).
+
+20 P. Howell, ‘Fighting Poverty: The Humanitarian Connection’, unpublished paper (London:
+
+ActionAid, 2000).
+
+21 Mowforth, Storm Warnings, pp. 60–64.
+
+22 C. Benson et al., ‘NGO Initiatives in Risk Reduction: An Overview’, Disasters, vol. 25, no. 3, pp.
+
+199–215.
+
+23 A. Eyre, ‘More than PTSD: Proactive Responses among Disaster Survivors’, The Australasian
+
+Journal of Disaster and Trauma Studies, 1998-2, www.massey.ac.nz/~trauma/issues/1998-
+
+2/eyre.htm.
+
+24 Holistic Disaster Recovery: Ideas for Building Local Sustainability after a Natural Disaster
+
+(Boulder, CO: University of Colorado Natural Hazards Research and Applications Information
+
+Center, 2001), www.colorado.edu/hazards/holistic_recovery, pp. 1–7.
+
+25 R. S. Parker, ‘Single-Family Housing: The Window of Opportunity for Mitigation Following
+
+Natural Disaster’, in A. Kreimer and M. Arnold (eds), Managing Disaster Risk in Emerging
+
+Economies (Washington DC: World Bank, 2000), pp. 80–84.
+
+335
+
+ 
+ 
+ 
+Good Practice 4th 8/3/04 2:44 pm Page 336
+
+disaster risk reduction: mitigation and preparedness
+
+26 J. L. Rocha and I. Christoplos, ‘Disaster Mitigation and Preparedness on the Nicaraguan Post-
+
+Mitch Agenda’, Disasters, vol. 25, no. 3, 2001, pp. 240–250.
+
+27 See, for example, K. J. Tierney, Controversy and Consensus in Disaster Mental Health Research
+
+(Newark, DE: University of Delaware Disaster Research Center (Preliminary Paper 305), 2000),
+
+www.udel.edu/DRC/preliminary/pp305.pdf.
+
+28 Eyre, ‘More than PTSD’.
+
+29 Y. Aysan and I. Davis, Rehabilitation and Reconstruction (Geneva: UNDP/DHA Disaster Manage-
+
+ment Training Programme, 1993), http://undmtp.org/english/rehabilitation/rehabilitation.pdf,
+
+p. 11.
+
+30 J. Twigg, Technology, Post-Disaster Housing Reconstruction and Livelihood Security, T4SL
+
+(Technology for Sustainable Livelihoods) website, 2002,
+
+www.livelihoodtechnology.org/home.asp?id=disIntro1.
+
+31 Community Participation in Postdisaster Reconstruction. Lessons Learned from the
+
+Maharashtra Emergency Earthquake Rehabilitation Program (Washington DC: World Bank
+
+Disaster Management Facility, undated),
+
+www.worldbank.org/html/fpd/dmf/best_practices2.htm.
+
+32 F. Grunewald, V. de Geoffroy and S. Lister, NGO Responses to Hurricane Mitch: Evaluations for
+
+Accountability and Learning (London: Humanitarian Practice Network, Network Paper 34,
+
+2000).
+
+33 Mowforth, Storm Warnings, pp. 70–71.
+
+34 A. Maskrey, Disaster Mitigation: A Community Based Approach (Oxford: Oxfam, 1989), p. 51.
+
+35 Aysan and Davis, Rehabilitation and Reconstruction, pp. 38–39.
+
+36 Independent Evaluation of Expenditure of DEC Mozambique Floods Appeal Funds, pp. 30–31.
+
+336
+
+Good Practice 4th 8/3/04 2:44 pm Page 337
+
+Chapter 18
+
+Monitoring and evaluation
+
+18.1 Introduction
+
+This chapter offers a brief general survey of monitoring and evaluation
+(M&E). Owing to the shortage of good-quality evidence, its conclusions are
+particularly tentative. Work on methods of assessing the benefits of risk
+reduction measures now being planned by the ProVention Consortium should
+improve our understanding of this complex subject. Some of the evidence
+referred to here is not attributed because of agencies’ sensitivity about confi-
+dentiality.
+
+The chapter contains a short account of approaches to monitoring and evalu-
+ation in general, drawing on recent writing on its application in development
+and humanitarian work.1 The focus is on evaluation – as this presents specific
+difficulties where risk reduction is concerned – and field projects. Approaches
+to project monitoring in general are covered in standard manuals and should
+be part of all agencies’ systems and training.
+
+Monitoring and evaluation are important because they:
+
+1. Make operational agencies more accountable to those they seek to help,
+
+as well as those who support them.
+
+2. Demonstrate to donors, policy-makers and practitioners that risk reduc-
+
+3.
+
+tion works, and thereby make a case for greater effort in this area.
+Improve understanding of how risk reduction works in practice – including
+identifying problems and mistakes.
+
+The range of M&E approaches and methods in development and relief has
+grown considerably over the years, as has the level of interest in the subject,
+but mostly since the early 1990s. This is most noticeable in the NGO sector,
+partly driven by criticism and donor pressure but also by the desire to prove
+success and improve performance.
+
+A growing body of work is providing NGOs and other actors with better-
+informed guidance on M&E methods for development and emergencies.
+Several networks have appeared during the past decade to support such
+efforts. They include the Active Learning Network on Accountability and
+Performance in Humanitarian Assistance (ALNAP), whose members come
+
+337
+
+n
+o
+i
+t
+a
+u
+l
+a
+v
+e
+&
+
+g
+n
+i
+r
+o
+t
+i
+n
+o
+m
+
+8
+1
+
+ 
+ 
+Good Practice 4th 8/3/04 2:44 pm Page 338
+
+disaster risk reduction: mitigation and preparedness
+
+from bilateral and multilateral donors, UN agencies and NGOs (see www.
+alnap.org); and the electronic MandE information forum (www.mande.co.uk). 
+
+By comparison, organisations addressing risk reduction have given low
+priority to M&E, even though professionals working in the field recognise a
+weakness here. Most technical manuals ignore it, or mention it in passing
+without giving guidance. There may well be a similar neglect in training
+courses. M&E rarely features in the wider literature on disasters and risk.
+As in development and relief work, very few of the evaluations that are
+carried out are made public. The findings of a recent study of international
+NGOs (described in Case Study 18.1) may be typical of many other types of
+institution. However, some in the UN system are starting to think about 
+how to develop national-level disaster risk reduction baselines, targets and
+indicators.2
+
+18.2 Definitions
+
+It is important to be clear about what is being monitored or evaluated.
+Assessment of a project or programme can focus on quite different aspects:
+
+• Inputs. These are the human, financial and technical resources deployed.
+Their effectiveness, cost-effectiveness and appropriateness can be
+assessed.
+
+• Activities and processes. This covers the performance of tasks and factors
+
+affecting this.
+
+• Outputs. These are the immediate results the project achieves (some-
+
+times called ‘deliverables’).
+
+• Impact (or outcomes). Impact has been described as ‘significant or lasting
+changes in people’s lives, brought about by a given action or series of
+actions’.3
+
+Similarly, the main distinctions between monitoring and evaluation can be
+identified:
+
+• Monitoring usually addresses inputs, activities and outputs. Most moni-
+toring systems are designed meet the ongoing information needs of
+project managers and provide information for donor reports. Evaluations
+focus on outputs and especially impact, and are intended for a wider
+audience within and outside the organisation.
+
+• Monitoring is mainly descriptive. Evaluation is more analytical. Impact
+assessment is mainly analytical, and concerned with longer-term out-
+comes.
+
+338
+
+Good Practice 4th 8/3/04 2:44 pm Page 339
+
+chapter 18 monitoring and evaluation
+
+Case Study 18.1
+Much monitoring, but little evaluation
+
+A recent research project managed
+by the British Red Cross studied 22
+international relief and development
+NGOs based in the UK, analysing 75
+mitigation and preparedness
+projects of different kinds. 
+
+The researchers found that
+assessment or evaluation of impact
+had taken place in only 12 of the 75
+projects, managed by eight of the 22
+NGOs. That is to say, 12 had reports
+and evaluations that had addressed
+the question of impact: their quality
+varied, and with it the extent to which
+impact could be proved, although all
+demonstrated some beneficial
+impact. The projects were of very
+different kinds: drought/food security,
+networking/advocacy, housing,
+training, disaster preparedness and
+post-disaster rehabilitation. 
+
+Other features of the 14 evaluations
+(two projects were evaluated twice)
+were:
+
+• Only one was a long-term, post-
+project evaluation; the rest were
+of ongoing work, sometimes at
+the end of a project phase.
+• Seven were carried out within
+
+two years of the project’s start,
+which is arguably too soon to
+demonstrate much impact; four
+were carried out within four
+
+years; one after five years and
+two after six years.
+• Only two were internal
+
+evaluations; one used internal
+and external evaluators; the
+others were carried out by
+external evaluators.
+Four were donor evaluations; the
+rest were commissioned by the
+NGOs concerned.
+
+•
+
+In another 30 projects, M&E focused
+on activities only. Most projects for
+which evidence was available
+monitored activities. These
+implementation reports were often
+thorough. But eight projects had given
+little thought to indicators. In another
+22 cases, there was simply not
+enough evidence to judge the quality
+of the M&E. The remaining three
+projects of the 75 were very new. 
+
+Although the documentation was
+limited, where mitigation or
+preparedness measures had been
+undertaken, they were generally
+believed by NGO staff to have been
+effective. 
+
+J. Twigg et al., NGO Natural Disaster
+
+Mitigation and Preparedness Projects: A
+
+Study of International Development and
+
+Relief NGOs Based in the UK (London:
+
+British Red Cross Society, 2000), pp.
+
+76–78.
+
+339
+
+n
+o
+i
+t
+a
+u
+l
+a
+v
+e
+&
+
+g
+n
+i
+r
+o
+t
+i
+n
+o
+m
+
+8
+1
+
+ 
+ 
+Good Practice 4th 8/3/04 2:44 pm Page 340
+
+disaster risk reduction: mitigation and preparedness
+
+• Monitoring should be frequent, throughout the project. Evaluation is
+infrequent. It can take place at any point in the project cycle. It is usual to
+carry out evaluations towards the end of a project, or the end of a phase
+in the project if it is a long one. Mid-term evaluations are valuable in iden-
+tifying if projects are heading in the right direction. These are becoming
+more common. Retrospective evaluations some time after the conclusion
+of the project are less usual. 
+
+Other terms used in this context are:
+
+• Review. This comes somewhere between monitoring and evaluation.
+Reviews supplement regular monitoring, taking place less frequently and
+focusing more on activities and outputs than on impact. Reviews usually
+form part of internal management systems, but reviews involving external
+stakeholders are not uncommon.
+
+• Audit. This term is normally associated with financial accountability and
+
+honesty. It is sometimes used more broadly.
+
+These definitions and distinctions are meant to guide; they should not be
+seen as complete explanations or rigid categories.
+
+18.3 Issues in monitoring and evaluation
+
+18.3.1 Planning and operation
+
+M&E systems must be planned carefully, bearing in mind that no two projects
+are identical. The purpose and methods of any monitoring exercise, review or
+evaluation should be clearly defined – and agreed (see the discussion of
+accountability below). Since it is almost never possible to assess everything,
+there must be some focus to the assessment, and its objectives must be real-
+istic in relation to the resources that go into it. Thought should be given to
+such issues as: 
+
+• Indicators (see below) – this is very important.
+• Units of assessment. M&E can take place at individual, household, group,
+community or institutional levels. Even in a large-scale project, it is impor-
+tant to get as close to the grass roots as possible; data can be collated
+subsequently.
+
+• Sampling: sample size and sampling methods. 
+• Geographical coverage. This is conditioned by the coverage of the project
+in terms of geographical area, hazards and risks addressed, and the
+number and types of vulnerable people assisted.
+
+340
+
+Good Practice 4th 8/3/04 2:44 pm Page 341
+
+chapter 18 monitoring and evaluation
+
+• Existing information sources. Most evaluations will draw on external
+sources (e.g. government and other agencies’ data sets and surveys) and
+internal sources (e.g. project documents) as well as field surveys. The low
+standard of information management in many agencies can make it diffi-
+cult to identify and obtain these.
+
+• Who should be involved in collecting, providing and discussing evidence
+(see the section on accountability below). The size, composition and skills
+of evaluation teams are important considerations. 
+
+• Scheduling. Evaluators must be given sufficient time to do their task
+properly. In many cases, they are forced to do it in a hurry because there
+is not enough money to keep them on the job for longer. Reviews and
+evaluations should be scheduled at an appropriate phase in the project’s
+lifetime and at times of the year that best suit the beneficiaries. When in
+the field, researchers must find appropriate times of the week or day for
+talking to beneficiaries.
+
+• Tools and methods to be used. These may comprise formal surveys, struc-
+tured or semi-structured individual and group interviews, group discus-
+sions such as focus groups and workshops, direct observation, other PRA
+methods and case studies. Each method brings its own advantages and
+drawbacks. Project evaluations often use several methods. The methods
+adopted must be appropriate to what is being assessed and the
+resources available. 
+
+• Matching inputs and outputs. The evaluators must have enough time and
+resources to carry out the proposed activities and achieve the outputs
+required. In many cases, agencies’ expectations are unrealistic and the
+time and resources insufficient.
+
+• How the findings will be reported back to all the stakeholders concerned,
+and how they will be acted upon. Both of these actions are often
+neglected.
+
+Terms of reference should reflect the main decisions that have been made on
+these issues. Clear terms of reference are vital. Many problems with evalua-
+tions stem from failure to achieve this clarity and to reach agreement with the
+relevant stakeholders on the contents of the terms of reference. Sufficient
+time should be set aside to achieve this.
+
+Even the best plans can break down when confronted with reality in the field,
+so flexibility is essential. Good planning should allow for this. 
+
+As already noted, many evaluators are not given the time or resources to do
+their work thoroughly. Overcrowded schedules are common. This limits time
+in the field, forcing evaluators to place too much reliance on what may be
+
+341
+
+n
+o
+i
+t
+a
+u
+l
+a
+v
+e
+&
+
+g
+n
+i
+r
+o
+t
+i
+n
+o
+m
+
+8
+1
+
+ 
+ 
+Good Practice 4th 8/3/04 2:44 pm Page 342
+
+disaster risk reduction: mitigation and preparedness
+
+very selective field evidence, on agency documents that may be incomplete
+or unavailable, and on interviews in head offices. In consequence, many eval-
+uations are little better than snapshots of an initiative, coloured by chance
+encounters and personal views. Experienced evaluators can compensate for
+this to some extent by drawing on their skills in identifying and gathering key
+data and their knowledge of similar initiatives elsewhere, but if they rely too
+much on their general knowledge they may miss features that are distinctive
+to the work in question.
+
+However, snapshots can be useful. Small-scale or rapid assessments provide
+valuable insights in some cases, especially when focused on a distinct aspect
+of risk reduction, as in Case Study 18.2.
+
+18.3.2 Accountability and participation
+
+It is best to approach M&E as a mutual learning process for all involved, not
+merely as an information-gathering exercise. The principles of accountability
+to vulnerable people outlined in Chapter 12.2 (page 198) are very important
+here. Communities’ views should be central to evaluation. However, many
+monitoring and evaluation systems are top-down, designed to provide infor-
+mation to headquarters staff and donors.
+
+In a participatory project geared towards community action, it follows that
+the community must be involved in evaluation. This works very well in some
+disaster contexts, for instance in food insecurity and famine early warning,
+where a number of NGOs have established viable systems to alert communi-
+ties and outside agencies to deteriorating food and livelihood security, and to
+generate appropriate responses (see Chapter 15.4, page 274). Sales of
+animals and other assets, changes in market prices, seasonal migration,
+school attendance, crop yields and failure to carry out funeral ceremonies are
+among the diverse indicators identified and applied by local people in such
+initiatives.
+
+The participatory methods described in Chapter 8 can be useful in allowing
+beneficiaries to express their views. Standard PRA exercises can yield
+valuable information. Since it is never possible to involve everyone, careful
+thought must be given to ensuring that those who are consulted are repre-
+sentative of the range of vulnerable groups concerned, paying particular
+attention to the most vulnerable as well as people who may have dropped
+out of the project. Some evaluations pick up the views of similar people who
+were not involved in the project as a kind of ‘control group’.
+
+342
+
+Good Practice 4th 8/3/04 2:44 pm Page 343
+
+chapter 18 monitoring and evaluation
+
+Case Study 18.2
+Reporting on disaster response
+
+On 11–12 November 2002, a cyclone
+warning was issued along the coast
+of the Bay of Bengal. A relatively
+weak cyclone struck, with high winds
+and heavy rain in several places. The
+Orissa State Branch of the Indian
+Red Cross used the event to assess
+the effectiveness of its disaster
+preparedness work.
+
+The initial assessment was based on
+telephone calls from local voluntary
+coordinators and emergency team
+members in eight locations. These
+conversations focused on the
+following:
+
+• When the cyclone warning was
+received, and from which
+source(s).
+
+condition of the sea, rainfall) and
+its impact.
+
+The phone calls provided plenty of
+local detail. Using this, it was
+possible to build up a picture of the
+situation on the ground and actions
+taken almost as they happened, the
+effectiveness of warning and
+response mechanisms and factors
+affecting them, as well as variations
+between the locations. 
+
+The phone call method was not a
+substitute for field surveys, but it did
+help to identify priority issues for
+fuller assessment subsequently.
+
+‘Actions by 8 Red Cross Cyclone Shelter
+
+• Actions taken by local disaster
+
+Communities in Orissa During Cyclone
+
+preparedness teams.
+• Actions taken by villagers.
+• Details of the event (wind speed,
+
+Warning (Nov. 11 to 12, 2002)’, mimeo
+
+(Bhubaneshwar: Orissa State Branch,
+
+Indian Red Cross Society, 2002).
+
+Beneficiary participation in M&E can take different forms. In some projects, it
+may be no more than providing information to review or evaluation teams, but
+this is too limiting. Ideally, beneficiaries should be involved in planning the
+assessment (including selecting indicators), providing information on what was
+and was not achieved, and analysing and verifying the results. Findings should
+always be fed back to communities. The needs of communities in this regard
+may differ from those of outside agencies – especially their senior management
+– and donors, who expect more conventional indicators of success, often
+emphasising the quantitative at the expense of the qualitative.
+
+343
+
+n
+o
+i
+t
+a
+u
+l
+a
+v
+e
+&
+
+g
+n
+i
+r
+o
+t
+i
+n
+o
+m
+
+8
+1
+
+ 
+ 
+Good Practice 4th 8/3/04 2:44 pm Page 344
+
+disaster risk reduction: mitigation and preparedness
+
+Beneficiaries are only one group of stakeholders. Project staff are another.
+NGOs and other local institutions, local and national government officials,
+and where appropriate international agencies and other kinds of organisation
+(e.g. the private sector) should all be consulted if they have been involved in
+the project, are affected by it, or have some influence on its outcome. Note
+that it can be difficult to reconcile the views of diverse stakeholder groups.
+This makes it all the more important to be clear from the start about what
+M&E are designed to look at. Meetings should be held to discuss and explain
+this. Where stakeholders have different priorities and perspectives, this
+should be made explicit at the start to avoid misunderstandings later.
+
+Evaluations are often funded by donors or in some way linked to ensuring
+continued donor support. In such circumstances, the ideal of M&E as mutual
+learning is hard to sustain. Many of those involved will be tempted to over-
+state the positive features of their project and downplay the negative ones.
+They may be defensive about their work, fearing that evaluation teams are
+searching for faults. Community members may only tell evaluators what they
+think they want to hear.
+
+18.3.3 Assessment teams
+
+Participation and accountability are therefore significant factors to bear in
+mind when assessment teams are formed. The balance between internal and
+external assessors is an important consideration. In development projects,
+evaluation may be carried out by external specialists, local staff or local
+people, working separately or in mixed teams. There are no fixed rules: the
+appropriate size and mix are selected to suit the specific project, and there is
+increasing emphasis on gender balance and local participation. 
+
+In contrast, external specialists – mostly men – continue to dominate teams
+evaluating risk reduction and humanitarian aid initiatives, and it is still
+common to have projects evaluated by a single external consultant. Whilst it
+is useful to have the added objectivity of an outsider’s view and the experi-
+ence of a well-travelled evaluator, there is a danger that somebody new to the
+project will not understand all its complexities – this danger is accentuated
+by the limited time usually allocated to evaluators.
+
+The purpose of the evaluation offers some guidance to the balance of the
+evaluation team. If the main purpose is lesson-learning, it makes sense to
+involve more internal staff; if it is accountability, the independence of
+external evaluators becomes more crucial. In practice, however, most evalua-
+tions aim at lesson learning and accountability.
+
+344
+
+Good Practice 4th 8/3/04 2:44 pm Page 345
+
+chapter 18 monitoring and evaluation
+
+There is a lot of discussion in the literature about the appropriate skills mix in
+evaluation teams. Again, there are no fixed rules about this. Some people feel
+that a wide range of relevant technical skills is essential; others maintain that
+experience in evaluation methods is more important. In some kinds of risk
+reduction project, technical expertise may be valuable, be it in science, engi-
+neering/architecture, nutrition, economics or the social sciences. Evaluators
+need to be able to use quantitative and qualitative data and relevant data
+collection methods. Knowledge of local geography, society, cultures and insti-
+tutions is also valuable.
+
+Case Study 18.3, though it concerns a review of a humanitarian operation in
+response to a complex political emergency, highlights several issues with
+wider relevance. 
+
+Case Study 18.3
+Membership and functioning of an evaluation team
+
+In 1996, the IFRC commissioned an
+external review of its programme in
+Tajikistan, where civil war had
+created major humanitarian
+problems. The review was wide-
+ranging. It covered health and
+nutrition programmes (including
+distribution of food and medical
+supplies), logistics, general relief
+programmes and developmental
+relief. The team was also asked to
+consider the broader and longer-
+term issues of disaster prevention
+and the development of the
+Tajikistan Red Crescent Society.
+
+The programme’s institutional
+stakeholders comprised the IFRC
+(Geneva Secretariat and Regional
+Delegation), the Tajikistan Red
+Crescent and national Red Cross
+
+Societies in the North that had
+funded the work. 
+
+The composition of the core review
+team in terms of skills and
+experience reflected the interests of
+the principal donor Red Cross
+societies, the British and American
+Red Cross, who were also influential
+in the choice of individuals. There
+were four core team members: the
+team leader (an independent
+consultant identified and funded by
+the British Red Cross), a health and
+emergency medicine expert (from
+another institution, identified and
+funded by the American Red Cross),
+a public health and nutrition
+specialist (seconded by the American
+Red Cross) and a logistics expert
+(from the IFRC Secretariat).
+
+(continued)
+
+345
+
+n
+o
+i
+t
+a
+u
+l
+a
+v
+e
+&
+
+g
+n
+i
+r
+o
+t
+i
+n
+o
+m
+
+8
+1
+
+ 
+ 
+Good Practice 4th 8/3/04 2:44 pm Page 346
+
+disaster risk reduction: mitigation and preparedness
+
+Case Study 18.3 (continued)
+
+All of the external evaluators were
+experienced, and though none had
+worked in Tajikistan, some had
+worked in other former Soviet states
+or in neighbouring Afghanistan. Two
+senior members of the Tajikistan Red
+Crescent were also seconded to the
+team. Only one of the team members
+was female, despite the review’s
+terms of reference requiring efforts
+to be made to ensure a gender-
+balanced team.
+
+The core team members were briefed
+by their sponsoring Red Cross
+societies and spent three days in
+Geneva being briefed, interviewing
+and studying documents, followed
+by briefings at the Federation’s
+regional delegation in Kazakhstan
+and the headquarters of the
+Tajikistan Red Crescent. There was
+little opportunity to discuss the
+terms of reference and methodology
+before the interviews and document
+searches began, and fieldwork
+methods had to be discussed on the
+way to Tajikistan. Identifying and
+tracking down key documents during
+the preparation stage was difficult
+and time-consuming. On the other
+hand, sectoral responsibilities were
+clear, with the team leader covering
+areas not addressed by the technical
+specialists and the local staff acting
+as general advisers.
+
+The 20-day fieldwork period mostly
+involved interviews with IFRC
+delegates, staff of the Tajikistan Red
+Crescent and key informants in the
+government and international
+agencies. A limited number of
+projects and Red Crescent local
+branches was visited. Beneficiary
+interviewing was limited and
+opportunistic. The schedule
+underestimated the time needed for
+interviews and meetings where
+translation was required.
+
+There were three main issues
+relating to the way the team
+functioned:
+
+1. The two members from Tajikistan
+
+were unable to attend the
+Geneva briefings (largely due to
+cost) and were not involved in
+writing the report. They
+participated as facilitators,
+informants and contributors to
+the review, but not as full
+members of the team.
+2. Some of the team members
+brought their employer’s
+agendas to the work: one was
+piloting a health assessment
+format for the American Red
+Cross; another wanted to carry
+out an internal review of IFRC
+logistics procedures in the
+region.
+
+(continued)
+
+346
+
+Good Practice 4th 8/3/04 2:44 pm Page 347
+
+chapter 18 monitoring and evaluation
+
+Case Study 18.3 (continued)
+
+3. Because of other work priorities,
+
+two of the four core team
+members could not participate
+for the full period of the
+fieldwork.
+
+This left considerable responsibility
+for the final report with the team
+leader and the remaining team
+member, although the team agreed
+on the main conclusions. Each
+member of the team wrote their own
+sectoral sections and the team
+leader drew these together, in the
+process overcoming the problems
+caused by different writing styles,
+the specialists’ tendency to give too
+much technical detail and their
+preoccupation with general sectoral
+issues without grounding them in
+
+the reality of the work being
+reviewed.
+
+The timing of the review meant that
+the IFRC and Tajikistan Red Crescent
+had little time to study the report
+and act on its findings before
+operational and fundraising plans for
+the following year were finalised.
+However, many of the report’s
+recommendations were
+subsequently implemented.
+
+P. Wiles, ‘Review of the International
+
+Federation of Red Cross and Red Crescent
+
+Societies’ Tajikistan Programme’, in A.
+
+Wood, R. Apthorpe and J. Borton (eds),
+
+Evaluating International Humanitarian
+
+Action: Reflections from Practitioners
+
+(London: Zed Books/ALNAP, 2001).
+
+18.3.4 Baseline data
+
+Evaluation is easier if there are already good baseline data to measure progress
+against. Projects should be based on baseline studies, with their objectives and
+indicators of achievement set accordingly. This happens far less than it should
+in practice, leaving many project evaluators struggling to find adequate
+measures of success. However, few baseline studies can anticipate all the
+questions likely to be asked in subsequent reviews and evaluations.
+
+In risk reduction, a risk or vulnerability/capacity analysis should provide
+good baseline data and guide interventions. Application of the same method
+of analysis during or after the project should make it possible to draw mean-
+ingful conclusions about impact. It would be interesting to know if this has
+been done. The apparent failure to do so may be due to the following factors. 
+
+347
+
+n
+o
+i
+t
+a
+u
+l
+a
+v
+e
+&
+
+g
+n
+i
+r
+o
+t
+i
+n
+o
+m
+
+8
+1
+
+ 
+ 
+Good Practice 4th 8/3/04 2:44 pm Page 348
+
+disaster risk reduction: mitigation and preparedness
+
+• Vulnerability and capacity analysis is a new technique for most field
+agencies, and hence has been used mostly in pre-project assessments. To
+date, there has not been much opportunity to apply it as an evaluation tool.
+• Agencies are finding it difficult to analyse data collected in such exercises,
+particularly to weigh up data on the many aspects of vulnerability that
+have been gathered in a variety of ways using different indicators. Until
+project staff acquire greater confidence in the techniques for risk and
+vulnerability analysis, they will be reluctant to use it in evaluations, espe-
+cially where the findings will go before senior staff or funding agencies.
+• Considerable resources are required for comprehensive risk or vulnera-
+bility analysis. Few project budgets would allocate the same level of
+resources for evaluation – evaluations are generally under-resourced
+anyway.
+
+18.3.5 Indicators
+
+Vulnerability and resilience are multi-dimensional. It is difficult for vulnera-
+bility and risk analysis to collect data on every single relevant aspect, and in
+any case collection of unnecessary data should be avoided. Monitoring and
+evaluation systems need to identify and focus on the most useful indicators
+of risk reduction. Remember that the indicators that are easiest to measure
+are not necessarily the most useful as far as analysis is concerned (there is
+more on this below).
+
+Indicators will vary from one project to another, according to the work being
+undertaken and its specific context. But in general they should try to be both
+SMART (specific, measurable, attainable, relevant and time-bound) and
+SPICED (subjective, participatory, interpreted, cross-checked, empowering
+and diverse): see Box 18.1.
+
+This sounds simple on paper, but in practice it can be complicated. Questions
+to be asked regarding the practicality of indicators include:4
+
+• Measurability. Is the indicator measurable? Is it sufficiently sensitive to an
+
+improvement or deterioration in conditions? 
+
+• Ease and cost of collection. How easy is it to obtain the information
+required? How costly will this be? Can the community participate? Are
+some relevant data already collected?
+
+• Credibility and validity. Are the indicators easy to understand, or will
+people end up arguing over what they mean? Do they measure something
+that is important to communities as well as implementing organisations? 
+
+348
+
+Good Practice 4th 8/3/04 2:44 pm Page 349
+
+chapter 18 monitoring and evaluation
+
+Box 18.1
+Indicators: SMART and SPICED
+
+SMART
+
+SPICED
+
+Specific: Indicators should reflect
+those things the project intends to
+change, avoiding measures that are
+largely subject to external
+influences.
+
+Measurable: Indicators must be
+defined precisely so that their
+measurement and interpretation are
+unambiguous. They should give
+objective data, independent of who
+is collecting the data. They should
+be comparable across groups and
+projects, allowing change to be
+compared and aggregated.
+
+Attainable: Indicators should be
+achievable by the project and
+therefore sensitive to the changes
+the project wishes to make.
+
+Relevant: It must be feasible to
+collect data on the chosen
+indicators within a reasonable time
+and at a reasonable cost. Indicators
+should be relevant to the project in
+question.
+
+Time-bound: Indicators should
+describe by when a certain change
+is expected.
+
+Subjective: Informants have a
+special position or experience that
+gives them unique insights which
+may yield a very high return on the
+investigators’ time. In this sense,
+what may be seen by others as
+anecdotal becomes critical data
+because of the source’s value.
+
+Participatory: Indicators should be
+developed together with those best
+placed to assess them. This means
+involving a project’s ultimate
+beneficiaries, but it can also mean
+involving local staff and other
+stakeholders.
+
+Interpreted and communicable:
+Locally defined indicators may not
+mean much to other stakeholders,
+so they often need to be explained.
+
+Cross-checked and compared: The
+validity of assessment needs to be
+cross-checked, by comparing
+different indicators and progress,
+and by using different informants,
+methods and researchers.
+
+Empowering: The process of setting
+and assessing indicators should be 
+
+(continued)
+
+349
+
+n
+o
+i
+t
+a
+u
+l
+a
+v
+e
+&
+
+g
+n
+i
+r
+o
+t
+i
+n
+o
+m
+
+8
+1
+
+ 
+ 
+Good Practice 4th 8/3/04 2:44 pm Page 350
+
+disaster risk reduction: mitigation and preparedness
+
+Box 18.1 (continued)
+
+SMART
+
+SPICED
+
+empowering in itself and allow
+groups and individuals to reflect
+critically on their changing
+situation.
+
+Diverse and aggregated: There
+should be a deliberate effort to
+seek out different indicators from a
+range of groups, especially men
+and women. This information
+needs to be recorded in such a way
+that these differences can be
+assessed over time.
+
+C. Roche, Impact Assessment for Development Agencies: Learning to Value Change
+
+(Oxford: Oxfam/Novib, 1999).
+
+• Balance. Do the selected indicators provide a comprehensive view of the
+
+key issues?
+
+• Potential for influencing change. Will the evidence collected be useful for
+
+communities, implementers and decision-makers?
+
+Even with this guidance in mind, it is rare to find all the evidence one wants.
+Indicators are indicators, they are not necessarily final proof. Indicators do
+not need to record absolute change. It is often enough to identify relative
+change.
+
+Part of the process of collecting baseline information should be to identify
+those indicators that will be most valid for M&E. However, experience as the
+work progresses may highlight other issues and require changes to the
+project. Some indicators may have to be modified or new ones will emerge,
+so it is important to be flexible. Monitoring methods should be designed to
+pick up these issues so that decisions can be made.
+
+350
+
+Good Practice 4th 8/3/04 2:44 pm Page 351
+
+chapter 18 monitoring and evaluation
+
+Where baseline data are lacking, or previously identified indicators are found
+difficult to assess or simply irrelevant, new indicators must be developed. In
+practice, this happens quite often, but the process must be managed care-
+fully to avoid confusing or misleading stakeholders. An open, participatory
+approach is needed here, and the aim should be to achieve the highest
+possible level of consensus.
+
+Be aware of the problem known as the ‘indicator dilemma’. Indicators that
+are chosen to verify impact can only identify expected change, and will only
+reflect those changes that have been made explicit or agreed by the stake-
+holders. But what happens where change is unexpected or was not agreed by
+stakeholders, or where a particular stakeholder group did not reveal an area
+of change that was important to them?
+
+Conventional M&E methods usually focus on positive impacts. Few initiatives
+are without some negative impacts, although in most projects there is a reluc-
+tance to review these. All partners in a project should be open about the impor-
+tance of identifying negative impacts and groups that have been overlooked or
+excluded. This requires a high degree of trust between those involved in running
+the project, which may be difficult to achieve owing to the unequal relationship
+between poor communities and external organisations bringing resources.
+
+Some development agencies have experimented with approaches to
+assessing change that do not use predetermined indicators – instead, poor
+and vulnerable people review the changes that have taken place over a
+particular time and related factors.
+
+Other indicator issues are covered below in the discussion of how to measure
+impact.
+
+18.3.6 Identifying cause and effect
+
+Many factors combine to make people vulnerable and create situations of
+risk. No project intervention can address all of these factors. All projects will
+be influenced by them. This influence must be understood in order to assess
+a project’s achievements. To what extent are particular changes due to the
+project itself or its environment? It can be difficult to make a judgement here,
+particularly when evaluating long-term impact.
+
+Moreover, good risk reduction work should comprise a range of diverse activi-
+ties: organisational, educational, structural, economic. These activities are
+meant to be mutually reinforcing: for example, training in safe building tech-
+
+351
+
+n
+o
+i
+t
+a
+u
+l
+a
+v
+e
+&
+
+g
+n
+i
+r
+o
+t
+i
+n
+o
+m
+
+8
+1
+
+ 
+ 
+Good Practice 4th 8/3/04 2:44 pm Page 352
+
+disaster risk reduction: mitigation and preparedness
+
+niques should be complemented by regulation of land use, and the setting
+and enforcement of building standards, as well as by measures to address
+the economic and social pressures that force poor people to live in flimsy
+housing in hazardous locations. Where risk reduction adopts such a broad
+approach, with numerous interlocking elements, how can one assess the
+results arising from one particular type of intervention against another? It
+may be impossible to identify specific linkages between cause and effect.
+Consequently, how can one set priorities for intervention?
+
+Some development project evaluations have used control groups for compar-
+ative purposes, but there are methodological problems with this approach
+and, in the case of risk reduction, it is arguably unethical to study at-risk
+groups that one has not attempted to protect. Some agencies specifically
+investigate external influences when assessing projects: this at least puts
+evaluation findings into context, even if it often cannot demonstrate partic-
+ular cause and effect linkages.
+
+Cross-checking (or triangulation) of different data sets and sources is helpful in
+isolating particular factors affecting success or failure. In most cases, the
+sources and types of information will vary. In particular, there will be a mixture
+of quantitative and qualitative information. Using different stakeholders or
+assessors to review the same issue can reveal similarities and differences. It is
+very important to consider the views of differently vulnerable groups. Direct
+observation is a useful way of checking if there are discrepancies between what
+people say and what they do (see Case Study 9.1, page 136). 
+
+The problem is reduced wherever evaluators can focus on specifics.
+Assessment of disaster preparedness and response measures tends to be
+simpler, for example. Warning and evacuation procedures can be tested
+through practice drills and by events. It is also relatively easy to isolate each
+element in the preparedness-response system for analysis. Responses to
+early warnings have been studied on many occasions, throwing light on
+community attitudes and the effectiveness of warning systems.5 Such knowl-
+edge has supported the development of sophisticated methods for evalu-
+ating the condition of early-warning systems.6
+
+18.3.7 Outputs or impact?
+
+M&E manuals sometimes speak of ‘process’ and ‘impact’ indicators. Process
+indicators measure the implementation of project activities, and are usually
+quantitative. Impact indicators, which can be quantitative and qualitative,
+
+352
+
+Good Practice 4th 8/3/04 2:44 pm Page 353
+
+chapter 18 monitoring and evaluation
+
+measure changes that occur as the result of project activities. The difference
+between the two types of indicator is important.
+
+Most evaluations of disaster mitigation and preparedness projects focus on
+outputs rather than impact. They tend to be short-term studies, usually
+carried out at the end of a project, when it is too soon to assess its long-term
+consequences. Post-project impact assessments are rare. The lack of critical
+long-term studies is also apparent in the published literature. Published case
+studies of well-regarded initiatives usually appear at a relatively early stage
+in a project’s life or are based on early evidence. The exceptions tend to be
+drought/food security initiatives. These demonstrate that projects’ impact
+can be judged only over a period of some years. They also reveal the extent of
+rethinking and modification that takes place even in successful projects. This
+is not to say that process indicators are not important – they often have to act
+as proxy indicators of impact. They are particularly important where hazards
+are infrequent (e.g. earthquakes, volcanic eruptions). 
+
+M&E is designed to measure change. Indicators are chosen accordingly.
+However, risk reduction presents problems because of what has been called
+its ‘reverse logic’: i.e. the success of an initiative is that something – the
+disaster – does not happen. 
+
+Structural/physical mitigation measures are relatively easy to assess. The
+quantity and quality of, for example, embankments, flood shelters, earth-
+quake-resistant houses and soil and water conservation structures can be
+assessed visually, as can the extent to which alternative technologies or tech-
+niques are adopted. Judgement about the quality of such technical innova-
+tions serves as a proxy indicator for their impact – i.e. their resilience to
+actual hazard events. 
+
+Non-structural measures involving changes in attitude, skills, organisation or
+awareness are much more challenging. Proxy indicators of impact can be
+picked out but they are less certain than those for physical change. For
+example, interviews or discussion groups can reveal how interventions have
+changed a community’s attitudes towards risk, but they do not allow us to
+judge how that community will actually behave when confronted with a
+disaster.
+
+Given these challenges, the need for triangulation of different evidence is
+clear. Good impact evaluations should be wide-ranging in their search for
+relevant signs of increased resilience to risk, as well as objective about the
+strength of the evidence collected (e.g. Case Study 18.4).
+
+353
+
+n
+o
+i
+t
+a
+u
+l
+a
+v
+e
+&
+
+g
+n
+i
+r
+o
+t
+i
+n
+o
+m
+
+8
+1
+
+ 
+ 
+Good Practice 4th 8/3/04 2:44 pm Page 354
+
+disaster risk reduction: mitigation and preparedness
+
+Case Study 18.4 
+Evaluating the impact of rainwater harvesting
+
+Impact on wealth.
+
+4.
+5. Gender issues in control and
+decision- making, relating to
+decisions about whether to
+improve a sorghum garden, when
+to begin planting, division of
+labour and control over disposal
+of the harvest.
+Impact on women’s status (linked
+to point 5).
+
+6.
+
+7. How the creation of new
+
+sorghum gardens affected
+traditional land tenure
+arrangements.
+
+8. Positive and negative impact on
+the environment (water run-off,
+soil erosion, soil fertility).
+
+The PRA methods were effective in
+obtaining respondents’ views and
+stimulating discussion. Much of the
+evidence was qualitative. In some
+cases, quantitative data would have
+been valuable, but were not readily
+available. To obtain relative data on
+the use of increased sorghum yields
+and constraints on sorghum
+production, the evaluators used the
+techniques of ranking and
+proportional piling, in which
+individuals were given piles of
+stones (or donkey dung by the
+lakeshore, where stones were not
+available) and asked to place them
+in separate piles to indicate
+amounts. 
+
+(continued)
+
+In 1997, the NGO ITDG commissioned
+an independent evaluation of a
+rainwater harvesting initiative in
+Kenya that had been launched over
+ten years previously (see Case Study
+15.4, page 267). This built up a
+comprehensive picture from a range of
+indicators and sources.
+
+The evaluation was based on project
+documentation (including local
+partners’ monitoring records),
+interviews with project and partner
+staff, five group discussions with
+beneficiaries (104 people in total),
+individual interviews with 12
+gardeners, a local trader and a chief,
+and some field observation. The
+discussion groups and individual
+interviews were based on PRA
+techniques.
+
+The evaluation covered eight
+aspects:
+
+1.
+
+Impact on average sorghum
+yields, and comparison of yields
+between traditional sorghum
+gardens and those improved by
+rainwater harvesting.
+
+2. How the sorghum harvest was
+
+used, in good and bad years (e.g.
+to purchase food, seeds or
+livestock, to sell for cash, or to
+give to relatives and friends).
+Impact on diet.
+
+3.
+
+354
+
+Good Practice 4th 8/3/04 2:44 pm Page 355
+
+chapter 18 monitoring and evaluation
+
+Case Study 18.4 (continued)
+
+Data on crop yields proved more
+difficult. Local-level monitoring
+systems were of limited use and
+there were widespread variations in
+the type of soil, pest levels and
+rainfall between different sites.
+Moreover, the sorghum growers were
+reluctant to reveal their full yields to
+outsiders. Here it was necessary to
+piece together limited evidence from
+different sources: project records,
+discussions with project staff and
+the assessments of the gardeners
+
+themselves. This was compared with
+data from previous project reviews
+and workshops. The evaluators
+noted that no outsiders making short
+visits can expect to obtain specific
+data on such sensitive subjects, and
+that easily obtained replies might
+well be erroneous.
+
+C. Watson and B. Ndung’u, ‘Rainwater
+
+Harvesting in Turkana: An Evaluation of
+
+Impact and Sustainability’, mimeo
+
+(Nairobi: ITDG, 1997).
+
+Little work has been done on methodology for assessing the impact of risk
+reduction, yet organisations need guidance in this area, especially regarding
+appropriate indicators and means of verification. Agencies are comfortable
+with indicators of output (especially quantitative indicators), but are unsure
+about how to select and apply indicators of impact.
+
+It is therefore common for evaluations to come up with the kinds of achieve-
+ment indicator listed in .1. These are output indicators that itemise
+and quantify the measures taken by a disaster preparedness project. The
+figures appear impressive at first glance, but they cannot demonstrate the
+nature or extent of the project’s effectiveness in improving performance.
+There is no measure of quality here. The training and orientation activities
+may have been very effective in improving knowledge and skills, but one
+cannot tell this merely from the numbers taking part. A considerable number
+of posters and leaflets have been circulated, but there is no indication of the
+impact these have made on people’s perceptions and actions. Grain stores
+and funds have been established, but we cannot judge how well they work.
+The nearest this list comes to impact is in item 7, which refers to the number
+of people’s voluntary teams that are ‘functioning’, without explaining what
+this means or how it was verified.
+
+355
+
+n
+o
+i
+t
+a
+u
+l
+a
+v
+e
+&
+
+g
+n
+i
+r
+o
+t
+i
+n
+o
+m
+
+8
+1
+
+ 
+ 
+Good Practice 4th 8/3/04 2:44 pm Page 356
+
+disaster risk reduction: mitigation and preparedness
+
+.1 Output indicators
+
+Indicator
+
+Target
+
+Achievement
+
+120,000
+
+140,000
+
+118
+
+600
+
+80
+
+118
+
+130
+
+118
+
+–
+
+–
+
+118
+
+118
+
+2
+
+20
+
+20
+
+20
+
+1
+
+20
+
+1
+
+118
+
+598
+
+72
+
+118
+
+130
+
+118
+
+2,367
+
+10,650
+
+118
+
+118
+
+4
+
+20
+
+20
+
+20
+
+1
+
+20
+
+1
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+Number of households oriented 
+in disaster preparedness and 
+management.
+
+Number of volunteers trained in 
+disaster preparedness and 
+management.
+
+Number of [partner agency] staff 
+trained in disaster preparedness and 
+management.
+
+Number of other NGO staff trained in 
+disaster preparedness and 
+management.
+
+Number of government representatives 
+trained in disaster preparedness and 
+management.
+
+Number of flood level indicators 
+established.
+
+Number of people’s voluntary teams 
+functioning.
+
+Number of posters circulated.
+
+Number of leaflets circulated.
+
+10. Number of radio sets distributed.
+
+11.
+
+Number of torches and whistles 
+distributed.
+
+12. Number of email connections installed.
+
+13. Number of grain stores constructed.
+
+14. Number of grain store maintenance 
+
+teams trained.
+
+15. Number of grain store management 
+
+teams trained.
+
+16.
+
+17.
+
+Emergency credit fund established.
+
+Number of grain store management 
+teams trained in credit operation.
+
+18.
+
+Flood insurance fund established.
+
+356
+
+Good Practice 4th 8/3/04 2:44 pm Page 357
+
+chapter 18 monitoring and evaluation
+
+Projects that have clear objectives and targets can develop a hierarchy of
+indicators that link process to impact and thereby make M&E more coherent.
+An example is given in Box 18.2. This is an extract from the Strategic Objective
+and Results Framework of the Asian Urban Disaster Mitigation Program
+(AUDMP), a major regional initiative run by the Asian Disaster Preparedness
+Center (see Box 14.2, page 249). 
+
+Box 18.2
+Linking Process to Impact (1)
+
+Program Goal: Reduced natural
+disaster vulnerability of urban
+populations, infrastructure, lifeline
+facilities and shelter in the Asian
+region.
+
+Program Objective: Establishment of
+sustainable public and private sector
+mechanisms for disaster mitigation
+in the Asian region.
+
+Objective Indicators:
+1. Number of operational plans
+developed with resources
+identified by national
+collaborating institutions to carry
+out mitigation measures after
+demonstration activities end.
+
+2. Number of replications or
+
+adaptations of mitigation skills
+and procedures promoted in
+AUDMP demonstration activities
+by other organizations,
+communities or countries in the
+Asian region.
+
+3. Amount of investment from non-
+
+AUDMP funding sources
+attracted by Program and
+demonstration activities.
+
+4. Number of households
+
+potentially benefiting from
+AUDMP-sponsored activities to
+reduce disaster vulnerability.
+
+Results:
+1.
+
+Improved capacity of municipal
+officials to manage risk, apply
+mitigation skills and
+technologies.
+
+Indicators:
+1.1 Number of new or improved
+assessment methods and
+guidelines/standards used for
+public or private sector
+development.
+
+1.2 Number of emergency
+
+preparedness and response
+plans written or revised to reflect
+improved information on hazards
+and vulnerability.
+
+2. 
+
+Improved access to hazard
+mitigation information and skills
+(techniques, methodologies,
+experience) throughout the
+region.
+
+(continued)
+
+357
+
+n
+o
+i
+t
+a
+u
+l
+a
+v
+e
+&
+
+g
+n
+i
+r
+o
+t
+i
+n
+o
+m
+
+8
+1
+
+ 
+ 
+Good Practice 4th 8/3/04 2:44 pm Page 358
+
+disaster risk reduction: mitigation and preparedness
+
+Box 18.2 (continued)
+
+Indicators: 
+2.1 Percent[age] of public and private
+
+contact network established
+during the Program.
+
+sector professionals with
+AUDMP-initiated disaster
+mitigation training who are using
+the knowledge gained in fields
+impacting disaster management
+or urban development.
+
+2.2 Number of institutions where
+AUDMP-initiated training and
+professional development course
+modules are institutionalized.
+
+3. 
+
+Improved policy environment for
+disaster mitigation
+
+Indicator:
+3.1 Improved policy environment for
+
+disaster mitigation.
+
+‘Strategic Objective and Results
+
+Framework’, undated, Asian Urban
+
+Disaster Mitigation Program website:
+
+2.3 Level of participation in the
+
+www.adpc.ait.ac.th/audmp/ME- 
+
+AUDMP regional information and
+
+framework.html.
+
+The principal indicators here are mostly numerical. However, the framework
+goes down to a more detailed level (an extract is given in Box 18.3). This char-
+acterises the subsidiary evidence required to arrive at the numerical conclu-
+sions, and outlines sources of information and the evidence-gathering
+activities to be undertaken. The emphasis remains quantitative, although the
+subsidiary indicators are more diverse. 
+
+18.3.8 Cost–benefit analysis
+
+In risk reduction work, cost–benefit analysis is usually applied to large-scale
+projects, especially those involving structural mitigation, and this is reflected in
+the standard methodological guidance available.7 The results of cost–benefit
+analyses make a convincing case for risk reduction (see Box 18.4).
+
+Such examples should be treated with caution, however. They are few and far
+between, at least in the published literature, where they are usually
+presented as statements of fact without explanation of how the calculations
+were made. The readiness with which publications on disasters repeat such
+assertions should perhaps be worrying, as it suggests that little substanti-
+ated data is available. 
+
+358
+
+Good Practice 4th 8/3/04 2:44 pm Page 359
+
+chapter 18 monitoring and evaluation
+
+Result 1: Improved capacity of
+municipal officials to manage risk,
+apply mitigation skills and
+technologies.
+
+Indicator 1.1: Number of new or
+improved assessment methods and
+guidelines/standards used for
+public or private sector
+development.
+
+Standard/Target: At least 10 new or
+improved methods or
+guidelines/standards adopted and
+used during the Program period.
+Count ordinances, development
+regulations, building standards,
+vulnerability/risk analyses – and
+means a community or municipality
+has for controlling or regulating
+development, incorporating hazard
+information. Monitor applications
+and enforcement of
+standards/regulations by city
+officials and private professionals.
+Target is based on one new or
+improved assessment method or set
+of guidelines/standards used per
+national demonstration project.
+
+Data Sources: Regularly scheduled
+activity reports; municipal records;
+published regulations.
+
+(continued)
+
+Box 18.3
+Linking Process to Impact (2)
+
+Objective Indicator 2: Number of
+replications or adaptations of
+mitigation skills and procedures
+promoted in AUDMP demonstration
+activities by other organizations,
+communities or countries in the
+Asian region.
+
+Standard/Target: 25 replications or
+adaptations.
+
+Replication should be initiated
+during the Program period even if
+not completed until after the
+Program ends. Replications may be
+of methodologies, sets of
+skills/procedures,
+guidelines/standards, or policies.
+Replications must be attributable to
+the example of the demonstration
+projects.
+
+Data Sources: Activity reports;
+surveys and evaluations; requests
+for guidelines/models received by
+ADPC Management Team and
+national partners.
+
+359
+
+n
+o
+i
+t
+a
+u
+l
+a
+v
+e
+&
+
+g
+n
+i
+r
+o
+t
+i
+n
+o
+m
+
+8
+1
+
+ 
+ 
+Good Practice 4th 8/3/04 2:44 pm Page 360
+
+disaster risk reduction: mitigation and preparedness
+
+Box 18.3 (continued)
+
+Critical Activities: Process
+documentation of demonstration
+activities and methodologies.
+Promotion and public awareness
+efforts with relevant government
+officials, decision-makers,
+community groups and
+professionals (e.g. promotional
+materials, training, city-sharing
+workshops, community meetings,
+electronic networking).
+
+Critical Activities: Preparation of
+hazard, vulnerability maps;
+identification of elements at risk;
+recommendations for mitigation
+strategy; identification of
+implementation options and
+priorities.
+
+Box 18.4
+Economic costs and benefits of risk reduction measures
+
+•
+
+•
+
+The World Bank and US
+Geological Survey calculated that
+economic losses worldwide from
+natural disasters in the 1990s
+could be reduced by $280bn if
+$40bn were invested in
+preparedness, mitigation and
+prevention strategies.8
+In China, $3.15bn invested over
+40 years in measures to control
+floods is estimated to have
+prevented potential losses of
+$12bn.9
+
+• A World Bank team working in La
+Paz, Bolivia, calculated that
+disaster prevention and
+preparedness would cost $2.50
+per capita, whereas annual
+losses from property damage
+
+alone resulting from natural
+disasters were estimated at $8
+per capita.10
+
+•
+
+• According to Oxfam, the value of
+cattle saved on a flood shelter
+covering approximately four
+acres in Bangladesh during the
+1998 floods was Tk4m, against a
+construction cost of only
+Tk700,000.11
+The owner of a sweetshop in the
+Indian city of Indore, interviewed
+in 1994, said he had paid Rs25 to
+put stepping stones around his
+shop so that customers would
+not have to stand in flood water.
+Not to have done so would, he
+believed, have cost him
+Rs100–200 in lost business.12
+
+360
+
+Good Practice 4th 8/3/04 2:44 pm Page 361
+
+chapter 18 monitoring and evaluation
+
+Box 18.5
+Economic costs of disasters
+
+The economic costs of disasters are
+usually divided into three kinds:
+direct, indirect and secondary.
+
+buy materials or services from
+elsewhere, medical expenses,
+lost productivity). 
+
+•
+
+• Direct costs relate to the capital
+cost of assets (e.g. buildings and
+other physical infrastructure, raw
+materials, crops) destroyed or
+damaged. 
+Indirect costs are the damage to
+the flow of goods and services
+(e.g. lower output from factories
+destroyed or damaged, loss of
+sales income due to damaged
+infrastructure, costs of having to
+
+• Secondary effects are the short-
+and long-term impacts on overall
+economic performance (e.g.
+deterioration in external trade
+and government budget
+balances, reallocation of planned
+government spending, increased
+indebtedness, changes in income
+distribution patterns, changes in
+the scale and incidence of
+poverty).
+
+At local level, and in initiatives involving non-structural mitigation measures,
+cost–benefit analysis has not been greatly used. This is partly because the
+principal local actors, NGOs and CBOs, are unwilling to give too much weight
+to purely quantitative features of complex socio-economic processes, partly
+because of their lack of familiarity with the methods, and partly because of
+the difficulty of carrying out this kind of analysis.
+
+There are three significant problems with cost–benefit analysis of risk reduc-
+tion in addition to the wider difficulty of assessing impact outlined above. 
+
+First, it is extremely difficult to assess the impact or cost of disasters,
+spatially or temporally. Data on disasters’ human and economic impact have
+improved over the years, but remain unreliable. Estimates of the human costs
+(deaths and injuries) are often guesses, especially in developing countries,
+where most disasters take place. Estimates of disasters’ economic impact
+generally focus on direct costs. It is much harder to assess indirect and
+secondary costs (see Box 18.5 for an explanation of these terms). In devel-
+oping countries, the problem is even harder. For example, assessment of
+direct losses becomes much more difficult if a large proportion of losses are
+
+361
+
+n
+o
+i
+t
+a
+u
+l
+a
+v
+e
+&
+
+g
+n
+i
+r
+o
+t
+i
+n
+o
+m
+
+8
+1
+
+ 
+ 
+Good Practice 4th 8/3/04 2:44 pm Page 362
+
+disaster risk reduction: mitigation and preparedness
+
+uninsured; and it is very difficult to calculate a secondary cost such as loss of
+income when a significant proportion of economic activity takes place in the
+informal sector.
+
+The second issue relates to the first. Methodologies for economic impact
+assessment in disasters have several weaknesses.13 They include:
+
+• lack of standardisation (e.g. variations in the scope of assessments,
+
+reporting formats and methods of valuing damage);
+
+• lack of training for assessors;
+• limitations in coverage (e.g. assessors focusing on their institutions’
+areas of interest; overlooking damage that is not eligible for government
+assistance; political pressures to over- or under-report damage); and
+• pressure to carry out assessments soon after a disaster, and quickly (while
+this is important in addressing relief needs, there is often no follow-up and
+hence no assessment of disasters’ longer-term consequences).
+
+Finally, the main criticism of economic cost–benefit analysis is that it values
+costs and benefits in purely monetary terms. Yet it is difficult to put a price
+on the environmental, social, political and psychological costs of disasters
+and the benefits of mitigation and preparedness. A focus on economic
+costs and benefits addresses only one aspect of people’s vulnerability to
+disasters.
+
+18.3.9 Using M&E findings
+
+M&E is worthless unless it leads to improvements in agencies’ work to reduce
+risk. M&E reports are potentially valuable documents. They allow for practical
+lessons to be learned within and across programmes and regions. They
+provide a basis for discussion about better practice and policy change. They
+also contribute to institutional memory, which is important in organisations
+such as NGOs that suffer from rapid staff turnover.
+
+Agencies of all kinds are poor at absorbing the particular and general lessons
+that come from evaluations. Often, the review or evaluation report is filed, to
+be acted upon at another time but then forgotten amidst the pressure of
+work. Many organisations have poor information storage and retrieval
+systems, making it very difficult to find documents.
+
+Few staff have the time to reflect upon the lessons learned from individual
+projects, and fewer still are able to consider what can be learnt from several
+
+362
+
+Good Practice 4th 8/3/04 2:44 pm Page 363
+
+chapter 18 monitoring and evaluation
+
+.2 Characteristics of cost–benefit and vulnerability
+analysis
+
+Cost–benefit analysis
+
+Vulnerability analysis
+
+Specific hazard(s) whose frequency and
+severity can be calculated with a 
+relatively high degree of certainty.
+
+Vulnerability context – including hazards
+and socio-economic factors.
+
+Structural projects.
+
+Mix of structural and non-structural
+measures.
+
+Large-scale projects.
+
+Community-level, small-scale projects.
+
+Where data sets are sufficient, or
+resources exist to collect sufficient data.
+
+Limited formal data needed; data can be
+collected locally.
+
+Developed countries, developed or urban
+regions within developing countries.
+
+Developing countries, poor and remote
+communities.
+
+Macro-level analysis.
+
+Micro-level analysis.
+
+Quantitative data.
+
+Qualitative data.
+
+Specialists required for research and
+analysis.
+
+Skills for research and analysis easily
+acquired and applied by non-specialists.
+
+Externally driven, or top-down.
+
+Participatory.
+
+projects. In NGOs in particular, overwork and pressures of work constitute a
+‘systemic weakness’ preventing thinking and innovation.14
+
+Participatory M&E creates a sense of ‘ownership’ of the final product among
+the stakeholders involved. This greatly increases the likelihood that lessons
+will be noted and acted upon.
+
+Much more transparency is needed in M&E. In particular, the failure to share and
+publish evaluations hinders the acquisition of knowledge about successes and
+failures. This culture of concealment also runs counter to the principle of
+accountability that many agencies claim to follow. There is a particular reluc-
+tance to document mistakes and share lessons learned from them.
+
+363
+
+n
+o
+i
+t
+a
+u
+l
+a
+v
+e
+&
+
+g
+n
+i
+r
+o
+t
+i
+n
+o
+m
+
+8
+1
+
+ 
+ 
+Good Practice 4th 8/3/04 2:44 pm Page 364
+
+disaster risk reduction: mitigation and preparedness
+
+18.4 Chapter summary
+
+• M&E is important in making agencies accountable, demonstrating that
+
+risk reduction works and improving understanding of how it works.
+
+• Organisations involved in risk reduction have given low priority to M&E
+and it is poorly covered in technical manuals and other literature. This
+makes it difficult to offer a view of ‘good practice’ in this area.
+
+• M&E systems must be planned carefully, bearing in mind that no two
+projects are identical. The purpose and methods of any evaluation
+exercise should be clearly defined and agreed, there should be some
+focus to the assessment, and its objectives must be realistic.
+
+• Many evaluators are not given the time or resources to do their work thor-
+oughly. However, snapshots of initiatives, and small-scale or rapid assess-
+ments, can be useful.
+
+• M&E should be approached as a mutual learning process for all involved.
+Beneficiary communities should be involved in evaluation, remembering
+that they are not the only project stakeholders.
+
+• The balance between external and internal assessors, between local
+people and outsiders, between different technical specialists and general-
+ists and between women and men are important considerations when
+assessment teams are formed.
+
+• Identifying linkages between cause and effect is a particular challenge,
+especially since good risk reduction work should comprise a range of
+diverse but mutually reinforcing activities. Triangulation of different data
+sets and sources is important.
+
+• Most evaluations of mitigation and preparedness projects focus on
+outputs rather than impact. There are few long-term impact assessments.
+• Choice of indicators presents a number of problems, including identifica-
+tion of suitable proxy indicators of impact and the need to draw on very
+diverse data sets (quantitative and qualitative).
+
+• Cost–benefit analysis is generally held to make a convincing case for risk
+reduction, but it is very difficult to carry out – particularly in pricing the envi-
+ronmental, social, political and psychological costs and benefits. A focus on
+purely economic aspects addresses only one dimension of vulnerability.
+• M&E findings must be used to improve agencies’ performance, but organ-
+isations of all kinds are poor at absorbing these lessons. Much more
+transparency is needed in M&E: the failure to share and publish evalua-
+tions hinders the acquisition of knowledge about success and failure.
+
+364
+
+Good Practice 4th 8/3/04 2:44 pm Page 365
+
+chapter 18 monitoring and evaluation
+
+Notes
+
+1 C. Roche, Impact Assessment for Development Agencies: Learning to Value Change (Oxford:
+
+Oxfam/Novib, 1999); A. Hallam, Evaluating Humanitarian Assistance Programmes in Complex
+
+Emergencies (London: Humanitarian Practice Network, Good Practice Review 7, 1998); A Wood,
+
+R. Apthorpe and J. Borton (eds), Evaluating International Humanitarian Action: Reflections from
+
+Practitioners (London: Zed Books/ALNAP, 2001).
+
+2 Living with Risk: A Global View of Disaster Reduction Initiatives (Geneva: UN International
+
+Strategy for Disaster Reduction, 2002), pp. 330–34.
+
+3 Roche, Impact Assessment for Development Agencies, p. 21.
+
+4 L. Noson, ‘Hazard Mapping and Risk Assessment’, in ADPC (ed.), Proceedings, Regional
+
+Workshop on Best Practices in Disaster Mitigation, 24–26 September 2002, Bali, Indonesia
+
+(Bangkok: Asian Disaster Preparedness Center, 2002), pp. 83–84.
+
+5 J. Twigg, ‘The Human Factor in Early Warnings: Risk Perception and Appropriate
+
+Communications’, in J. Zschau and A. N. Küppers (eds), Early Warning Systems for Natural
+
+Disaster Reduction (Heidelberg: Springer Verlag, 2003), pp. 19–26.
+
+6 See for example D. Parker, ‘Criteria for Evaluating the Condition of a Tropical Cyclone Warning
+
+System’, Disasters, vol. 23, no. 3, 1999, pp. 193–216.
+
+7 See for example Primer on Natural Hazard Management in Integrated Regional Development
+
+Planning (Washington DC: OAS, 1991), pp. 2/16–2/29,
+
+www.oas.org/usde/publications/Unit/oea66e/begin.htm; Mitigating Natural Disasters:
+
+Phenomena, Effects and Options – A Manual for Policy Makers and Planners (New York: Office
+
+of the United Nations Disaster Relief Coordinator, 1991), pp. 137–40.
+
+8 M. Dilley and B. N. Heyman, ‘ENSO and Disaster: Droughts, Floods and El Niño/Southern
+
+Oscillation Warm Events’, Disasters, vol. 19, no. 3, 1995, pp. 181–93.
+
+9 Y. Zheng, ‘China: Disaster Reduction and Social Sustainable Development’, Stop Disasters, vol.
+
+29, no. 3, 1996, pp. 6–7.
+
+10 A. Kreimer and M. Preece, ‘Case study: La Paz Municipal Development Project’, in A. Kreimer
+
+and M. Munasinghe (eds), Managing Natural Disasters and the Environment (Washington DC:
+
+The World Bank, 1991), p. 33.
+
+11 DEC Bangladesh: 1998 Flood Appeal. An Independent Evaluation (London: DEC, 2000),
+
+www.dec.org.uk, p. 20.
+
+12 C. Stephens, R. Patnaik and S. Lewin, ‘This Is My Beautiful Home’: Risk Perceptions towards
+
+Flooding and Environment in Low-Income Urban Communities: A Case Study in Indore, India
+
+(London: London School of Hygiene and Tropical Medicine, 1995), p. 27.
+
+13 Assessment of the Economic Impact of Natural and Man-made Disasters. Expert Consultation
+
+on Methodologies (Brussels: Centre for Research on the Epidemiology of Disasters, 1997).
+
+14 J. Twigg and D. Steiner, ‘Mainstreaming Disaster Mitigation: Challenges to Organisational
+
+Learning in NGOs’, Development in Practice, vol. 12, nos. 3 and 4, 2002, p. 475.
+
+365
+
+n
+o
+i
+t
+a
+u
+l
+a
+v
+e
+&
+
+g
+n
+i
+r
+o
+t
+i
+n
+o
+m
+
+8
+1
+
+ 
+ 
+
